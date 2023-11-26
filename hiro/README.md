@@ -1463,11 +1463,10 @@ Such practices are known from Mesopotamia, where the liver of sacrificial sheep 
 
 
 
+### 2.  Malia Stone Block (c.1625 BCE)
 
 
-
-2.  Malia Stone Block (c.1625BCE)
-
+<a href="../img/malia-1.jpg"><img src="../img/malia-1.jpg" style="width:100%;max-width:500px"></a>
 
 This is a stone libation table discovered in 1937. It has a cavity on top to receive offerings and is inscribed with 16 symbols written vertically. They seem to be a mixture of pictograms from the Phaistos Disk, Linear A symbols and symbols from Indus script. From the bottom upwards, they can be read as follows: 
 
@@ -1476,7 +1475,7 @@ SA/ NI- JA / IKUYO -TI-DWA-NA-TA-E-RO-ZO-PI-TE-RO-NA-I-TA-SI
 If we number these symbols from 1 to 16, the following are recognizable as 
 pictograms from the Phaistos Disk, as read by Gareth Owens: 1 (NI, 36), 4 (DWA,25), 5 and 13 (NA, 23), 6 and15 (TA,14), 9 (ZE, 16), 14 (I, 02). Number 1 can also be read as SA, in the Linear A style. With respect to Number 2, this can be read as JA from Linear A, but as I-KU-YO, if construed as an Indus script symbol. For the rest, the sound values have been approximated from Linear A symbols.
 
- If Symbol number 1 is read as SA or NI
+If Symbol number 1 is read as SA or NI
 
 (From bottom upwards)
 
@@ -1494,8 +1493,8 @@ SI-TA-I-NA-RO-TE   PI-ZO-RO-E-TA-NA   DWA-TI-IKUYO-NI
 慕い習いて/ 遺体になったものの、ピンゾロ得た様で、幸運だな。天国に行くように。
 Dearest, you may now be a lifeless body, but you are a lucky one, as if you just got double ones, throwing dice. Do go to Heaven. 
 
- The cavity on top of the stone table appears as if designed to catch thrown dice. In this regard, dice have been discovered from ruins of the Indus Valley civilization.
- The inscription was probably intended for children and the pictograms devised for youngsters, in a similar way to the Phaistos Disk and the Arkalochori Axe.
+The cavity on top of the stone table appears as if designed to catch thrown dice. In this regard, dice have been discovered from ruins of the Indus Valley civilization.
+The inscription was probably intended for children and the pictograms devised for youngsters, in a similar way to the Phaistos Disk and the Arkalochori Axe.
 
 If Symbol number 1 is read as NI-SAN
 
@@ -1512,8 +1511,9 @@ SI-TA-I-NA-RO-TE   PI-ZO-RO-E-TA-NA   DWA-TI-IKUYO-NI-SAN
 慕い習いて/ 遺体になられたが、ピンゾロ得た様で、幸運だな。天国に行くよ、兄さん。
 Dear brother, that I love and learned from. Now a lifeless body, but you are lucky, as if you just got double ones in throwing dice, as you will surely go to Heaven. 
 
- Since (2) presents a more convincing interpretation, symbol number 1 must have been written ambiguously, to allow for reading as NI/ SA, as well as NI-SAN (brother).
+Since (2) presents a more convincing interpretation, symbol number 1 must have been written ambiguously, to allow for reading as NI/ SA, as well as NI-SAN (brother).
 
+Loren adds: Double ones (snake eyes) might be the first position of a signal message (Ida the mother goddess ~ heaven).  One of the "dice" could have been a 2-sided coin for choosing only queen or king with six secondary options, like the 2-columns on the Arkalochori Axe.  Getting a 2 and might be associated with the king. The man's role is depicted as preparing the animal sacrifices and may have been associated with reincarnation (waiting to go to heaven).  Perhaps when meat was given as a tithe (tax to the temple), the giver received a reward if they rolled double ones.
 
 
 VI.  Conclusion

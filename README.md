@@ -1,4 +1,4 @@
-# Linear A+ &ndash; Global Mirror Network &ndash; Model Building
+# Linear A &ndash; Global Mirror Network &ndash; Model Building
 
 Understanding early communication using mirrors, drums and fire signals for trade route logistics is an important step toward connecting the threads of world history - specifically megalythic structures, hilltop temples, mound villages and straight roads with cleared forest canopies for line-of-sight communication.
 
@@ -7,6 +7,8 @@ Our current focus is on expanding the LinearA translations of [Hiro Kuroda](hiro
 Our observation is that Linear A was (1) designed to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its roots in Indus Valley script to its offspring Japanese  hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where extended families bound by marriages used long distance mirror, fire and drum communication to "punt light" between islands, where ships with white hulls were santioned by the Minoan trade network and traveled without fear of tarrifs or worse.
 
 &ndash; Loren Heyns (drawing upon the [Minoan&nbsp;Mirror&nbsp;Web](https://www.minoanatlantis.com/Minoan_Mirror_Web.php))
+
+The Linear A repo is part of the [DreamStudio Seasons](http://dreamstudio.com/seasons/) datascape.
 
 ## Content
 
@@ -24,7 +26,7 @@ The third image above is a dual-mirror for sending Morse Code which was inspired
 
 The box-mirror above was found in Israel in 2023 in the tomb of a woman traveling with Alexander's generals.
 
-## Get Involved!
+## Make Edits and Additions
 
 Contribute updates and images, add your comments as GitHub issues, and reuse our pages as submodules in your projects and models.
 
