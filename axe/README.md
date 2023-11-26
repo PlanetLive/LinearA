@@ -11,7 +11,7 @@ The young warriors of Crete learned a dance which echoed the turns of the laberi
 
 <h2>Her high notes (Column 1) and His lower notes (Column 2) - Mirror Beats</h2>
 
-Minoan priests were often married couples. Together, they practiced an art of signaling that supported trade routes across continents.
+Minoan priests were often married couples. Together, they practiced the art of signaling with mirrors and drums to support trade routes across continents.
 
 The Minoan signaling system seems to have used 1 to 3 main beats to invoke character in columns 1, 2 and 3 on the Arkalochori Axe mirror cipher.  The first column was likely for sounds associated to heaven and the feminine (hill temples), the second column seems to be associated to earth and the masculine, the third column could have been invoked by 3 strong beats for special messages, like the 3 loud beats of the dreaded 13 Doom Beat that would have struck fear in the hearts of enemies.
 
@@ -24,7 +24,15 @@ Doom 13 Beat - 3 second beats (10) followed by 3 dots = 13
 Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
 Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
 
-Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.  DA also appears to be the start of 4 musical scales, each containing 6 vowel sounds. This DA sound starts at 2, 8, 15 (with the scale continuing clockwise as a spiral), and lastly 21 (which reuses DA in the 2 position).
+**Lattice for Mirror Messages** 
+
+Column 1 (Priestess): Higher heavenly scale 1 to 6. (Maybe 9 consonants)
+Column 2 (Priest): Early scale from 7 to 12 (Maybe 6 )
+Column 3: Numbers 13, 14 and 15
+
+Let's assume there is one beat for the first column, two for the second, and three for the third. Each character's verticle position in the column can be conveyed by values 1 to 6. So a roll of two ones would be Heaven (as Hiro translated on the [Malia Stone](../hiro/#malia)).
+
+Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.  DA also appears to be the start of 4 musical scales, each containing 6 vowel sounds. This DA sound starts at 2, 8, 15 (with the scale continuing clockwise as a spiral), and lastly 21 (which reuses DA in the 2 position).<br>
 
 <div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
 <a href="/LinearA/img/axe-closeup.png"><img src="/LinearA/img/axe-closeup.png" style="width:100%;max-width:200px"></a>
@@ -36,20 +44,20 @@ Mount Ida, the large central mountain on Crete, was covered with trees, hence th
 <table>
 <tr>
 <td style="padding-right: 15px; border-right: 1px solid #ccc;">
-I &nbsp; &nbsp; &nbsp; ▄▄ &nbsp; Mother/Heaven = 1<br><br>
-DA &nbsp;&nbsp; ▄▄ &nbsp; ▄ &nbsp; Branch = 2<br><br>
-KA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Queen = 3<br><br><!-- MA -->
+I &nbsp; &nbsp; &nbsp; ▄▄ &nbsp; Mother/Heaven = 1<!-- and 43--><br><br>
+DA &nbsp;&nbsp; ▄▄ &nbsp; ▄ &nbsp; Branch = 2<!-- and 21--><br><br>
+MA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Queen = 3<br><br><!-- KA -->
 NA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄&nbsp; People = 4<br><br>
 PU &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄  &nbsp; Root = 5<!--(matches symbol of dash and 3-dots)--><br><br>
 ZE &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄ ▄&nbsp; Dance = 6<br><br>
 </td>
 
 <td style="padding-right: 25px; padding-left: 10px;">
-Y &nbsp;&nbsp; ▄▄ ▄▄ &nbsp; Father/Earth = 7<br><br><!-- I -->
-SA &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; Limb/Blood = 8<br><br>
-VA &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; Chorus = 9<br><br><!-- NA -->
+I &nbsp;&nbsp; ▄▄ ▄▄ &nbsp; Father/Earth = 7<br><br><!-- I -->
+SA &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; Limb/Blood = 8<!-- and 33--><br><br>
+NA &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; Chorus = 9<br><br>
 TA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; King = 10<!--commandments--><br><br>
-MA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; Ares = 11<br><br>
+MA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; Ares = 11<!-- and 27--><br><br>
 TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
 </td>
 </tr>
@@ -58,9 +66,9 @@ TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
 
 <div style="float:left">
 <b>3=Numbers 13 and up</b><br><br>
-CO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ = 13<br><br><!-- KO -->
+KO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ = 13<br><br><!-- KO -->
 RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ = 14<br><br>
-BA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- DA -->
+DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- Or BA -->
 </div>
 
 <div style="clear:both"></div>
@@ -70,7 +78,7 @@ BA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- DA -->
 <a href="/LinearA/img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
 </div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
 
-The two verticle ellipses (...) probably indicate where custom chorus inserts occur to add time-sensitive details to the circulating messages. The second verticle ellipses has 2 lines at the top, which probably indicating a male (warrior) chorus. Even today, ellipses continue to mean "more details here"...
+The two verticle ellipses (...) may indicate where custom chorus inserts occur to add time-sensitive details to the circulating messages. The second verticle ellipses has 2 lines at the top, which probably indicating a male (warrior) chorus. Even today, ellipses continue to mean "more details here"...
 
 The faces at the top of the first two columns may have been painted white and brown to indicate the female and male focus (musical scale pitch) of the first two columns. Since the faces are androgenous, the icons allowed for men to perform in the roles of the earth leaders and the worker/warrier leaders in the second column could be performed by women. The first column face may still contain a slight white pigment on the left 2/3.
 
@@ -115,69 +123,58 @@ https://en.wikipedia.org/wiki/Pythia
 Greece would later coordinate with Rome using a 5 mirror system with a 5x5 cipher to convey the 24 letters of Latin.
 </div>
 
-**Lattice for Mirror Messages** 
 
-Column 1 (Priestess): Consonants (in first and second column)
-Column 2 (Priest): Vowels
-Column 3: Numbers 13, 14 and 15
-
-A clue that this is a transmission code is the dots at the top of each column. Let's assume there is one beat for the first column, two for the secon and three for the third. Each character's verticle position in the column can be conveyed by values 1 to 6. So a roll of two ones would be Heaven (as Hiro translated on the [Malia Stone](../hiro/#malia)).
-
-In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W) and 5 vowels (A, I, U, E, O). Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
-
-On the axe we find three columns.  Let's assume
-
-The consonants come first and occupy two columns.  
-
-Six characters in the second column could be vowels. Number 1, 2, 3 across the top, then proceed in the third column with 
-
-
-
-
-**Consonants**
-
-Up to 15 consonant sounds could be represented by all the characters. 
-
-The consonant sounds reside before vowels and start with a dash.
-
-The order of the consonants and vowels below comes from modern Japanese. The actual order and sounds may differ.
-
-The R and S position were switched.
-This allows R for Ra (the first pharaoh) to reside 2nd from the top after god Ka.
-S is moved prior to the W which is 8th and akin to infinity (∞) which is often formed by a snake.
 
 
 <a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px"></a>
 
 <div style="clear:both"></div>
-On the left below we see dual mirror-axes (labrys) on poles akin to bull horns. The birds may signify their use in delivering messages across distances.
+Note the similaries with the third column and the Hagia Triada Sarcophagus. On the right side of there are 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
 
-Note the similaries with the third column and the right side of the Hagia Triada Sarcophagus. 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
-
+On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds signify the use of the mirrors in delivering messages across great distances.
 
 <a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
 Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus)
 
-**Consonents**
 
-To create 15 unique consonent starting sounds, Loren has added 5 possible changes to Hiro's original deciphering.  Number 3 (Ma) could be Ka, the word for Soul which has a similar [head orniment](https://www.google.com/search?q=Egyptian+Ka). Perhaps others could be:
+### **Consonants**
 
-3\. &nbsp; KA (was MA)
-7\. &nbsp; Y (was I)
-9\. &nbsp; VA (was NA)
-13\. &nbsp; CO (was KO)
-15\. &nbsp; BA (was DA)
+In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W) and 5 vowels (A, I, U, E, O). Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
 
-**Vowels**
+To create 9 to 15 unique consonent starting sounds,  Number 3 (Ma) could be Ka, the word for Soul which has a similar [head orniment](https://www.google.com/search?q=Egyptian+Ka). Other changes could be as follows. These are speculative and it may not be necessary to make any changes to Hiro's translation if we assume that each repeat of the scale automatically applies a different consonent.
 
-One of the columns could also contain 6 unique vowel sounds for a complete cipher.
 
-Perhaps the 6 vowel sounds are represented by the second column since vowels follow consonants
+### **Vowels**
+
+6 unique vowel sounds seem to repeat at least 4 times on the axe cipher.
 
 A common vowel order is A-I-U-E-O for syllables like Ka-Ki-Ku-Ke-Ko.
 あ /a/, い /i/, う /u/, え /e/, お /o/
 
-On the Axe, the numbers 2 and 8 are the A sound, which would place the O sound on 7 and 13.  These could act as two music scales, a lofty heavenly feminine scale followed by a lower masculine scale. Character 15 (DA/BA) could be the start of an even lower scale.
+The vowel might be read from the center outward so the end at Ko.
+
+Since the first characters of columns 1 and 2 start with a Y sound, we can support the "sometimes Y" rule with:
+
+Y-A-I-U-E-O
+
+Starting with the feminie column, the first vowel scale is likely a more lofty and heavenly scale. From there we descend to deeper notes, and war chants. It's possible "musical scales" of 6-vowels loop clockwise after character 15.  Assuming each starts with a unique consonant, we have:
+
+2\. Da-Di-Du-De-Do
+8\. Sa-Si-Su-Se-So
+14\. Skipped
+15\. Ba-Bi-Bu-Be-Bo
+21\. Ka-Ki-Ku-Ke-Ko
+27\. Ta-Ti-Tu-Te-To
+33\. Ha-Hi-Hu-He-Ho
+
+
+
+The consonants might simply apply to any scale, with only the pitch changing deeper.  Some consonant sounds are naturally deeper, so we can assume these will be used for the later scales in the repeating 6-vowel sequences.
+
+This repeating scale with changing pitch is similar to the Solfege (Do Re Mi) made popular by the Sound of Music which is a used to teach Western music scales.
+
+
+
 
 
 **Syllables**
