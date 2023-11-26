@@ -5,10 +5,81 @@ Let's explore the Minoan use of their labrys as both axes and signaling mirrors.
 
 The young warriors of Crete learned a dance which echoed the turns of the laberinth. Could this have been simultaneous training for signal mirror operation? In otherwords, were they learning how to twist their mirrors to represent the sounds of syllables within the dance?
 
-"The dance known as the geranos was a chthonic (underworld) maze dance, around a horned altar, in honor of a female divinity."
-https://www.jstor.org/stable/283449
+"The dance known as the geranos was a chthonic (underworld) maze dance, around a horned altar, in honor of a female divinity." [1946](https://www.jstor.org/stable/283449) - The author suggests the origin was Minoan, but more recent findings tie the bull to the origin of the Minotaur maze to the Upper Nile. Cultures around the world used mazes to stump attackers.
 
 <a href="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png"><img src="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png" style="width:100%;max-width:800px"></a>
+
+<h2>Her high notes (Column 1) and His lower notes (Column 2) - Mirror Beats</h2>
+
+Minoan priests were often married couples. Together, they practiced an art of signaling that supported trade routes across continents.
+
+The Minoan signaling system seems to have used 1 to 3 main beats to invoke character in columns 1, 2 and 3 on the Arkalochori Axe mirror cipher.  The first column was likely for sounds associated to heaven and the feminine (hill temples), the second column seems to be associated to earth and the masculine, the third column could have been invoked by 3 strong beats for special messages, like the 3 loud beats of the dreaded 13 Doom Beat that would have struck fear in the hearts of enemies.
+
+Beat - Full second - Medium (Mother God Foundation) - Roll of two 1's on dice = 1
+Dot - A quick flash - Half a second or less following a beat
+Dash - 1.5 seconds - For counting 5 10 15 20 (not conveyed on Arkalochori Axe) = 5
+King 10 Beat - 3 second beats = 10
+Doom 13 Beat - 3 second beats (10) followed by 3 dots = 13
+
+Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
+Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
+
+Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.  DA also appears to be the start of 4 musical scales, each containing 6 vowel sounds. This DA sound starts at 2, 8, 15 (with the scale continuing clockwise as a spiral), and lastly 21 (which reuses DA in the 2 position).
+
+<div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
+<a href="/LinearA/img/axe-closeup.png"><img src="/LinearA/img/axe-closeup.png" style="width:100%;max-width:200px"></a>
+</div>
+
+<div style="float:left; border-right: 1px solid #ccc; margin-right: 20px;">
+<b>1=Priestess and 2=Priest (Heaven and Earth)<!--Consonant (Columns 1 & 2)--></b><br><br>
+
+<table>
+<tr>
+<td style="padding-right: 15px; border-right: 1px solid #ccc;">
+I &nbsp; &nbsp; &nbsp; ▄▄ &nbsp; Mother/Heaven = 1<br><br>
+DA &nbsp;&nbsp; ▄▄ &nbsp; ▄ &nbsp; Branch = 2<br><br>
+KA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Queen = 3<br><br><!-- MA -->
+NA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄&nbsp; People = 4<br><br>
+PU &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄  &nbsp; Root = 5<!--(matches symbol of dash and 3-dots)--><br><br>
+ZE &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄ ▄&nbsp; Dance = 6<br><br>
+</td>
+
+<td style="padding-right: 25px; padding-left: 10px;">
+Y &nbsp;&nbsp; ▄▄ ▄▄ &nbsp; Father/Earth = 7<br><br><!-- I -->
+SA &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; Limb/Blood = 8<br><br>
+VA &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; Chorus = 9<br><br><!-- NA -->
+TA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; King = 10<!--commandments--><br><br>
+MA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; Ares = 11<br><br>
+TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="float:left">
+<b>3=Numbers 13 and up</b><br><br>
+CO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ = 13<br><br><!-- KO -->
+RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ = 14<br><br>
+BA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- DA -->
+</div>
+
+<div style="clear:both"></div>
+
+
+<div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
+<a href="/LinearA/img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
+</div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
+
+The two verticle ellipses (...) probably indicate where custom chorus inserts occur to add time-sensitive details to the circulating messages. The second verticle ellipses has 2 lines at the top, which probably indicating a male (warrior) chorus. Even today, ellipses continue to mean "more details here"...
+
+The faces at the top of the first two columns may have been painted white and brown to indicate the female and male focus (musical scale pitch) of the first two columns. Since the faces are androgenous, the icons allowed for men to perform in the roles of the earth leaders and the worker/warrier leaders in the second column could be performed by women. The first column face may still contain a slight white pigment on the left 2/3.
+
+The third column, invoked by 3 strong beats, translates to KO-RE-DA, a sign from the heavens ([Hiro](../hiro/)). The 3-beats represent 10. 13 is 10 followed by 3 short beats. <span style="font-size: 11px">▄▄ ▄▄ ▄▄  &nbsp; ▄ ▄ ▄</span> &nbsp; This three beat pattern of long and short is similar to SOS <span class="small" style="font-size: 11px">▄ ▄ ▄ &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄</span> in Morse Code. It may convey that the shit is about to hit the fan in the form of weather or war. Hearing 13 over and over again would indeed be very forboding. The pattern for 15 seems more calming (3 beats followed by a single beat).  Higher numbers might continue as a clockwise spiral up to 27.
+
+15-syllable lines are comman for Funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
+
+The 15 syllables on the Arkalochori Axe could represent a dirge for sacrifice in which the sounds match numbers. The three columns could also be invoked by rolling dice. A dice game may have assisted young players in memorizing the associations for later use with mirrors and drums. Likewise, the geranos dance that young people learned in ancient Crete may have taught them more advance consonant-vowel sequences by memorizing the order of turns in a maze.
+
 
 "In Central and East Africa, drum patterns represent the stresses, syllable lengths and tone of the particular language. In tone languages, where syllables are associated with a certain tone, some words are distinguished only by their suprasegmental profile. Therefore, syllable drum languages can often transfer a message using the tonal phonemes alone.
 
@@ -36,6 +107,8 @@ Starting around 1400 BCE, when the Minoan mirror communication network flourishe
 Dates at Delphi:
 https://en.wikipedia.org/wiki/Pythia
 -->
+
+<div style="clear:both"></div>
 
 <div class="floatRight" style="margin-bottom:15px;max-width:300px;">
 <a href="https://nadirkh.medium.com/wireless-signaling-in-ancient-times-a7afd31066c1"><img src="/LinearA/img/latin-ciper.webp" style="width:100%;max-width:300px"></a><br>
@@ -73,79 +146,13 @@ The R and S position were switched.
 This allows R for Ra (the first pharaoh) to reside 2nd from the top after god Ka.
 S is moved prior to the W which is 8th and akin to infinity (∞) which is often formed by a snake.
 
-<h2>Her(1) and His(2) Beats around Syllable</h2>
-
-The Minoan signaling system could use pulses to indicate columns 1, 2 and 3 on the Arkalochori Axe mirror cipher.  The first column is associated to heaven and the feminine (hill temples), the second column is associated to earth and the masculine, the third column starts with 3 strond beats for special messages - starting with 13 for the dreaded Doom Beat that would strike fear in the hearts of enemies.
-
-Dot - A quick flash - Half a second or less
-Beat - Full second - Medium (Mother God Foundation) - Roll of two 1's on dice = 1
-5Dash - 1.5 seconds - For counting 5 10 15 20 (not conveyed on Arkalochori Axe) = 5
-King Beat - 3 second beats = 10
-Doom Beat - 3 second beats (10) followed by 3 dots = 13
-
-Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
-Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
-
-15-syllable lines are comman for Funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
-
-The 15 syllables on the Arkalochori Axe could represent a dirge for sacrifice in which the sounds match numbers. The three columns could also be invoked by rolling dice. A dice game may have assisted young players in memorizing the associations for later use with mirrors and drums. Likewise, the geranos dance that young people learned in ancient Crete may have taught them more advance consonant-vowel sequences by memorizing the order of turns in a maze.
-
-<div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
-<a href="/LinearA/img/axe-closeup.png"><img src="/LinearA/img/axe-closeup.png" style="width:100%;max-width:200px"></a>
-</div>
-
-<div style="float:left; border-right: 1px solid #ccc; margin-right: 20px;">
-<b>1=Priestess and 2=Priest (Heaven and Earth)<!--Consonant (Columns 1 & 2)--></b><br><br>
-
-<table>
-<tr>
-<td style="padding-right: 15px; border-right: 1px solid #ccc;">
-I &nbsp; &nbsp; &nbsp; ▄▄ &nbsp; Mother God Ida = 1<br><br>
-DA &nbsp;&nbsp; ▄▄ &nbsp; ▄ &nbsp; Branch = 2<br><br>
-KA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Queen = 3<br><br><!-- MA -->
-NA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄&nbsp; People = 4<br><br>
-PU &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄  &nbsp; Root = 5<!--(matches symbol of dash and 3-dots)--><br><br>
-ZE &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄ ▄&nbsp; Dance = 6<br><br>
-</td>
-
-<td style="padding-right: 25px; padding-left: 10px;">
-Y &nbsp;&nbsp; ▄▄ ▄▄ &nbsp; Father God Ysa = 7<br><br><!-- I -->
-SA &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; Limb/Blood = 8<br><br>
-VA &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; Chorus = 9<br><br><!-- NA -->
-TA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; King = 10<!--commandments--><br><br>
-MA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; Ares = 11<br><br>
-TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
-</td>
-</tr>
-</table>
-</div>
-
-<div style="float:left">
-<b>3=Numbers 13 and up</b><br><br>
-CO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ = 13<br><br><!-- KO -->
-RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ = 14<br><br>
-BA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- DA -->
-</div>
-
-<div style="clear:both"></div>
-
-
-<div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
-<a href="/LinearA/img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
-</div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
-
-The two 3-dot instances of verticle ellipses (...) may indicate where custom chorus performances occur to add time-sensitive details to the circulating messages. Note that the second 3-dot instance has 2 lines, indicating a male (warrior) chorus. Even today, ellipses continue to mean "more details here"...
-
-The faces at the top of the first two columns may have been painted white and brown to indicate the female and male focus of each column. Since the faces are androgenous, the icons allowed for men to perform in the roles of the earth leaders and women to perform in the roles of worker/warrier leaders. The first face may still contain a slight white pigment on the left 2/3.
-
-The third column, invoked by 3 strong beats, translates to KO-RE-DA, a sign from the heavens. The 3-beats represent 10. 13 is 10 followed by 3 short beats. <span style="font-size: 11px">▄▄ ▄▄ ▄▄  &nbsp; ▄ ▄ ▄</span> &nbsp; This three beat pattern of long and short is similar to SOS <span class="small" style="font-size: 11px">▄ ▄ ▄ &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄</span> in Morse Code. It may convey that the shit is about to hit the fan in the form of weather or war. Hearing 13 over and over again would indeed be very forboding. The pattern for 15 seems more calming (3 beats followed by a single beat).  Higher numbers might continue as a clockwise spiral up to 27.
 
 <a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px"></a>
 
 <div style="clear:both"></div>
 On the left below we see dual mirror-axes (labrys) on poles akin to bull horns. The birds may signify their use in delivering messages across distances.
 
-Note the similaries with the third column and the right side of the Hagia Triada Sarcophagus. 3-steps, a floral symbol, and a building which has a long line and a short line angle.
+Note the similaries with the third column and the right side of the Hagia Triada Sarcophagus. 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
 
 
 <a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
