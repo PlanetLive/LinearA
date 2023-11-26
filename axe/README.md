@@ -44,11 +44,11 @@ Greece would later coordinate with Rome using a 5 mirror system with a 5x5 ciphe
 
 **Lattice for Mirror Messages** 
 
-Column 1: Consonants (in first and second column)
-Column 2: Vowels
-Column 3: Numbers
+Column 1 (Priestess): Consonants (in first and second column)
+Column 2 (Priest): Vowels
+Column 3: Numbers 13, 14 and 15
 
-A clue that this is a transmission code is the dots at the top of each column, and the 3-dot "shortcut" characters within two of the columns. The character's verticle position in the column can be conveyed by longer pulses (dashes).
+A clue that this is a transmission code is the dots at the top of each column. Let's assume there is one beat for the first column, two for the secon and three for the third. Each character's verticle position in the column can be conveyed by values 1 to 6. So a roll of two ones would be Heaven (as Hiro translated on the [Malia Stone](../hiro/#malia)).
 
 In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W) and 5 vowels (A, I, U, E, O). Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
 

@@ -1464,7 +1464,7 @@ Such practices are known from Mesopotamia, where the liver of sacrificial sheep 
 
 
 
-### 2.  Malia Stone Block (c.1625 BCE)
+### 2. Malia Stone Block (c.1625 BCE)
 
 
 <a href="../img/malia-1.jpg"><img src="../img/malia-1.jpg" style="width:100%;max-width:500px"></a>
