@@ -64,12 +64,10 @@ Other Resemblances
 6.	DNA Analysis
 7.	Overview
 
-<a href="img/aegean-line-of-sight.jpg"><img src="../img/aegean-line-of-sight.jpg" style="width:100%;max-width:800px"></a>
-[Nick Deakin - Minoan Telecomm](https://www.quora.com/Could-ancient-civilizations-have-used-mirrors-to-communicate-long-distances)
 
 ## Introduction
 
-(1) The Minoans gave birth to a bronze age civilization on the island of Crete in the Aegean circa 3000 BCE that centered around the palace of Knossos and reached their peak in the 2nd millennium BCE.
+**(1)** The Minoans gave birth to a bronze age civilization on the island of Crete in the Aegean circa 3000 BCE that centered around the palace of Knossos and reached their peak in the 2nd millennium BCE.
 
 In the Pre-palatial Period (2600-1900 BCE), they built their wealth and enjoyed prosperity through trade in the Mediterranean region with partners such as Egypt, importing copper, tin and gold.  
 
@@ -85,26 +83,29 @@ This civilization is thought to have finally disappeared during the Bronze Age c
 <!--
 Some theorize that the lost civilization of Atlantis, described by the Greek philosopher Plato, must have been none other than the Minoan civilization.
 -->
-(2) Excavations on Crete have revealed 2 ancient languages, Linear A and Linear B, that share many symbols or letters. Linear B was deciphered and identified as ancient Greek in between 1951 and 1953, but Linear A, probably its immediate ancestor, has yet to be decoded and understood, i.e. the underlying language is unknown. It is believed that Linear A came into use around 1800 BCE.
+**(2)** Excavations on Crete have revealed 2 ancient languages, Linear A and Linear B, that share many symbols or letters. Linear B was deciphered and identified as ancient Greek in between 1951 and 1953, but Linear A, probably its immediate ancestor, has yet to be decoded and understood, i.e. the underlying language is unknown. It is believed that Linear A came into use around 1800 BCE.
 
 Experts believe they can read out Linear A by applying the same phonetic rules as in Linear B, so that Linear A may be read out loud to reproduce the language as it must have been spoken by the Minoans.
 
 Nevertheless, Linear A has long frustrated those who have tried to identify and understand it as being related to any of the known languages in Europe or the Mediterranean. 
 
-(3) Consequently, researchers are beginning to entertain the idea that, if there are any existing languages descended from Linear A, they should be found outside the realm of the Indo-European languages.
+**(3)** Consequently, researchers are beginning to entertain the idea that, if there are any existing languages descended from Linear A, they should be found outside the realm of the Indo-European languages.
 
 In that case, the scope of research should be expanded to cover languages in areas geographically distant from Crete and the Mediterranean, to see if any exotic language outside the Indo-European domain may possibly fit its description. 
 
-(4) This may include Japanese, as it is a language based on syllables, just like Linear A, and because there seem to be striking similarities in the way the 2 languages sound, when spoken or read out loud.
+**(4)** This may include Japanese, as it is a language based on syllables, just like Linear A, and because there seem to be striking similarities in the way the 2 languages sound, when spoken or read out loud.
 
 Japanese seems to be a language in a category of its own, together with Korean, which closely resembles Japanese, so that the 2 languages form an isolated language group in Northeast Asia, and researchers are curious to know how they came into being. 
 
-(5) In Japan, experts have pointed out that the Japanese language seems to be related to languages such as Mongol and Turkish, judging from word order and, as a group, these may be referred to as the Altaic languages. They also consider another linkage, i.e. with the Polynesian languages, and that the Japanese language must have developed under these two important sources of influence.
+**(5)** In Japan, experts have pointed out that the Japanese language seems to be related to languages such as Mongol and Turkish, judging from word order and, as a group, these may be referred to as the Altaic languages. They also consider another linkage, i.e. with the Polynesian languages, and that the Japanese language must have developed under these two important sources of influence.
 
 In this context, the contention to be expounded here, that the language underlying Linear A is Japanese, or that the Minoan language was one of the most important ancestral languages of Japanese, must pertain to the Altaic influence from the Eurasian continent.
 
+<br>
+<a href="img/aegean-line-of-sight.jpg"><img src="../img/aegean-line-of-sight.jpg" style="width:100%;max-width:800px"></a>
+[Nick Deakin - Minoan Telecomm](https://www.quora.com/Could-ancient-civilizations-have-used-mirrors-to-communicate-long-distances)
 
-### Geographic Names in the Aegean Sea
+## Geographic Names in the Aegean Sea
 
 If a Japanese speaker takes the time to carefully peruse through a map of Crete and of the Aegean Sea with focus on the Cycladic Islands, there will be many geographic names, including islands, that sound as though they might have come right out of the Japanese language so as to arouse curiosity, such as follows:
 
@@ -1513,7 +1514,7 @@ Dear brother, that I love and learned from. Now a lifeless body, but you are luc
 
 Since (2) presents a more convincing interpretation, symbol number 1 must have been written ambiguously, to allow for reading as NI/ SA, as well as NI-SAN (brother).
 
-Loren adds: Double ones (snake eyes) might be the first position of a signal message (Ida the mother goddess ~ heaven).  One of the "dice" could have been a 2-sided coin for choosing only queen or king with six secondary options, like the 2-columns on the Arkalochori Axe.  Getting a 2 and might be associated with the king. The man's role is depicted as preparing the animal sacrifices and may have been associated with reincarnation (waiting to go to heaven).  Perhaps when meat was given as a tithe (tax to the temple), the giver received a reward if they rolled double ones.
+Loren adds: Double ones (snake eyes) might be the first position of a signal message (Ida the mother goddess ~ heaven).  One of the "dice" could have been a 2-sided coin (or a stick widdled to have 3 flat sides) for choosing queen or king (and possibly a third column if the triangle stick is thrown) with six secondary options, like the columns on the Arkalochori Axe.  Getting a 2 and might be associated with the king. The man's role is depicted as preparing the animal sacrifices and may have been associated with reincarnation (waiting to go to heaven).  Perhaps when meat was given as a tithe (tax to the temple), the giver received a reward if they rolled double ones.
 
 
 VI.  Conclusion
