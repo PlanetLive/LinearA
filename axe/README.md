@@ -143,7 +143,7 @@ https://en.wikipedia.org/wiki/Pythia
 
 ### **Timing of Beats**
 
-Reflected light can be tricky to see if the burst is too short, so let's assume that each of the column beats is a full second.  Within the columns, we'll use a half second pulse for the equivalent of a dot in Morse Code. 
+Reflected light can be tricky to see if the burst is too short, so let's assume that each of the column indicator beats is a full second.  Within the columns, we'll use a half second pulse for the equivalent of a dot in Morse Code. 
 
 Beat - Full second - Medium (Mother God Foundation) - Roll of two 1's on dice = 1
 Dot - A quick flash - Half a second or less following a beat
