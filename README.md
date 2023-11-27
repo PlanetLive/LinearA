@@ -60,4 +60,4 @@ From the side of a small polished ax-mirror, an imprinted ciper helps young mirr
 
 Sometimes the fire signals may have been fueled by naturally seeping hydrogen and methane, like the hydrogen wind that rushes out of a dry well in a Mali village. In 2023, the Mali village converted from buring the hydrogen for power to using a clean fuelcell to power their homes!
 
-<a href="hiro/" class="btn btn-primary">Dive in Mirror Travelers!</a><br><br>
+<a href="hiro/" class="btn btn-primary">Connections with Japanese</a> <a href="https://dreamstudio.com/seasons/world-travels/" class="btn btn-primary">Phaistos Disc: World Travels</a>

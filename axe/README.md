@@ -9,30 +9,14 @@ The young warriors of Crete learned a dance which echoed the turns of the laberi
 
 <a href="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png"><img src="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png" style="width:100%;max-width:800px"></a>
 
-<h2>Her high notes (Column 1) and His lower notes (Column 2) - Mirror Beats</h2>
+<h2>Heaven and Earth Columns - Hers and His Mirror Beats</h2>
 
-Minoan priests were often married couples. Together, they practiced the art of signaling with mirrors and drums to support trade routes across continents.
-
-The Minoan signaling system seems to have used 1 to 3 main beats to invoke character in columns 1, 2 and 3 on the Arkalochori Axe mirror cipher.  The first column was likely for sounds associated to heaven and the feminine (hill temples), the second column seems to be associated to earth and the masculine, the third column could have been invoked by 3 strong beats for special messages, like the 3 loud beats of the dreaded 13 Doom Beat that would have struck fear in the hearts of enemies.
-
-Beat - Full second - Medium (Mother God Foundation) - Roll of two 1's on dice = 1
-Dot - A quick flash - Half a second or less following a beat
-Dash - 1.5 seconds - For counting 5 10 15 20 (not conveyed on Arkalochori Axe) = 5
-King 10 Beat - 3 second beats = 10
-Doom 13 Beat - 3 second beats (10) followed by 3 dots = 13
-
-Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
-Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
+Minoan temples were often owned and operated by married couples. Together, they used signaling with mirrors and drums to support trade routes across continents.  The Minoan signaling system seems to have used 3 main beats to invoke character in columns 1, 2 and 3 on the Arkalochori Axe, which was used to punt (relay) messeages between boats and land.
 
 **Lattice for Mirror Messages** 
-
-Column 1 (Priestess): Higher heavenly scale 1 to 6. (Maybe 9 consonants)
-Column 2 (Priest): Early scale from 7 to 12 (Maybe 6 )
-Column 3: Numbers 13, 14 and 15
-
-Let's assume there is one beat for the first column, two for the second, and three for the third. Each character's verticle position in the column can be conveyed by values 1 to 6. So a roll of two ones would be Heaven (as Hiro translated on the [Malia Stone](../hiro/#malia)).
-
-Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.  DA also appears to be the start of 4 musical scales, each containing 6 vowel sounds. This DA sound starts at 2, 8, 15 (with the scale continuing clockwise as a spiral), and lastly 21 (which reuses DA in the 2 position).<br>
+1 Beat - Priestess Column: Heavenly scale 1 to 6
+2 Beats - Priest Column: Earthly scale from 7 to 12
+3 Beats - Announcment Column: Numbers 13, 14 and 15
 
 <div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
 <a href="/LinearA/img/axe-closeup.png"><img src="/LinearA/img/axe-closeup.png" style="width:100%;max-width:200px"></a>
@@ -72,28 +56,58 @@ DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- Or BA -->
 </div>
 
 <div style="clear:both"></div>
+Note the similaries with the third column and the Hagia Triada Sarcophagus below. On the right side of there are 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
+
+<a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
+Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds signify the use of the mirrors in delivering messages across great distances.
+
+15-syllable lines are comman for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
+
+The 15 syllables on the Arkalochori Axe could represent the core template for customizing a dirge for sacrifice in which the sounds match numbers.  There also appears to be a clusering of 3 sets of 5 characters if we read all lines from top to bottom.
+
+The three columns could also be invoked by rolling dice (selecting organs from the animal sacrifices). A die game (get it, die game!) may have assisted young players in memorizing the associations for later use with mirrors and drums. The geranos dance that young people learned in ancient Crete may have taught them more advance consonant-vowel sequences by memorizing the order of turns in a maze created with tile patterns in courtyards.
+
+<div style="clear:both"></div>
+
+<a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px; float:right; margin-left:30px"></a>
+
+Each character's verticle position can be conveyed by values 1 to 6.  Dots at the top of the columns enforce its use as a cipher. The translation by Hiro Kuroda from the [Malia Stone](../hiro/#malia)) found that rolling dice with two ones is considered a heavenly outcome.  Other dice rolls would select characters further from Mount Ida and hence a repetition of cycles (reincarnation) before making it to heaven.
+
+**Column 1: Feminine**
+The first column presents the heavenly role of priestess (feminine) by starting with the symbol of Mount Ida, the home of the Minoan mother goddess with hill temples. Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.<br>
+
+**Column 2: Masculine**
+The second column could be invoked with two beats introduces a more agreessive rhythm. Hence the second column seems to be associated to the masculine underworld-oriented role of priests - working with earth and mining, warfare, sea travel, and preparing animal offerings during the ceremonies. Since women and men also switched roles, the two figures at the tops of the columns are portrayed as androgenous.
+
+**Column 3: Commands, Requests, Enlightment**
+The third column could use 3 repeating beats for special messages. The top of the column is number 13, which seems like a forceful command with three stong beats (which invokes 10 for King) and three faster beats. We'll call 13 the Command Beat, like knocking on a door.
+
+The third column, invoked by 3 strong beats, translates to KO-RE-DA, a sign from the heavens ([Hiro](../hiro/)). Note that 3-beats represent 10, the character and number for King, later echoed in the 10 commandments as refuges from Egypt and Crete crossed the desert.
+
+The beats for 13 are 10 followed by 3 short beats. <span style="font-size: 11px">▄▄ ▄▄ ▄▄  &nbsp; ▄ ▄ ▄</span> &nbsp; This three beat pattern of long and short is similar to SOS <span class="small" style="font-size: 11px">▄ ▄ ▄ &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄</span> in Morse Code. 13 may convey that the shit is about to hit the fan in the form of weather or war. Hearing 13 over and over (as THREE three THREE three oscillating beats) would indeed be very forboding. The pattern for 15 seems more calming (3 beats followed by a single beat like Beethoven's Fifth Symphony---bom bom bom bommmmm).
+
+Higher numbers might continue as a clockwise spiral which loops like a figure eight through the center. The shapes of the characters enfrorse this looping movement.
+
+
+
+
 
 
 <div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
 <a href="/LinearA/img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
 </div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
 
-The two verticle ellipses (...) may indicate where custom chorus inserts occur to add time-sensitive details to the circulating messages. The second verticle ellipses has 2 lines at the top, which probably indicating a male (warrior) chorus. Even today, ellipses continue to mean "more details here"...
+### Character Details
 
-The faces at the top of the first two columns may have been painted white and brown to indicate the female and male focus (musical scale pitch) of the first two columns. Since the faces are androgenous, the icons allowed for men to perform in the roles of the earth leaders and the worker/warrier leaders in the second column could be performed by women. The first column face may still contain a slight white pigment on the left 2/3.
+The faces at the top of the first two columns may have been painted white and brown to indicate the female and male focus of the first two columns. Since the faces are androgenous, the icons cover men performing in the roles of women (as we see one in the mural above) and women in the roles of the second column (middle of the mural). The first face on the axe seems to still contain a slight white pigment on the left 2/3 of the face. Maybe it never covered more than 2/3 of the face, encouraging men to pitch in.
 
-The third column, invoked by 3 strong beats, translates to KO-RE-DA, a sign from the heavens ([Hiro](../hiro/)). The 3-beats represent 10. 13 is 10 followed by 3 short beats. <span style="font-size: 11px">▄▄ ▄▄ ▄▄  &nbsp; ▄ ▄ ▄</span> &nbsp; This three beat pattern of long and short is similar to SOS <span class="small" style="font-size: 11px">▄ ▄ ▄ &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄</span> in Morse Code. It may convey that the shit is about to hit the fan in the form of weather or war. Hearing 13 over and over again would indeed be very forboding. The pattern for 15 seems more calming (3 beats followed by a single beat).  Higher numbers might continue as a clockwise spiral up to 27.
+The two verticle ellipses (...) likely indicate where custom choruses are added to include time-sensitive details in the circulating messages (which function like published obituaries). The second verticle ellipses has 2 lines at the top, which probably indicates a male chorus. Even today, ellipses continue to mean "more details here"...
 
-15-syllable lines are comman for Funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
-
-The 15 syllables on the Arkalochori Axe could represent a dirge for sacrifice in which the sounds match numbers. The three columns could also be invoked by rolling dice. A dice game may have assisted young players in memorizing the associations for later use with mirrors and drums. Likewise, the geranos dance that young people learned in ancient Crete may have taught them more advance consonant-vowel sequences by memorizing the order of turns in a maze.
 
 
 "In Central and East Africa, drum patterns represent the stresses, syllable lengths and tone of the particular language. In tone languages, where syllables are associated with a certain tone, some words are distinguished only by their suprasegmental profile. Therefore, syllable drum languages can often transfer a message using the tonal phonemes alone.
 
-In certain languages, the pitch of each syllable is uniquely determined in relation to adjacent syllables. In these cases, messages can be transmitted as rapid beats at the same speed as speech, as the rhythm and melody both match the equivalent spoken utterance."
-
-https://en.wikipedia.org/wiki/Drums_in_communication
+In certain languages, the pitch of each syllable is uniquely determined in relation to adjacent syllables. In these cases, messages can be transmitted as rapid beats at the same speed as speech, as the rhythm and melody both match the equivalent spoken utterance." [More](https://en.wikipedia.org/wiki/Drums_in_communication)
 
 
 <!--
@@ -118,62 +132,69 @@ https://en.wikipedia.org/wiki/Pythia
 
 <div style="clear:both"></div>
 
+### **Timing of Beats**
+
+Reflected light can be tricky to see if the burst is too short, so let's assume that each of the column beats is a full second.  Within the columns, we'll use a half second pulse for the equivalent of a dot in Morse Code. 
+
+Beat - Full second - Medium (Mother God Foundation) - Roll of two 1's on dice = 1
+Dot - A quick flash - Half a second or less following a beat
+Pause - One second between characters
+
+King 10 Beat - 3 second beats = 10
+Doom 3+3 Beat - 3 second beats (10) followed by 3 dots = 13
+Order 3+4 Beat - For trade requests
+Enlightened 3+long Beat - like Beethoven's Fifth Symphony---bom bom bom bommmmm
+Long - 1.5 seconds bommmmm - For counting 5 10 15 20 = 5 
+ (Example: A clock stricking 3 o'clock counts by 5 with an elongated bommmmm bommmmm bommmmm sound.)
+
+Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
+Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
+
+To guarentee that we don't miss a note, the recipent could return to the message to us backwards. The backwards direction informs us that it is our original message being confirmed, and allows the recipient to confirm the end of a message if they arrived late for the beginning.
+
+---
+
 <div class="floatRight" style="margin-bottom:15px;max-width:300px;">
 <a href="https://nadirkh.medium.com/wireless-signaling-in-ancient-times-a7afd31066c1"><img src="/LinearA/img/latin-ciper.webp" style="width:100%;max-width:300px"></a><br>
 Greece would later coordinate with Rome using a 5 mirror system with a 5x5 cipher to convey the 24 letters of Latin.
 </div>
 
-
-
-
-<a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px"></a>
-
 <div style="clear:both"></div>
-Note the similaries with the third column and the Hagia Triada Sarcophagus. On the right side of there are 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
-
-On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds signify the use of the mirrors in delivering messages across great distances.
-
-<a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
-Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus)
-
 
 ### **Consonants**
 
 In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W) and 5 vowels (A, I, U, E, O). Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
 
-To create 9 to 15 unique consonent starting sounds,  Number 3 (Ma) could be Ka, the word for Soul which has a similar [head orniment](https://www.google.com/search?q=Egyptian+Ka). Other changes could be as follows. These are speculative and it may not be necessary to make any changes to Hiro's translation if we assume that each repeat of the scale automatically applies a different consonent.
+To create 9 to 15 unique consonent starting sounds,  Number 3 (Ma) could be Ka, the word for Soul which has a similar [head ornament](https://www.google.com/search?q=Egyptian+Ka). Other changes could be as follows. These are speculative and it may not be necessary to make any changes to Hiro's translation if we assume that each repeat of the scale automatically applies a different consonent.
 
 
 ### **Vowels**
 
-6 unique vowel sounds seem to repeat at least 4 times on the axe cipher.
-
 A common vowel order is A-I-U-E-O for syllables like Ka-Ki-Ku-Ke-Ko.
 あ /a/, い /i/, う /u/, え /e/, お /o/
 
-The vowel might be read from the center outward so the end at Ko.
+If vowels are represented in this cipher, they could occur in several ways.
 
-Since the first characters of columns 1 and 2 start with a Y sound, we can support the "sometimes Y" rule with:
+- In a column of 5 or 6 vowel sounds.
+- From the center counter-clockwise ending with Ko.
+- Repeating multiple times whereever DA or other A sound occurs.
 
-Y-A-I-U-E-O
+Since the first characters of columns 1 and 2 start with a Y sound, the "sometimes Y" rule might be supported, as in: Y-A-I-U-E-O
 
-Starting with the feminie column, the first vowel scale is likely a more lofty and heavenly scale. From there we descend to deeper notes, and war chants. It's possible "musical scales" of 6-vowels loop clockwise after character 15.  Assuming each starts with a unique consonant, we have:
+If starting with the feminie column, the first vowel scale would likely be a more lofty and heavenly scale. From there we descend to deeper notes, and war chants. It's possible the "musical scales" of 6-vowels loop continue clockwise after character 15, then cross through the center like a figure eight.  
+
+An interesting clue suggesting that the vowel series might repeat is that the DA sound occurs in intervals of 6 at 2, 8, 15, 21, 27, 33. The character at 14 might be skipped for better alignment of prime numbers.
 
 2\. Da-Di-Du-De-Do
 8\. Sa-Si-Su-Se-So
 14\. Skipped
 15\. Ba-Bi-Bu-Be-Bo
-21\. Ka-Ki-Ku-Ke-Ko
-27\. Ta-Ti-Tu-Te-To
-33\. Ha-Hi-Hu-He-Ho
+21\. Ka-Ki-Ku-Ke-Ko (2 position)
+27\. Ta-Ti-Tu-Te-To (11 position)
+33\. Ha-Hi-Hu-He-Ho (8 position)
+Possibly continued 3 more times for 9 consonants
 
-
-
-The consonants might simply apply to any scale, with only the pitch changing deeper.  Some consonant sounds are naturally deeper, so we can assume these will be used for the later scales in the repeating 6-vowel sequences.
-
-This repeating scale with changing pitch is similar to the Solfege (Do Re Mi) made popular by the Sound of Music which is a used to teach Western music scales.
-
-
+Some consonant sounds are naturally deeper, so perhaps these reside in later scales in the repeating 6-vowel sequences.  A repeating scale with changing pitch is similar to the Solfege (Do Re Mi) made popular by the Sound of Music which is a used to teach Western music scales.
 
 
 
