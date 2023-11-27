@@ -161,52 +161,62 @@ Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats o
 
 To guarentee that we don't miss a note, the recipent could return to the message to us backwards. The backwards direction informs us that it is our original message being confirmed, and allows the recipient to confirm the end of a message if they arrived late for the beginning.
 
+When a pictograph does not exist in the cipher, syllables are formed by consonant-vowel combinations. Syllables would always start with 1 to 3 full beats - but the beats could occur faster than a second to indicate the formation of a syllable.
+
 <div style="clear:both"></div>
 
 ### **Consonants**
 
-In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W) and 5 vowels (A, I, U, E, O). Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
+Currently we have the following from Hiro's translation:
 
-To create 9 to 15 unique consonent starting sounds,  Number 3 (Ma) could be Ka, the word for Soul which has a similar [head ornament](https://www.google.com/search?q=Egyptian+Ka). Other changes could be as follows. These are speculative and it may not be necessary to make any changes to Hiro's translation if we assume that each repeat of the scale automatically applies a different consonent.
+I D M N P Z I S N T M T C R D
+
+In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W).
+
+To create 15 unique consonants, some of the consonants in the second column could take a masculine (underworld) form. Here are five possible changes to create unique consonants: #7 from I to Y, #9 from N to V, #11 from M to H, #12 from T to K, #15 from D to B.
+
+I D M N P Z Y S V T H K C R B
+
+Another option is to make Number 3 (Ma) into Ka. Ka is the word for Soul in Egptian and has a similar [head ornament](https://www.google.com/search?q=Egyptian+Ka) to #3.
 
 
 ### **Vowels**
 
+If vowels are represented in this cipher, they could occur in several ways.
+
+- In the first two columns as 5 or 6 vowel sounds.
+- In the cluster of 5 characters at the top including Ko.
+- From the center counter-clockwise ending with Ko.
+- Repeating multiple times whereever DA or another A sound occurs.
+
 A common vowel order is A-I-U-E-O for syllables like Ka-Ki-Ku-Ke-Ko.
 あ /a/, い /i/, う /u/, え /e/, お /o/
 
-If vowels are represented in this cipher, they could occur in several ways.
+An interesting clue suggesting that the vowel series might repeat is that the DA sound occurs in intervals of 6 at 3, 9, 15, 21, 27, 33.  Musical scales could continue clockwise after character 15, then cross through the center like a figure eight.  If starting with the feminine column, the first scale would likely be a more lofty and heavenly scale. From there we descend to deeper notes, and battle chants. 
 
-- In a column of 5 or 6 vowel sounds.
-- From the center counter-clockwise ending with Ko.
-- Repeating multiple times whereever DA or other A sound occurs.
+Since the characters on the axe contain multiple A sounds in each repetition using Hiro's translation, to create a vowel cipher we'd need alternative sounds for some characters. Using our consonant changes above, the first two sets of syllables are currently:
 
-Since the first characters of columns 1 and 2 start with a Y sound, the "sometimes Y" rule might be supported, as in: Y-A-I-U-E-O
+MA-NA-PU-ZE-I-SA 
+VA-TA-HA-TE-KO-RE
 
-If starting with the feminie column, the first vowel scale would likely be a more lofty and heavenly scale. From there we descend to deeper notes, and war chants. It's possible the "musical scales" of 6-vowels loop continue clockwise after character 15, then cross through the center like a figure eight.  
+It may not be necessary to make any changes if we assume that each instance of a recurring vowel scale (starting with DA) automatically applies a different consonant using a widely known standard. 
 
-An interesting clue suggesting that the vowel series might repeat is that the DA sound occurs in intervals of 6 at 2, 8, 15, 21, 27, 33. The character at 14 might be skipped for better alignment of prime numbers.
+Some consonant sounds are naturally deeper, so perhaps these reside in later scales in a repeating 6-vowel sequences.  Such a series of changing pitches is similar to the Solfege (Do Re Mi) used to teach Western music scales, which was made popular by the Sound of Music.
 
-2\. Da-Di-Du-De-Do
-8\. Sa-Si-Su-Se-So
-14\. Skipped
+We could end up with something like the following:
+
+3\. A-I-U-E-O
+9\. Va-Vi-Vu-Ve-Vo
 15\. Ba-Bi-Bu-Be-Bo
-21\. Ka-Ki-Ku-Ke-Ko (2 position)
+21\. Da-Di-Du-De-Do (2 position)
 27\. Ta-Ti-Tu-Te-To (11 position)
 33\. Ha-Hi-Hu-He-Ho (8 position)
-Possibly continued 3 more times for 9 consonants
+39\. Ra-Ri-Ru-Re-Ro
+45\. Ka-Ki-Ku-Ke-Ko
+51\. Sa-Si-Su-Se-So
 
-Some consonant sounds are naturally deeper, so perhaps these reside in later scales in the repeating 6-vowel sequences.  A repeating scale with changing pitch is similar to the Solfege (Do Re Mi) made popular by the Sound of Music which is a used to teach Western music scales.
+Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
 
-
-
-**Syllables**
-
-By combinging consonants and vowels we form syllables. Syllables would always start with 1 to 3 full beats over 1, 2 or 3 seconds.
-
-Currently we have the following above. One of the T's needs to be changed. Actual order may differ. Please contribute your ideas by posting an issue in GitHub.
-
-I D K N P Z Y S V T M T C R B
 
 **Four Beats**
 
