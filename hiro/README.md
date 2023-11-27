@@ -1463,7 +1463,7 @@ The words inscribed on this double axe, read in all directions as Japanese, cons
 Such practices are known from Mesopotamia, where the liver of sacrificial sheep and goats were inspected as a means of divination. 
 
 
-
+<div id="malia"></div>
 ### 2. Malia Stone Block (c.1625 BCE)
 
 

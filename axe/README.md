@@ -13,10 +13,21 @@ The young warriors of Crete learned a dance which echoed the turns of the laberi
 
 Minoan temples were often owned and operated by married couples. Together, they used signaling with mirrors and drums to support trade routes across continents.  The Minoan signaling system seems to have used 3 main beats to invoke character in columns 1, 2 and 3 on the Arkalochori Axe, which was used to punt (relay) messeages between boats and land.
 
+<div class="floatRight" style="margin-bottom:15px;max-width:300px;">
+<a href="https://nadirkh.medium.com/wireless-signaling-in-ancient-times-a7afd31066c1"><img src="/LinearA/img/latin-ciper.webp" style="width:100%;max-width:300px"></a><br>
+Greece would later coordinate with Rome using a 5 mirror system with a 5x5 cipher to convey the 24 letters of Latin.
+</div>
+
+A clue that the Arkalochori Axe might be a signal transmission cipher is the dots at the top of each column, and the 3-dot "shortcut" characters within two of the columns. The character's verticle position in the column can be conveyed by 1 to 5 shorter pulses (dots).
+
 **Lattice for Mirror Messages** 
 1 Beat - Priestess Column: Heavenly scale 1 to 6
 2 Beats - Priest Column: Earthly scale from 7 to 12
 3 Beats - Announcment Column: Numbers 13, 14 and 15
+
+A translation of the 1625 BCE [Malia Stone](../hiro/#malia) by Hiro Kuroda found that rolling dice with two ones is considered a heavenly outcome.  "Dearest, you may now be a lifeless body, but you are a lucky one, as if you just got double ones, throwing dice. Do go to Heaven."  One imagines the less fortunate person might not be entitle to the Mount Ida funeral package, and would hence repeat the cycles of life by returning to the earth and being reincarned multiple times before making it to heaven - with a proverbial roll of the snake eye double ones.
+
+<div style="clear:both"></div><br>
 
 <div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
 <a href="/LinearA/img/axe-closeup.png"><img src="/LinearA/img/axe-closeup.png" style="width:100%;max-width:200px"></a>
@@ -50,16 +61,16 @@ TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
 
 <div style="float:left">
 <b>3=Numbers 13 and up</b><br><br>
-KO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ = 13<br><br><!-- KO -->
-RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ = 14<br><br>
-DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ = 15<br><br><!-- Or BA -->
+KO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ &nbsp; Sign = 13<br><br><!-- KO -->
+RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ &nbsp; From = 14<br><br>
+DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; Heavens = 15<br><br><!-- Or BA -->
 </div>
 
 <div style="clear:both"></div>
-Note the similaries with the third column and the Hagia Triada Sarcophagus below. On the right side of there are 3-steps, a floral symbol, and a building which has a long line and a short line angle like the number 15 on the Axe. (The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.)
+Note the similaries between the 3 columns on the axe and the 3 sections from the Hagia Triada Sarcophagus below. The funeral functions of women and men occur in the first two sections. In the third section, there are 3-steps, a floral symbol, and a building which has a long line and a short line, like the number 15 on the Axe. The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.
 
 <a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
-Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds signify the use of the mirrors in delivering messages across great distances.
+Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
 
 15-syllable lines are comman for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
 
@@ -70,8 +81,6 @@ The three columns could also be invoked by rolling dice (selecting organs from t
 <div style="clear:both"></div>
 
 <a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px; float:right; margin-left:30px"></a>
-
-Each character's verticle position can be conveyed by values 1 to 6.  Dots at the top of the columns enforce its use as a cipher. The translation by Hiro Kuroda from the [Malia Stone](../hiro/#malia)) found that rolling dice with two ones is considered a heavenly outcome.  Other dice rolls would select characters further from Mount Ida and hence a repetition of cycles (reincarnation) before making it to heaven.
 
 **Column 1: Feminine**
 The first column presents the heavenly role of priestess (feminine) by starting with the symbol of Mount Ida, the home of the Minoan mother goddess with hill temples. Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.<br>
@@ -151,13 +160,6 @@ Two Full Seconds = 7 (Father Earth God) - 2 full beats spanning 2 seconds
 Three Beats toghter = 10 (King and the law - 10 commandments) - 3 strong beats over 3 seconds
 
 To guarentee that we don't miss a note, the recipent could return to the message to us backwards. The backwards direction informs us that it is our original message being confirmed, and allows the recipient to confirm the end of a message if they arrived late for the beginning.
-
----
-
-<div class="floatRight" style="margin-bottom:15px;max-width:300px;">
-<a href="https://nadirkh.medium.com/wireless-signaling-in-ancient-times-a7afd31066c1"><img src="/LinearA/img/latin-ciper.webp" style="width:100%;max-width:300px"></a><br>
-Greece would later coordinate with Rome using a 5 mirror system with a 5x5 cipher to convey the 24 letters of Latin.
-</div>
 
 <div style="clear:both"></div>
 
