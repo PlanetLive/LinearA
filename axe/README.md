@@ -233,7 +233,7 @@ For laws and customs that applied to shipping and marriage, the 4 areas of law c
 
 A figure-8 shield kit may have contained the reflective axe blade, mirror-box and cipher. It may have been designed to float. The two metal sides of the mirror-box may have served as the base plates of a scale - for weighing trade goods. The scale is depicted in Minoan priestess illustrations. Note how the spiral background matches the spiral of the [Phaistos&nbsp;Disc](../).
 
-<a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="height:200px;max-height:200px;margin-right:30px"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="height:200px;max-height:200px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="height:200px;max-height:200px"></a>
+<a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px" class="fullMobile"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="width:400px" class="fullMobile"></a>
 
 The convex shape of the shield would also allow a drum beat signal to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
 
@@ -264,7 +264,7 @@ After reading side B from the center to the rim, the words TI-TU-(KI)-HE-RI（di
 
 There may have been 3-states conveyable by each beat: a full 1-second signal, a quick signal flash, and no signal. (The original Morse Code used patterns of dots with similar blank spaces to represent a few of the letters.)
 
-There are [12 unique timeline beats in African music](https://youtu.be/8ypTYNGLr5A?si=YthHmWpffm8Z_gIG&t=218). With possible origins on the Upper Nile and North Africa, a reflector-and-scepter mirror system may have used a beat to  convey pulses representing the the consonant-vowel characters using on a cypher like the labrys axe-mirror.
+There are [12 unique timeline beats in African music](https://youtu.be/8ypTYNGLr5A?si=YthHmWpffm8Z_gIG&t=218). With possible origins on the Upper Nile and North Africa, a reflector-and-scepter mirror system may have used a beat to convey light pulses representing the consonant-vowel characters using a cipher.
 
 Hiro Kuroda found that the disc can be read in both directions like, forming for 4 unique story sequences. Perhaps reversing phrases was a means to send back messages to confirm receipt and add more details.
 
