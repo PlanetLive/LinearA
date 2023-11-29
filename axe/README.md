@@ -69,7 +69,7 @@ DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; Heavens = 15<br><br><!-- Or 
 <div style="clear:both"></div>
 Note the similaries between the 3 columns on the axe and the 3 sections from the Hagia Triada Sarcophagus below. The funerary functions of women and men occur in the first two sections. In the third section, there are 3-steps, a floral symbol, and a building which has a long line and a short line, like the number 15 on the Axe. The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.
 
-<a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
+<a href="../img/hagia-triada-sarcophagus.jpg"><img src="img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
 Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
 
 15-syllable lines are common for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
