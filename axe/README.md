@@ -34,39 +34,48 @@ A translation of the 1625 BCE [Malia Stone](../hiro/#malia) by Hiro Kuroda found
 </div>
 
 <div style="float:left; border-right: 1px solid #ccc; margin-right: 20px;">
-<b>1=Priestess and 2=Priest (Heaven and Earth)<!--Consonant (Columns 1 & 2)--></b><br><br>
+<b>Columns 1 & 2 (Priestess and Priest) - Heaven and Earth<!--Consonant (Columns 1 & 2)--></b><br><br>
 
 <table>
 <tr>
 <td style="padding-right: 15px; border-right: 1px solid #ccc;">
-I &nbsp; &nbsp; &nbsp; ▄▄ &nbsp; Mother/Heaven = 1<!-- and 43--><br><br>
-DA &nbsp;&nbsp; ▄▄ &nbsp; ▄ &nbsp; Branch = 2<!-- and 21--><br><br>
-MA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Queen = 3<br><br><!-- KA -->
-NA &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄&nbsp; People = 4<br><br>
-PU &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄  &nbsp; Root = 5<!--(matches symbol of dash and 3-dots)--><br><br>
-ZE &nbsp;&nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄ ▄&nbsp; Dance = 6<br><br>
+1. &nbsp; ▄▄ &nbsp; I = Mother/Heaven<!-- and 43--><br><br>
+2. &nbsp; ▄▄ &nbsp; ▄ &nbsp; DA = Branch<!-- and 21--><br><br>
+3. &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; MA = Queen<br><br><!-- KA -->
+4. &nbsp; ▄▄ &nbsp; ▄ ▄ ▄&nbsp; NA = People<br><br>
+5. &nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄  &nbsp; PU = Root<!--(matches symbol of dash and 3-dots)--><br><br>
+6. &nbsp; ▄▄ &nbsp; ▄ ▄ ▄ ▄ ▄&nbsp; ZE = Dance<br><br>
 </td>
 
 <td style="padding-right: 25px; padding-left: 10px;">
-I &nbsp;&nbsp; ▄▄ ▄▄ &nbsp; Father/Earth = 7<br><br><!-- I -->
-SA &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; Limb/Blood = 8<!-- and 33--><br><br>
-NA &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; Chorus = 9<br><br>
-TA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; King = 10<!--commandments--><br><br>
-MA &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; Ares = 11<!-- and 27--><br><br>
-TE &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; Tree = 12<br><br>
+7. &nbsp; ▄▄ ▄▄ &nbsp; Y = Father/Earth<br><br><!-- I -->
+8. &nbsp; ▄▄ ▄▄ &nbsp; ▄  &nbsp; SA = Limb/Blood<!-- and 33--><br><br>
+9. &nbsp; ▄▄ ▄▄ &nbsp; ▄ ▄ &nbsp; VA = Chorus<br><br>
+10. &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; TA = King<!--commandments--><br><br>
+11. &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ &nbsp; HA = Ares<!-- and 27--><br><br>
+12. &nbsp; ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; ▄ ▄ &nbsp; KE = Tree<br><br>
 </td>
 </tr>
-</table>
+</table><br>
+
+Changes made to create unique consonants:<br>
+I D M N P Z Y S V T H K C R W<br>
+(7) I to Y &nbsp; (9) NA to VA &nbsp; (11) MA to HA &nbsp; (12) TE to KE &nbsp; (15) DA to WA
+
 </div>
 
 <div style="float:left">
-<b>3=Numbers 13 and up</b><br><br>
-KO &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ &nbsp; Sign = 13<br><br><!-- KO -->
-RE &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ &nbsp; From = 14<br><br>
-DA &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; Heavens = 15<br><br><!-- Or BA -->
+<b>Column 3 = Numbers 13, 14, 15</b><br><br>
+13. &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ &nbsp; KO = Sign<br><br><!-- KO -->
+14. &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄ ▄ ▄ ▄ &nbsp; RE = From<br><br>
+15. &nbsp; ▄▄ ▄▄ ▄▄ &nbsp; ▄▄ &nbsp; WA = Heavens<br><br><!-- Or BA -->
 </div>
 
+
+
 <div style="clear:both"></div>
+
+
 Note the similaries between the 3 columns on the axe and the 3 sections from the Hagia Triada Sarcophagus below. The funerary functions of women and men occur in the first two sections. In the third section, there are 3-steps, a floral symbol, and a building which has a long line and a short line, like the number 15 on the Axe. The missing bottom of the floral symbol probably had 4 leaves to match the number 14 on the Axe cipher.
 
 <a href="../img/hagia-triada-sarcophagus.jpg"><img src="img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
@@ -175,7 +184,7 @@ In Japanese, there are 9 consonants (K, S, T, N, H, M, Y, R, W).
 
 To create 15 unique consonants, some of the consonants in the second column could take a masculine (underworld) form. Here are five possible changes to create unique consonants: #7 from I to Y, #9 from N to V, #11 from M to H, #12 from T to K, #15 from D to B.
 
-I D M N P Z Y S V T H K C R B
+I D M N P Z Y S V T H K C R W
 
 Another option is to make Number 3 (Ma) into Ka. Ka is the word for Soul in Egptian and has a similar [head ornament](https://www.google.com/search?q=Egyptian+Ka) to #3.
 
