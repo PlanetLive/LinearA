@@ -2,7 +2,7 @@
 
 # Ancient Minoans - Japanese Language Origins
 
-Original paper by Hiro Kuroda updated by [Loren Heyns](https://dreamstudio.com/earth/) to include the Minoan mirror communication network elements. The mirror network operators oversaw seasonal trade between Egypt, Crete and Greece (Athens, Mycenae, Tiryns and Thebes). Read Loren's addition of seasonal trade in [Phaistos Disc translation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
+Original paper by Hiro Kuroda updated by [Loren Heyns](https://dreamstudio.com/earth/) to include Minoan mirror communication network elements. The mirror network operators oversaw seasonal trade between Egypt, Crete and Greece (Athens, Mycenae, Tiryns and Thebes). Read Loren's addition of seasonal trade in [Phaistos Disc translation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
 
 
 ## Linear A is Nihongo
