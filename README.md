@@ -1,6 +1,8 @@
-# Linear A &ndash; Global Mirror Network &ndash; Model Building
+# Linear A Script <!--&ndash; Model Building-->
 
-Understanding early communication using mirrors, drums and fire signals for trade route logistics is an important step toward connecting the threads of world history - specifically megalythic structures, hilltop temples, mound villages and straight roads with cleared forest canopies for line-of-sight communication.
+## Global Mirror Network Origins
+
+Understanding the use mirrors, drums and fire signals for early trade route logistics is an important step toward connecting the threads of world history - specifically megalythic structures, hilltop temples, mound villages and straight roads with cleared forest canopies for line-of-sight communication.
 
 Our current focus is on expanding the LinearA translations of [Hiro Kuroda](hiro/) by adding related information as we explore theories on how the Minoan mirror network fostered trade in the Mediterranean from 1400 BCE up to 380 BCE when Alexander the Great restored signal communication with Egypt under the guidance of hill temple operators (oracles at Delphi and Siwa) at the north and south sides of the Aegean Sea portion of the network.
 
