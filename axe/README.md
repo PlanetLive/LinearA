@@ -475,3 +475,5 @@ In Phoenician, the bull-head was called Aleph and later became the Roman letter 
 Corybantians were armored male dancers who kept time to a drum and the rhythmic stamping of their feet in a male coming-of-age initiation ritual. [More](https://en.wikipedia.org/wiki/Korybantes)
 
 The dance steps they learned were based on short and long turns in a minotaur maze drawn on a courtyard and might provide us with further clues on how young people memorized LinearA consonant-vowel syllables for mirror and drum messages.
+
+Turning back to 5260 BCE in the northern Aegean - [The Dispilio Tablet](https://jiroftscript.quora.com/Ever-heard-of-the-Dispilio-Tablet) is older than the pyramids and older than the Varna treasure, but not as old as Gobekli Tepe. [Settelment buildings](https://novoscriptorium.com/2019/07/05/the-settlement-of-dispilio-kastoria-greece-writing-in-neolithic-greece/)
