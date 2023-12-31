@@ -4,9 +4,9 @@
 
 Understanding the use of mirrors, drums and fire signals for early trade route logistics is an important step toward connecting the threads of world history - specifically megalythic structures, hilltop temples, mound villages and straight roads where forest canopies were cleared for line-of-sight communication.
 
-Our current focus is on expanding the LinearA translations of [Hiro Kuroda](hiro/) by adding related information as we explore theories on how the Minoan mirror network fostered trade in the Mediterranean from 1400 BCE up to 380 BCE when Alexander the Great restored signal communication with Egypt under the guidance of hill temple operators (oracles at Delphi and Siwa) at the north and south sides of the Aegean Sea portion of the network.
+We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Egypt, Greece and Turkey.
 
-Our observation is that Linear A was (1) designed to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its roots in Indus Valley script to its offspring Japanese  hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where extended families bound by marriages used long distance mirror, fire and drum communication to "punt light" between islands, where ships with white hulls were santioned by the Minoan trade network and traveled without fear of tarrifs or worse.
+Linear A was (1) designed to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its roots in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
 
 &ndash; Loren Heyns (drawing upon the [Minoan&nbsp;Mirror&nbsp;Web](https://www.minoanatlantis.com/Minoan_Mirror_Web.php))
 
