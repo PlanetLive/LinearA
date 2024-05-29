@@ -7,6 +7,8 @@ The young warriors of Crete learned a dance which echoed the turns of the laberi
 
 "The dance known as the geranos was a chthonic (underworld) maze dance, around a horned altar, in honor of a female divinity." [1946](https://www.jstor.org/stable/283449) - The author suggests the origin was Minoan, but more recent findings tie the bull to the origin of the Minotaur maze to the Upper Nile. Cultures around the world used mazes to stump attackers.
 
+In 1998 the video dance game [Dance Dance Revolution (DDR)](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) was released by the Japanese company Konami, who also created Frogger in 1981.
+
 <a href="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png"><img src="/LinearA/img/Drawing-of-the-Arkalochori-axe-and-its-inscription-by-Giuliano-Merlatti.png" style="width:100%;max-width:800px"></a>
 
 <h2>Heaven and Earth Columns - Hers and His Mirror Beats</h2>
