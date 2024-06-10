@@ -1,8 +1,10 @@
 [Introduction](../)
 
+Recent June 2024 publication by [Mizuhiro Kuroda](https://independent.academia.edu/HiroKuroda?swp=tc-au-48923197) on [Indus Script](https://www.academia.edu/48923197/Indus_Script?auto=download&email_work_card=download-paper)
+
 # Ancient Minoans - Japanese Language Origins
 
-Original paper by Hiro Kuroda updated by [Loren Heyns](https://dreamstudio.com/earth/) to include Minoan mirror communication network elements. The mirror network operators oversaw seasonal trade between Egypt, Crete and Greece (Athens, Mycenae, Tiryns and Thebes). Read Loren's addition of seasonal trade in [Phaistos Disc translation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
+[Original paper](https://www.academia.edu/39029658/Linear_A_and_Japanese_Language_Phaistos_Disk_is_Decoded_) by Hiro Kuroda with updates by [Loren Heyns](https://dreamstudio.com/earth/) to include Minoan mirror communication network elements. The mirror network operators managed seasonal trade between The Land of Punt, Egypt, Crete and Greece (Athens, Mycenae, Tiryns and Thebes). Read Loren's addition of seasonal trade in [Phaistos Disc translation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
 
 
 ## Linear A is Nihongo
