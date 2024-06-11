@@ -1,0 +1,34 @@
+# The search for origins
+
+Indus Valley Civilizaition may have traded with Africa. The languages, like Japanese, may share open-syllable restriction in which most syllables must end on a vowel or an n.
+
+Similar sounds and Japanese words have been found in some South America tribes.  Regions with high HTLV-1 prevalence may match these migrations. HTLV-1 prevalence is highest in Western Africa,  Melanesia and the Pacific Islands, including Papua New Guinea and the Solomon Islands, parts of South America, southwestern Japan, the Caribbean, Iran and India. HTLV-1 is an ancient retrovirus that can cause leukemia.
+
+
+The figures seem to represent older women who have achieved status, leaders, honored matriarches, respecred grandmothers, the queen for the tribe. The elderly held elite status, performing rituals and making decisions that impacted the entire community. Fatness was a sign of social standing, age and seniority. "Fatness symbolized high status in a stratified society rather than an elevated place in a society of equals" - [Chris Kark](https://news.stanford.edu/stories/2016/09/archaeologists-find-8000-year-old-goddess-figurine-central-turkey)
+
+
+https://www.reddit.com/r/Archaeology/comments/15jlypj/paleolithic_art_the_evolution_of_the_paleolithic/
+
+
+
+The Zambia Chichewa/Nyanja rules for vowel pronunciation, that are the exact same as the ones for Swahili and Japanese katakana.
+https://japaneseplus.org/2021/04/13/similarities-between-the-japanese-and-bantu-languages/
+
+
+Like Japanese, Swahili, Zulu, Xhosa, and Yoruba use syllables that tend to follow the pattern of a consonant followed by a vowel or a nasal consonant.
+
+
+---
+Helene HT
+https://www.quora.com/Why-do-some-West-African-languages-share-similarities-with-Japanese
+
+The most striking similarity is the open-syllable restriction, i.e. all syllables must end on a vowel or an n. For example, “Mitsubishi” must be hyphened “Mi-tsu-bi-shi”, since for example “Mit-sub-is-yi” would contain three non-Japanese syllables.
+
+Many Niger-Congo languages have the same restriction. So this is found in East Africa also.
+
+It is quite a clever innovation that allows people to speak fast as you don’t need to tempo to indicate which phonemes belong to which syllable. In English, for example, if you speak very fast you may confuse “push-up” with “poo-shop”. So it has been invented independently in many languages. Polynesian languages have it also.
+
+You may wonder why there’s given an exception to the “n”. In Japanese, the answer is that it used to be strict vowel-final but then adopted a lot of Chinese loanwords that ended on consonants. Those ending on other consonants than n lost it to adapt to Japanese rules, but the n-final syllables were conserved as n is generally a strongly conserved phoneme (for example, that the word for “nose” contains an “n” is shared between an awful lot of languages).
+
+---

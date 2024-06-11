@@ -2,6 +2,10 @@
 
 Recent June 2024 publication by [Mizuhiro Kuroda](https://independent.academia.edu/HiroKuroda?swp=tc-au-48923197) on [Indus Script](https://www.academia.edu/48923197/Indus_Script?auto=download&email_work_card=download-paper)
 
+<!--
+Now that the sound of Linear A from the Phaistos Disc has been decoded, has anyone created a translation using Swahili, Zulu, Xhosa, and/or Yoruba? Are you familiar with the translation by Hiro (Mizuhiro) Kuroda using Japanese? If so, can you make comparisons between the two translations?
+-->
+
 # Ancient Minoans - Japanese Language Origins
 
 [Original paper](https://www.academia.edu/39029658/Linear_A_and_Japanese_Language_Phaistos_Disk_is_Decoded_) by Hiro Kuroda with updates by [Loren Heyns](https://dreamstudio.com/earth/) to include Minoan mirror communication network elements. The mirror network operators managed seasonal trade between The Land of Punt, Egypt, Crete and Greece (Athens, Mycenae, Tiryns and Thebes). Read Loren's addition of seasonal trade in [Phaistos Disc translation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
