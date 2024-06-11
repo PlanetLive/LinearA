@@ -1,9 +1,22 @@
 # The search for origins
 
-Indus Valley Civilizaition may have traded with Africa. The languages, like Japanese, may share open-syllable restriction in which most syllables must end on a vowel or an n.
+Indus Valley Civilizaition may have traded with southeast Africa. The languages, like Japanese, may share open-syllable restriction in which most syllables end on a vowel or an n.
 
-Similar sounds and Japanese words have been found in some South America tribes.  Regions with high HTLV-1 prevalence may match these migrations. HTLV-1 prevalence is highest in Western Africa,  Melanesia and the Pacific Islands, including Papua New Guinea and the Solomon Islands, parts of South America, southwestern Japan, the Caribbean, Iran and India. HTLV-1 is an ancient retrovirus that can cause leukemia.
+Similar sounds and Japanese words have been found in some South America tribes.  
 
+Regions with high HTLV-1 prevalence may match migrations to South America from Africa and/or the Pacific AFTER the migration across across the Bering Strait around 10,000 BCE.  HTLV-1 is an ancient retrovirus that can cause leukemia. [Distribution maps](https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/geographical-distribution-areas-high-prevalence-HTLV1.pdf)
+
+In HTLV-1 found in Andes mummumies from 500 AD but not populations of native North Americans suggests there were different waves of migration.  Today HTLV-1 is highest in western Sub-Saharan Africa, Iran, Romania (eastern Europe), Tiawan, southwestern Japan, Melanesia and the Pacific Islands, including Papua New Guinea and the Solomon Islands, Aboriginal Australians. 
+
+India doesn't have a high prevalence for HTLV-1 (nor Greece). The Indus Valley Civilization reached it's peak from 2600 BCE to 1900 BCE. The implication is that migrations of the language was not accompanied by the spread of HTLV-1, and that HTLV-1 spread to Japan more recently.
+
+Indeed, the oldest evidence of HTLV-1 in Japan is from burial remains from around 500 AD during the Kofun period (approximately 3rd to 7th century AD). This suggests the relatively recent spread to Japan (and China) may have emerged from contact with older migrations from Africa via Aboriginal Australians and Pacific Island populations. Higher levels of Aboriginal genetics are also found in South America.
+
+In the south of Peru and north of Chile, marine hunter-gatherers mummified everyone, 2000 years before Egyptians. Atacama was a thing from approximately 5450 BCE to 890 BCE.
+https://www.bbc.com/travel/article/20220519-chiles-desert-town-built-on-mummies
+
+
+## Figures of veneration and success
 
 The figures seem to represent older women who have achieved status, leaders, honored matriarches, respecred grandmothers, the queen for the tribe. The elderly held elite status, performing rituals and making decisions that impacted the entire community. Fatness was a sign of social standing, age and seniority. "Fatness symbolized high status in a stratified society rather than an elevated place in a society of equals" - [Chris Kark](https://news.stanford.edu/stories/2016/09/archaeologists-find-8000-year-old-goddess-figurine-central-turkey)
 
