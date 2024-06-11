@@ -6,6 +6,9 @@ Indus Valley Civilizaition may have traded with southeast Africa. The languages,
 The Zambia Chichewa/Nyanja rules for vowel pronunciation are the same as Swahili and Japanese katakana. Like Japanese, Swahili, Zulu, Xhosa, and Yoruba use syllables that follow the pattern of a consonant followed by a vowel or a nasal consonant.
 https://japaneseplus.org/2021/04/13/similarities-between-the-japanese-and-bantu-languages/
 
+Many Niger-Congo languages, including the Bantu languages, typically prefer syllables that end in a vowel or a nasal consonant (m, n, ŋ). This preference results in a predominance of open syllables (CV or CVN).
+
+Only the Mande branch, which includes Bambara, Mandinka and Soninke, exhibits SOV word order like Japanese. Other Niger-Congo languages typically follow a Subject-Verb-Object (SVO) word order.
 
 ---
 
