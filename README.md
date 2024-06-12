@@ -1,8 +1,8 @@
 # Linear A Script <!--&ndash; Model Building-->
 
-## Global Mirror Network Origins
+## Global Mirror Network
 
-Understanding the use of mirrors, drums and fire signals for early trade route logistics is an important step toward connecting the threads of world history - specifically megalythic structures, hilltop temples, mound villages and straight roads where forest canopies were cleared for line-of-sight communication.
+Understanding the use of mirrors, drums, bird couriers and fire signals for trade logistics has been a missing thread in connecting the patterns of world history. Unraveling the role of line-of-sight communication in the locations of megalythic structures, hilltop temples, mound villages and straight lines were roads were cleared through tree canopy for line-of-sight communication.
 
 We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Egypt, Greece and Turkey.
 
@@ -28,31 +28,21 @@ The third image above is a dual-mirror for sending Morse Code which was inspired
 
 The box-mirror above was found in Israel in 2023 in the tomb of a woman traveling with Alexander's generals.
 
-## Make Edits and Additions
 
-Contribute updates and images, add your comments as GitHub issues, and reuse our pages as submodules in your projects and models.
-
-You can include as a [submodule within a GitHub site](/localsite/start/submodules). 
-
-	git submodule add https://github.com/PlanetLive/LinearA LinearA
-	git commit -m "[repo] submodule"
-	git submodule update --init --recursive
-
-Also include the ModelEarth localsite repo as a submodule for common navigation javascript.
-
-	git submodule add https://github.com/ModelEarth/ModelEarth localsite
-	git commit -m "[repo] submodule"
-	git submodule update --init --recursive
-
-Lastly, push within Github Desktop. (The repos will already be commited.)
-Then you'll see the submodules in your main Github website and you can view it at yoursite.github.io/LinearA or your custom domain.
+<a href="img/aegean-line-of-sight.jpg"><img src="img/aegean-line-of-sight.jpg" style="height:100%;max-height:500px;"></a>
+[Source: Sheppard Baird](https://www.minoanatlantis.com/Minoan_Mirror_Web.php) - Also see <a href="/LinearA/img/Minoan_Peak_Sanctuaries_Proto-Palatial_Connections.jpg">Crete closeup map</a>
 
 
 ## Dive in, but take your mirrors!
 
 The shape of the Minoan shield is perfect for carrying the two sides of your mirror box - for communicating from boat decks to hill temples. With the strings attached to your metal plates, you have a scale for weighing shipping goods (grains and spices) in the market. When sealed with your front metal plate, the shield becomes a floatation device which holds your paperwork and cipher ax-mirror.
 
-<a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="height:200px;max-height:200px;margin-right:30px"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="height:200px;max-height:200px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="height:200px;max-height:200px"></a>
+<style>
+	.imgThree {
+		height:200px; margin:0 30px 10px 0
+	}
+</style>
+<a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" class="imgThree"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" class="imgThree"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" class="imgThree"></a>
 
 The convex shape of the shield would also allow a drum beat to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
 
