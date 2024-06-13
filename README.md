@@ -2,7 +2,7 @@
 
 ## Global Mirror Network
 
-Understanding the use of mirrors, drums, fire signals, and bird couriers for trade logistics is often the missing thread in reconstructing the patterns of world history prior to 1,400 BCE. <!--Unraveling -->The role of line-of-sight communication in the locations of megalythic structures, hilltop temples, and mound villages connected with straight roads cut through tree canopy for visual signaling.
+Exploring the use of mirrors, drums, fire signals, and bird couriers for trade logistics prior to 1,400 BCE adds perspective when modeling the patterns of world history . <!--Unraveling -->The role of line-of-sight communication in the locations of megalythic structures, hilltop temples, and mound villages connected with straight roads cut through tree canopy for visual signaling.
 
 <!--complimented by audio and high areal light displays (fireworks and reflection off clouds, tops of ziggurats and mountain peaks)-->
 
