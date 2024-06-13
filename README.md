@@ -2,11 +2,13 @@
 
 ## Global Mirror Network
 
-Understanding the use of mirrors, drums, bird couriers and fire signals for trade logistics has been a missing thread in connecting the patterns of world history. Unraveling the role of line-of-sight communication in the locations of megalythic structures, hilltop temples, mound villages and straight lines were roads were cleared through tree canopy for line-of-sight communication.
+Understanding the use of mirrors, drums, fire signals, and bird couriers for trade logistics is often the missing thread in reconstructing the patterns of world history prior to 1,400 BCE. <!--Unraveling -->The role of line-of-sight communication in the locations of megalythic structures, hilltop temples, and mound villages connected with straight roads cut through tree canopy for visual signaling.
+
+<!--complimented by audio and high areal light displays (fireworks and reflection off clouds, tops of ziggurats and mountain peaks)-->
 
 We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Egypt, Greece and Turkey.
 
-Linear A was (1) designed to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its roots in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
+Linear A (1) evolved to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its use in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
 
 &ndash; Loren Heyns (drawing upon the [Minoan&nbsp;Mirror&nbsp;Web](https://www.minoanatlantis.com/Minoan_Mirror_Web.php))
 
