@@ -26,7 +26,7 @@ The third image above is a dual-mirror for sending Morse Code which was inspired
 
 
 <div style="clear:both"></div>
-<a href="/LinearA/img/mirror-box.jpg"><img src="/LinearA/img/mirror-box.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a><a href="/LinearA/img/mirror-box2.jpg"><img src="/LinearA/img/mirror-box2.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a><a href="/LinearA/img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a>
+<a href="/LinearA/img/mirror-box.jpg"><img src="/LinearA/img/mirror-box.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a><a href="/LinearA/img/mirror-box2.jpg"><img src="/LinearA/img/mirror-box2.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a><a href="https://dreamstudio.com/seasons/world-travels/"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="float:left; height:100%; max-height:180px; margin-right:30px"></a>
 <div style="clear:both"></div>
 
 The box-mirror above was found in Israel in 2023 in the tomb of a woman traveling with Alexander's generals.
@@ -35,10 +35,17 @@ The box-mirror above was found in Israel in 2023 in the tomb of a woman travelin
 <a href="img/aegean-line-of-sight.jpg"><img src="img/aegean-line-of-sight.jpg" style="height:100%;max-height:500px;"></a>
 [Source: Sheppard Baird](https://www.minoanatlantis.com/Minoan_Mirror_Web.php) - Also see <a href="/LinearA/img/Minoan_Peak_Sanctuaries_Proto-Palatial_Connections.jpg">Crete closeup map</a>
 
+<a href="img/creta-heraclion-estructura-circular-1.webp"><img src="img/creta-heraclion-estructura-circular-1.webp" style="height:100%;max-height:500px;"></a>
+[Circular Labyrinthine](https://www.labrujulaverde.com/en/2024/06/extraordinary-circular-labyrinthine-structure-from-the-minoan-era-formed-by-8-stone-rings-discovered-in-crete/) at Papoura Hill, at an altitude of 494 meters.
+[Located north of Liliano (#16)](https://www.google.com/maps/dir/Liliano,+Greece/35.219917,25.322472/@35.2043604,25.0021873,106550m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x149a8af570dd7747:0x35a0f9c516006f59!2m2!1d25.3304831!2d35.1844792!1m0!3e2?hl=en&entry=ttu) on the north side of the airport.<br>
+Perhaps Papoura Hill has line-of-sight to Phaistos?
+
+<a href="img/Minoan_Peak_Sanctuaries_Proto-Palatial_Connections.jpg"><img src="img/Minoan_Peak_Sanctuaries_Proto-Palatial_Connections.jpg" style="width:100%;max-width:1400px;"></a>
+
 
 ## Dive in, but take your mirrors!
 
-The shape of the Minoan shield is perfect for carrying the two sides of your mirror box - for communicating from boat decks to hill temples. With the strings attached to your metal plates, you have a scale for weighing shipping goods (grains and spices) in the market. When sealed with your front metal plate, the shield becomes a floatation device which holds your paperwork and cipher ax-mirror.
+The shape of the Minoan shield is perfect for carrying the two sides of your mirror box - for communicating from boat decks to hill temples. With the strings attached to your metal plates, you have a scale for weighing shipping goods (grains and spices) in the market. When attaced to your front metal plate, the shield floats, so you won't loose your paperwork and cipher mirror-ax.
 
 <style>
 	.imgThree {
