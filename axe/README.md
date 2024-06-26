@@ -321,13 +321,13 @@ And the raft makes the cave resound. “Heave, ho,” brings back, “Ho, heave,
 [If you play the beat one direction, I'll play it back from the other direction to confirm I've heard it correctly.]
 
 These echoes are like a play on words, so heave and ho!
-[The disc is recited backwards and forwards, using drum beats and mirror flashes that represent both syllables words.]
+[The disc is recited backwards and forwards, using drum beats and mirror flashes - back and forth.]
 
 “Go, quickly!”   What was that?   “Hey, Mister.”
-[These are quick ways to send phrases: speed up the beat, please repeat, and Hi I'm here.]
+[These are quick ways to send phrases: speed up the beat, please repeat, and Hi I'm here ready to receive.]
 
-I see!  The lake speaks.   “Oh, is that so?”
-[More shorthand. The lake speaks means I'm transmitting to you from a boat.]
+I see!  The lake speaks.  “Oh, is that so?”
+[I see means I've received your signal. The lake speaks means I'm transmitting to you from a boat. Oh is that so could be a request to repeat the transmission to clarify.]
 <br>
 
 <a href="/LinearA/img/minoan-ships.webp"><img src="/LinearA/img/minoan-ships.webp" style="width:100%;max-width:3000px"></a>
@@ -340,16 +340,16 @@ The lake (of Athens) at high tide filled you with remorse,
 [When the harbor is deeper it reminded you it was time to travel back home on the deep sea.]
 
 You despaired and flung yourself, what a depressing story! “That is the reason. Why allude to it now?
-[You fell, like a leaf from a tree. It's time to leave your loved ones. You gotta make a living.]
+[It's the season fall, and like a leaf falls from a tree, you too must follow the seasonal trade. It's time to leave your loved ones to earn your living.]
 
 Turn back!　Be on your way home.”
-[Back into the soil. Time to go back home before winter arrives here in the north around Athens.]
+[Time to go back to your home in the south before winter arrives here in the north.]
 
 You hate it, it is a terrible story and brings me down. 
 [Goodby summer. "So long Marianne," as Leonard Cohen would later sing in Greece.]
 
 “For the rest, (ascend the throne / find a queen) in Athens without delay!”
-[Time to settle into a homestead for the upcoming winter if you decide to stay.]
+[Time to settle into a new homestead for the upcoming winter.]
 
 I know, please be discreet when you speak.
 [Don't let the enemy know the day I will be traveling south by sea.]
@@ -358,16 +358,16 @@ I know, please be discreet when you speak.
 [See you again in the spring. I'll return with a ship full of trade goods.]
 
 With great father, let me trust him, as he said, he would see me again, on a mutually congenial day.
-[I'll come home again when the weather is warm again. Father knows best.]
+[I'll come home again when the weather is warm again, on a day we agree to in advance.]
 
 And then this small dragon will pass away, find solace.
-[My boat is headed south where the weather will be nice and sunny. I am the Little Dipper leaving the north star.]
+[My boat, which looks like a dragon, is headed south where the weather will be nice and sunny. I am the Little Dipper leaving the north star.]
 
 “Trust in old father, now like a bending branch. I will see you again, on a mutually congenial day, 
-[See you in the spring son. The branches are heavy and I will take this harvest with me to trade in the south.]
+[See you in the spring son. The bending branch is heavy with fruit and I will take this harvest with me to trade in the south.]
 
 In the remotest of lands.
-[From the far north to the distant south we migrate and trade.]
+[From the far north to the distant south we migrate and trade with the Land of Punt.]
 
 Now, outside the lake, I must stop here. That big dragon in the sky must be father! Father in person!
 [After the sun sets, I see a large mirror signal from my father, reflected with his mirrors. The big dragon is the Big Dipper above my father's home in the north.]
