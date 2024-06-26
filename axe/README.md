@@ -297,7 +297,7 @@ How the lake shines and brilliantly reflects!
 
 Now I enter the lake, 
 With an oar for punting, to reach Hades.
-[Hades would be toward the west and north, where the sun goes to die. The Greeks gates of the underworld were in canyon of the River Acheron, in Epirus, northwestern Greece. In addition to rowing, "punting" may refer to twisting mirror-axes back-and-forth to relay rhythmic verse in long-distance messages, similar to rowing to a drum beat.]
+[Hades would be toward the west and north, where the sun goes to die. The Greek's "gates of the underworld" were in a canyon of the River Acheron, in Epirus, northwestern Greece. In addition to rowing, "punting" may refer to twisting mirror-axes back-and-forth to relay rhythmic verse in long-distance messages, similar to rowing or to a drum beat.]
 
 The father I am to meet is the King, so let me believe in our reunion.
 [Traveling to the northern land of our ancesters - up the coasts toward Turkey and northern Greece.]
