@@ -7,7 +7,7 @@ Exploring the use of mirrors, drums, fire signals, and bird couriers for trade l
 
 <!--complimented by audio and high areal light displays (fireworks and reflection off clouds, tops of ziggurats and mountain peaks)-->
 
-We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Egypt, Greece and Turkey.
+We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Greece, Crete, Egypt and [The Land of Punt](https://dreamstudio.com/seasons/summer/punt/).
 
 Linear A (1) evolved to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its use in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
 
