@@ -1,3 +1,13 @@
+# Her Floating Shield and Mirror Ax
+
+## Minoan Shield
+
+The figure-8 shield case may have contained the reflective axe blade, mirror-box and cipher. Serving as both a purse and a tray for food with a covering lid, it may have also been designed to float. The mirror-box (above) would have fit withing, and served as the base plates of a scale - for weighing trade goods. The scale is depicted in Minoan priestess illustrations. Note how the spiral background matches the spiral of the [Phaistos&nbsp;Disc](../).
+
+<a href="../img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px" class="fullMobile"></a><a href="../img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="../img/shields-spiral-wall.jpg" style="width:400px" class="fullMobile"></a>
+
+The convex shape of the shield would also allow a drum beat signal to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
+
 
 ## Arkalochori Axe as Mirror Cipher
 
@@ -80,7 +90,7 @@ I D M N P Z Y S V T H K C R W<br>
 
 Note the similaries between the 3 columns on the axe and the 3 sections from the Hagia Triada Sarcophagus below. The funerary functions of women and men occur in the first two sections. In the third section, there are 3-steps, a floral symbol, and a building which has a long line and a short line, like the number 15 on the Axe. The missing bottom of the floral symbol may have had 4 leaves to match the number 14 on the Axe cipher.
 
-<a href="/LinearA/img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
+<a href="../img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
 Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
 
 15-syllable lines are common for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
@@ -239,14 +249,6 @@ The laws of government could be invoked by RE (character 14). RE contains both 1
 
 For laws and customs that applied to shipping and marriage, the 4 areas of law could be based on seasons of the year, and conveyed on the disc in a dance - which was taught as a right-of-passage using dance-steps in a maze in the palace courtyard. Imagine being a child dancing in Crete in 1400 BCE, and traveling to new lands using drum and mirror communication that spanned continents.
 <br>
-
-## Minoan Shield
-
-A figure-8 shield kit may have contained the reflective axe blade, mirror-box and cipher. It may have been designed to float. The two metal sides of the mirror-box may have served as the base plates of a scale - for weighing trade goods. The scale is depicted in Minoan priestess illustrations. Note how the spiral background matches the spiral of the [Phaistos&nbsp;Disc](../).
-
-<a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px" class="fullMobile"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="width:400px" class="fullMobile"></a>
-
-The convex shape of the shield would also allow a drum beat signal to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
 
 ## Bull Leaping
 
