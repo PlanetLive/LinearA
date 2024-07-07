@@ -1,8 +1,8 @@
-# Her Floating Shield and Mirror Ax
+# Figure-8 Shield and Mirror Axe
 
 ## Minoan Shield
 
-The figure-8 shield case may have contained the reflective axe blade, mirror-box and cipher. Covered with protective cow hide, the satchel served as both a purse and a covered tray for picnics. It may have also been designed to float. The mirror-box (above) would have fit within and served as the base plates for a scale to weigh trade goods. The convex shape of the shield would allow a drum beat signal to be narrow-cast in a single direction for privacy during troop movement.<!--Great observation Stephen Thompson!--> The spiral background matches the 2-way reading spiral of the Phaistos Disc maze dance song that encapulated signal transmissions.
+The figure-8 shield case could provide storage for the reflective axe blade, mirror-box and cipher. Covered with protective cow hide, the satchel served as a purse and a covered tray for picnics. It may have also been designed to float. The mirror-box (above) would have fit within and served as the base plates for a scale to weigh trade goods. The convex shape of the shield would allow a drum beat signal to be narrow-cast in a single direction for privacy during troop movement. The spiral background matches the 2-way reading spiral of the Phaistos Disc maze dance song that encapulated signal transmissions.
 
 <a href="../img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px;margin-bottom:15px" class="fullMobile"></a><a href="../img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px;margin-bottom:15px"></a><a href="../img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="height:300px;margin-right:20px" class="fullMobile"></a><a href="../img/minoan-woman.jpg"><img src="/LinearA/img/minoan-woman.jpg" style="height:300px" class="fullMobile"></a>
 
@@ -281,42 +281,88 @@ Starting Clockwise, then flipping. Then reading both sides in reverse.
 
 ### (Side A Clockwise)
 
-How the lake shines and brilliantly reflects!
-[The ocean reflects like the mirrors we use to communicate between ships and land.]
+<span style="font-size:1.2em;">**The surface of the water is reflective like my labrys (mirror axe).
+We punt (trade) with light to communicate with the north (Hades).
+The father I communicate with is my father the King.
+Let's trust that we will be reunited in person with him soon.**</span>
 
-Now I enter the lake, 
-With an oar for punting, to reach Hades.
-[Hades would be toward the west and north, where the sun goes to die. The Greek's "gates of the underworld" were in a canyon of the River Acheron, in Epirus, northwestern Greece. In addition to rowing, "punting" may refer to twisting mirror-axes back-and-forth to relay rhythmic verse in long-distance messages, similar to rowing or to a drum beat.]
+"Punting" refers to trading with light by twisting the mirror-axes staff back-and-forth to relay rhythmic verse long-distance by passing signals between boats.
 
+Hades was the Greek mainland, where the sun goes to die. The Greek's "gates of the underworld" were in a canyon of the River Acheron, in Epirus in northwestern Greece. 
+
+I-QE-PA-JE-RJU /   　　E-TU-QE 　AU-DI-TI / 
+いけはえる－ゆえ、はえい  えつへ　　　　あうじち－しんじあう
+池の水面が映える / 池に入る、そのための杖（櫓）/地獄（ヘズ、Hades）へ。会う父は、父王。父との再会を信じよう。
+
+<!--
+How the lake shines and brilliantly reflects! /Now I enter the lake, 
+With an oar for punting/ To reach Hades.
 The father I am to meet is the King, so let me believe in our reunion.
-[Traveling to the northern land of our ancesters - up the coasts toward Turkey and northern Greece.]
+-->
 
-Oh, the lake is deep blue at the height of summer,
-[This side of the disc is about summer, a beautiful time for ocean travel to the north.]
+<br>
 
-I sense that as I punt through the cave river for the underworld, and the lake moves out of sight.
-[The sun has set, no more light for mirrors to punt the sun.]
+<span style="font-size:1.2em;">**Oh, the deep blue water at the height of summer!**</span>
 
-Heave ho! Now this way, now that, the cave implores, to my great misery,   
-[Now we must rely on sound to avoid the shore and to communicate.]
+We are midway in our crossing during our summer trade voyage.
 
-And the raft makes the cave resound. “Heave, ho,” brings back, “Ho, heave,” by a ruse on this lake.
-[The echos are like the opening rhythms we send by drums at night, but directionality is difficult.]
+AU-AU-PI  　I-QE-NWA-TU-SAKANA
+あおあおき　　いけ　な　つ さかんな
+おお青き　　　池は夏の盛り
 
-The lake speaks. “Oh perhaps, by a ruse, on this lake,”
-[Is that the sounds of drums across the water, or waves crashing, or an enemy. We send a common song to confirm we are using the same cipher.]
 
-And the raft makes the cave resound. “Heave, ho,” brings back, “Ho, heave,” by a ruse, on this lake. 
-[If you play the beat one direction, I'll play it back from the other direction to confirm I've heard it correctly.]
+<br>
 
-These echoes are like a play on words, so heave and ho!
-[The disc is recited backwards and forwards, using drum beats and mirror flashes - back and forth.]
+
+<span style="font-size:1.2em;">**If you go there (to Hades), communicating up the river of the cave (in the darkness),<br>
+the ocean (the world of the living) will disappear (behind you).**</span>
+
+KA-DI-TI-QE 　　KAWA-(BE)-NO　 I-QE-KE-RJU-NE
+かじ　ち　へ　　　　川辺の　　　　　池を蹴るね/ 池、消えるね
+と感じて、かの地へ、　洞窟の川を　　蹴って進めば 池が消えていくね、
+
+
+<br>
+
+<span style="font-size:1.2em;">**Heave ho! Now this way, now that, the cave implores, to my great misery.**</span>
+
+I'm crying (it' raining), unsure which way to go. Now we must rely on sound to find our way.
+
+KU-RJA-TE 　I-QE-(KO)-DA-TE　　 JE-(KO)-TU-TI　 I-QE-RA-NA-QA
+くりゃて　　　いえ、こうだって　　　いえ、こっち　　　いけらなか
+と来りゃ。　　いえ、こうだって、　　いえ、こっち　　　行けと泣かれて
+
+
+<br>
+
+<span style="font-size:1.2em;">**We hear our echo from the other side of the river (in the cave),<br>
+as the sound of the raft makes the cave resound.<br>
+“Heave, ho,” brings back “Ho, heave”.<br>
+If the echo does not occur in reverse, we are not communicating.**</span>
+
+These echoes (on the disc) are like a play on words, so heave and ho!
+
+The echos are like the opening rhythms we send by drums at night to establish communication. The reply most occur backwards (like the song on the disc), otherwise we are mearly listening to the cave's echo.
+
+RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
+れ　て　　　いかどわ　ぞ な りう　  よれ－れよ　いけくりや、けいりゃく
+イカダが鳴り響く、お－い、い－よ、と。池来りゃ計略で。
+
+
+<br>
+
+
+
+The disc is recited backwards and forwards, using drum beats and mirror flashes - back and forth.
 
 “Go, quickly!”   What was that?   “Hey, Mister.”
-[These are quick ways to send phrases: speed up the beat, please repeat, and Hi I'm here ready to receive.]
+
+These are quick ways to send phrases:<br>
+speed up the beat, please repeat, and Hi I'm here ready to receive.
 
 I see!  The lake speaks.  “Oh, is that so?”
-[I see means I've received your signal. The lake speaks means I'm transmitting to you from a boat. Oh is that so could be a request to repeat the transmission to clarify.]
+
+[I see means I've received your signal. "The lake speaks" means I'm transmitting to you from a boat. "Oh is that so" is a request to repeat the transmission to clarify.]
 <br>
 
 <a href="/LinearA/img/minoan-ships.webp"><img src="/LinearA/img/minoan-ships.webp" style="width:100%;max-width:3000px"></a>
