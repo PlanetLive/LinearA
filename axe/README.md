@@ -367,25 +367,33 @@ I-KA-DWA- ZO-NA-RJU    JO-JE/ 　 　I-QE-KU-RJA/
 
 <br>
 
-<span style="font-size:1.2em;">**The lake's storytelling (echos) is a game of (words). Damn it! (And come on!)**</span>
+<span style="font-size:1.2em;">**The lake's storytelling (echos) is a game of (words). Damn it! We will go to hell. (And come on!)**</span>
 
 I-QE- KA-TA-RA-RJU-KA   KE-RJU-(JU)-DA   KU-RJA-QE 
 池の語りは、　　　（言葉を）かける遊戯だ。　くらえ！（と来りゃ！）
 
+<br>
+
+<span style="font-size:1.2em;">**It's okay. It's soothing. (The weather is calm, we are receiving well.)<br>
+“Go, quickly!” (Speed up the beat)<br>
+What was that?  (Please repeat)<br>
+“Hey, Mister.” (Start a new message)**</span>
+
+These are quick ways to send phrases to manage the conversation.
+
+I-QE-PA-JE   　　　NA-DA-TE /
+いけはいぇ　　　　　　なだて－だな
+「行け、速く」　　 　　何だって？「だんな」
 
 <br>
 
+<span style="font-size:1.2em;">**I see! (I've received your signal.)<br>
+The pond is talking. (I'm sending a signal back from a boat.)<br>
+"Yes, is that so?" (Received, requesting a repeat to confirm.)**</span>
 
-The disc is recited backwards and forwards, using drum beats and mirror flashes - back and forth.
+ZO-U-KA  　I-QE-KA-KA-TE-RAI-SWI   PA-JE     ZO-U-KA. 
+そうか     　池が語らいし　　　　　　  「はい、そうですか」
 
-“Go, quickly!”   What was that?   “Hey, Mister.”
-
-These are quick ways to send phrases:<br>
-speed up the beat, please repeat, and Hi I'm here ready to receive.
-
-I see!  The lake speaks.  “Oh, is that so?”
-
-[I see means I've received your signal. "The lake speaks" means I'm transmitting to you from a boat. "Oh is that so" is a request to repeat the transmission to clarify.]
 <br>
 
 <a href="/LinearA/img/minoan-ships.webp"><img src="/LinearA/img/minoan-ships.webp" style="width:100%;max-width:3000px"></a>
@@ -398,34 +406,113 @@ I see!  The lake speaks.  “Oh, is that so?”
 
 ### (Side B Clockwise)
 
-[Athens communicates back to Crete. The season is Fall.]
+Athens communicates back to Crete. The season is Fall.
 
-The lake (of Athens) at high tide filled you with remorse, 
-[When the harbor is deeper it reminded you it was time to travel back home on the deep sea.]
+<span style="font-size:1.2em;">**At high tide in the pond (in Athens)
+I felt the soil myself.**</span>
 
-You despaired and flung yourself, what a depressing story! “That is the reason. Why allude to it now?
-[It's the season fall, and like a leaf falls from a tree, you too must follow the seasonal trade. It's time to leave your loved ones to earn your living.]
+It time for our return south, the water in the port is high tide.
+I stayed on land - we docked the boat for a while.
 
-Turn back!　Be on your way home.”
-[Time to go back to your home in the south before winter arrives here in the north.]
+I-QE-(MI)-TU-TI      　　KA-DI-TI-TE   
+（アテネの）池の満潮で/ 自ら土を　 感じてしまい　
 
-You hate it, it is a terrible story and brings me down. 
-[Goodby summer. "So long Marianne," as Leonard Cohen would later sing in Greece.]
+<br>
 
-“For the rest, (ascend the throne / find a queen) in Athens without delay!”
-[Time to settle into a new homestead for the upcoming winter.]
+<span style="font-size:1.2em;">**I don't want to go to school.<br>
+It's pathetic that he was left in despair.<br>
+I have good reasons to travel. Why are you making fun of me?**</span>
 
-I know, please be discreet when you speak.
+If I stay for the Fall I will need to go to school.
+The people that I leave behind will be sad, but I have a job to do.
+Parting is difficult and may lead to intentional emotional distancing.
+
+I-RAI- NA-YA /　(KI)-DWA-KA　 SAKA-E-NE-QE　SE-NA-RJU-TJA / 
+いらいな　や　やならいきとはか　さかえねへ　　　せなりゅちゃ－やゆなぜ
+絶望され身を放たれたとは、情けない。「そんな理由だ。何故、揶揄するのか？
+
+<br>
+
+<span style="font-size:1.2em;">**Turn back!　Be on your way home.**</span>
+
+Time to go back to your home in the south before winter.
+
+PA-YE-RE-SA   SO-TI-PA-JE-RJU
+かいぇれさ　　　　そちかえる
+帰れ！　そちは帰るのだ」
+
+<br>
+
+<span style="font-size:1.2em;">**I don't like (that I have to leave),<br>
+it is a terrible story and brings me down.**</span>
+
+Goodby summer. "So long Marianne," as Leonard Cohen would later sing in Greece.
+
+(KI)-RAI-（ZE）-DWA  TI-E-TU-TE  I-RJA-NI-TU.
+きらいぜ　とは　　    ちえつて　　　いやにつ。
+嫌いだぜ、とは。　　　酷い話で嫌になる。
+
+<br>
+
+<span style="font-size:1.2em;">**All that's left to do is quickly get the throne/queen in Athens!**</span>
+
+Find your queen (northern wife) in Athens without delay!
+Some will settle into a new homestead for the upcoming winter.
+
+KA-DWA-QA-YE  AU-E-E-NE-TE　
+あとは　早く　　アテネにて　王位/ 王妃　を得て！」
+
+<br>
+
+<span style="font-size:1.2em;">**I know, please be discreet when you speak.**</span>
+
+Please be careful with your words.
+
 [Don't let the enemy know the day I will be traveling south by sea.]
 
-“Go, in haste! We will meet again, on a mutually congenial day.”  A reunion.
-[See you again in the spring. I'll return with a ship full of trade goods.]
+SE-TA-RJU   AU-SA-JE　　　KE-TE-RA-RE-SA
+知っている。  押さえ（て）　　語られさ。
+知っています。言葉に気を付けて　話して下さい。
 
-With great father, let me trust him, as he said, he would see me again, on a mutually congenial day.
-[I'll come home again when the weather is warm again, on a day we agree to in advance.]
+<br>
 
-And then this small dragon will pass away, find solace.
-[My boat, which looks like a dragon, is headed south where the weather will be nice and sunny. I am the Little Dipper leaving the north star.]
+<span style="font-size:1.2em;">**Go, in haste! We'll meet again, on a mutually congenial day.**</span>  
+
+The person you're meeting is... [fill in blank with trade destination]
+
+See you again. I'll return with a boat full of trade goods.
+
+I-PE-KA-JE  　　  AU-NI-TI-NO / 　　  　AU-NO-PA
+いけはいぇ　　　　　あうにち－のちにあう　　あうのは
+「行け、早く。　　　互いの合う日、後に会うから」　会う相手は
+
+<br>
+
+<span style="font-size:1.2em;">**Auchichi (breast milk) - Let's meet each other later.
+I knew the day I met you, I'd meet you later.**</span>
+
+The sailer is making a commitment to return in nine months,
+
+and when he does, it will likely be to a new born child.
+
+AU-DI-TI /  　　　　(KI/MI)-AU-NI-TI-NO /   
+あうちち－しじあう　きみ　あうにち　のちにあう　
+偉大な父。信じよう、「君と合う日、後に会う」か。
+
+<br>
+
+<span style="font-size:1.2em;">**At this time the small dragon (wooden boat) will travel away (scatter to heal).
+Find solace (I will return).**</span>
+
+Dragon boats were built in the north where trees were plentiful.
+
+The northern families trusted that the young men they gave boats to would return.
+
+KA-PI-NA-DWA 　　  　TI-RJU-TE
+か　びな　　とは　　 　 散る/ちゆて。
+その時、小さな辰/戸　は　散る/癒される　だろう。（注1）
+
+<br>
 
 “Trust in old father, now like a bending branch. I will see you again, on a mutually congenial day, 
 [See you in the spring son. The bending branch is heavy with fruit and I will take this harvest with me to trade in the south.]
