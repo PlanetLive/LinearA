@@ -351,6 +351,29 @@ RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 
 <br>
 
+<span style="font-size:1.2em;">**The water (of the cave, of death) was talking to me.<br>
+I guess so. If I come to water (to death), it's a plan (my fate).**</span>
+
+I-QE-KA-KA-TE-RAI-SWI  　SAKA-NA   I-QE-KU-RJA /
+池が語らいし　　　　　　　　「そうかな。池来りゃ、計略で」
+
+<br>
+
+<span style="font-size:1.2em;">**And the raft makes the cave resound. "Hey, yo!"<br>
+If you come to the lake (to your death), it's a trick.**</span>
+
+I-KA-DWA- ZO-NA-RJU    JO-JE/ 　 　I-QE-KU-RJA/
+イカダが鳴り響く、お－い、い－よ、と。池来りゃ計略で。
+
+<br>
+
+<span style="font-size:1.2em;">**The lake's storytelling (echos) is a game of (words). Damn it! (And come on!)**</span>
+
+I-QE- KA-TA-RA-RJU-KA   KE-RJU-(JU)-DA   KU-RJA-QE 
+池の語りは、　　　（言葉を）かける遊戯だ。　くらえ！（と来りゃ！）
+
+
+<br>
 
 
 The disc is recited backwards and forwards, using drum beats and mirror flashes - back and forth.
