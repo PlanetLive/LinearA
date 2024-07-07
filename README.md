@@ -1,13 +1,42 @@
-# Linear A Script <!--&ndash; Model Building-->
+# Linear A Script
+
+## The Phaistos Disc - Deciphered!
+
+We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and love](disc):
+
+The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which likely has origins in Africa.
+
+1. The vocal values of Linear B applied to Linear A by [Gareth Owens](https://greekcitytimes.com/2024/02/09/phaistos-disc-mystery/).
+2. The translation of the vocal values by Japanese language speaker [Hiro Kuroda](hiro/).
+3. The historic context of [mirror and drum communication](https://dreamstudio.com/seasons/world-travels/) across the Minoan white-hull trade network.
+
+
+### The story from the disc unfolds...
+
+<div class="floatRight" style="margin-bottom:15px;max-width:300px;">
+<a href="img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+</div>
+
+**In the summer**, a young crew member travels to Athens, the homeland of his father, where he meets a young girl. The voyage was aided by communication (punting) with mirror-axes and drums between multiple senders. At night, sunlight signaling changes to drums. To confirm transmissions, common phrases from the Phaistos Disc are flipped as kaibuns, so they don't seem like meer echoes from cave walls.
+
+In the darkness, the voyage is one of deep soul searching and ancestrial communication. For Aegean sailers, the sun sets in the northwest in the cave of Hades and the story of their uncertain fate weaves through the disc's 4-side solar-lunar seasonal hymnals.
+
+On first sight, the young couple knew they would have a future together. The family in Athens grants the young man a ship with the understanding that he will return with trade goods from Crete and Egypt.  
+
+**In the fall** as he travels south, the Big Dipper in the north represents the young woman left behind who is due to become a mother. The young captain joins the Crete white-hull network with his small dragon boat, commiting to a tax rather than the high penalty if he were to return through the waters unmarked.
+
+We learn that in the Minoan trade network, a handshack for a trade agreement is often conducted at a distance using mirrors.
+
+[Read the full translation!](disc)
+
 
 ## Global Mirror Network
 
-Exploring the use of mirrors, drums, fire signals, and bird couriers for trade logistics prior to 1,400 BCE can improve the accuracy of translations and understanding of early art. <!--Unraveling -->The role of line-of-sight communication in the locations of megalythic structures, hilltop temples, and the construction of straight roads cleared of tree canopy for visual signaling.
-
+Exploring the use of mirrors, drums, fire signals, and bird couriers for trade logistics prior to 1,400 BCE can improve the accuracy of translations and understanding of early art. <!--The role of line-of-sight communication in the location of megalythic structures, hilltop temples, and the construction of straight roads through tree canopy  visual signaling.-->
 
 <!--complimented by audio and high areal light displays (fireworks and reflection off clouds, tops of ziggurats and mountain peaks)-->
 
-We're expanding on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Greece, Crete, Egypt and [The Land of Punt](https://dreamstudio.com/seasons/summer/punt/).
+We've expanded on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Greece, Crete, Egypt and [The Land of Punt](https://dreamstudio.com/seasons/summer/punt/).
 
 Linear A (1) evolved to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its use in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
 
