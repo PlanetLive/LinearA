@@ -98,6 +98,10 @@ The three columns could also be invoked by rolling dice (selecting organs from t
 
 <div style="clear:both"></div>
 
+<div class="floatRight" style="max-width:400px;">
+<a href="../img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
+</div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
+
 
 ### **Column 1: Feminine**
 The first column presents the heavenly role of priestess (feminine) by starting with the symbol of Mount Ida, the home of the Minoan mother goddess with hill temples. Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.<br>
@@ -114,10 +118,6 @@ The beats for 13 are 10 followed by 3 short beats. <span style="font-size: 11px"
 
 Higher numbers might continue as a clockwise spiral which loops like a figure eight through the center. The shapes of the characters enfrorse this looping movement.
 
-
-<div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
-<a href="../img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
-</div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
 
 ### Character Details
 

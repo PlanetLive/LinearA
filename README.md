@@ -6,7 +6,7 @@ We've combined three breakthroughs to unravel an ancient Minoan [story of sailin
 
 The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which likely has origins in Africa.
 
-Cracking the Linear A code of the disc was made possible by:
+Cracking the Linear A seasons of the disc was made possible by:
 1. The vocal values of Linear B applied to Linear A by [Gareth Owens](https://greekcitytimes.com/2024/02/09/phaistos-disc-mystery/).
 2. The translation of the vocal values by Japanese language speaker [Hiro Kuroda](hiro/).
 3. The historic context of [mirror and drum communication](https://dreamstudio.com/seasons/world-travels/) across the Minoan white-hull trade network by [Loren Heyns](https://dreamstudio.com/research).
@@ -43,7 +43,7 @@ Linear A (1) evolved to be concise, using sounds from the start of words, and (2
 
 &ndash; Loren Heyns (drawing upon the [Minoan&nbsp;Mirror&nbsp;Web](https://www.minoanatlantis.com/Minoan_Mirror_Web.php))
 
-The Linear A repo is part of the [DreamStudio Seasons](http://dreamstudio.com/seasons/) datascape.
+The Linear A repo is part of the [Cleo story at DreamStudio.com/Seasons](http://dreamstudio.com/seasons/) 
 
 ## Content
 
