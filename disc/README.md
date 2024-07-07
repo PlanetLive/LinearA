@@ -1,5 +1,5 @@
 [Linear A Deciphered](../)
-# The Season of the Disc
+# The Seasons of the Disc
 
 ## A Story of Annual Trade Migrations between Families
 

@@ -6,9 +6,10 @@ We've combined three breakthroughs to unravel an ancient Minoan [story of sailin
 
 The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which likely has origins in Africa.
 
+Cracking the Linear A code of the disc was made possible by:
 1. The vocal values of Linear B applied to Linear A by [Gareth Owens](https://greekcitytimes.com/2024/02/09/phaistos-disc-mystery/).
 2. The translation of the vocal values by Japanese language speaker [Hiro Kuroda](hiro/).
-3. The historic context of [mirror and drum communication](https://dreamstudio.com/seasons/world-travels/) across the Minoan white-hull trade network.
+3. The historic context of [mirror and drum communication](https://dreamstudio.com/seasons/world-travels/) across the Minoan white-hull trade network by [Loren Heyns](https://dreamstudio.com/research).
 
 
 ### The story from the disc unfolds...
@@ -83,7 +84,7 @@ The shape of the Minoan shield is perfect for carrying the two sides of your mir
 </style>
 <a href="/LinearA/img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" class="imgThree"></a><a href="/LinearA/img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" class="imgThree"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" class="imgThree"></a>
 
-The convex shape of the shield would also allow a drum beat to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
+The convex shape of the shield would also allow a drum beat to be narrow-cast in a single direction for greater security during troop movement.
 
 From the side of a small polished ax-mirror, an imprinted ciper helps young mirror operators learn to translate the signals that arrive like drum beats - and sometimes are drum beats or even fires burning is signal towers, lighthouses and the tops of pyramids. &nbsp;Large polished labrys could have been pivoted by adults to send signals greater distances - sometimes over 70 km on a clear day between hilltop peaks! (<a href="https://www.quora.com/Could-ancient-civilizations-have-used-mirrors-to-communicate-long-distances">Nick Deakin</a>)<br><br>
 
