@@ -2,16 +2,16 @@
 
 ## Minoan Shield
 
-The figure-8 shield case may have contained the reflective axe blade, mirror-box and cipher. Serving as both a purse and a tray for food with a covering lid, it may have also been designed to float. The mirror-box (above) would have fit withing, and served as the base plates of a scale - for weighing trade goods. The scale is depicted in Minoan priestess illustrations. Note how the spiral background matches the spiral of the [Phaistos&nbsp;Disc](../).
+The figure-8 shield case may have contained the reflective axe blade, mirror-box and cipher. Covered with protective cow hide, the satchel served as both a purse and a covered tray for picnics. It may have also been designed to float. The mirror-box (above) would have fit within and served as the base plates for a scale to weigh trade goods. The convex shape of the shield would allow a drum beat signal to be narrow-cast in a single direction for privacy during troop movement.<!--Great observation Stephen Thompson!--> The spiral background matches the 2-way reading spiral of the Phaistos Disc maze dance song that encapulated signal transmissions.
 
-<a href="../img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px" class="fullMobile"></a><a href="../img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px"></a><a href="/LinearA/img/shields-spiral-wall.jpg"><img src="../img/shields-spiral-wall.jpg" style="width:400px" class="fullMobile"></a>
-
-The convex shape of the shield would also allow a drum beat signal to be narrow-cast in a single direction for greater security during troop movement. (Great observation Stephen Thompson!)
+<a href="../img/shield-figure-8.jpg"><img src="/LinearA/img/shield-figure-8.jpg" style="width:400px;margin-right:30px;margin-bottom:15px" class="fullMobile"></a><a href="../img/shield-front.jpg"><img src="/LinearA/img/shield-front.jpg" style="width:193px;max-height:500px;margin-right:30px;margin-bottom:15px"></a><a href="../img/shields-spiral-wall.jpg"><img src="/LinearA/img/shields-spiral-wall.jpg" style="height:300px;margin-right:20px" class="fullMobile"></a><a href="../img/minoan-woman.jpg"><img src="/LinearA/img/minoan-woman.jpg" style="height:300px" class="fullMobile"></a>
 
 
 ## Arkalochori Axe as Mirror Cipher
 
-Let's explore the Minoan use of their labrys as both axes and signaling mirrors. The 3-columns of characters on the Arkalochori Axe match some of the symbols on the Phaistos Disc, which are also used on pottery to indicate the type of shipping content. The axes may have been used to flash message to a steady beat, similar to drum signals. The axe characters could be a song or cipher conveying consonant-vowel combinations and numbers that function simlar to Roman numerals.
+<a href="../img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px; float:right; margin-left:30px"></a>
+
+Let's explore the Minoan use of their large metal "labrys" as signaling mirrors. The 3-columns of characters on the Arkalochori Axe match some of the symbols on the Phaistos Disc, which are also used on pottery to indicate shipping products. The axes may have been used to flash message to a steady beat, similar to drum signals. The axe characters could be a song or cipher conveying consonant-vowel combinations and numbers that function simlar to Roman numerals.
 
 The young warriors of Crete learned a dance which echoed the turns of the laberinth. Could this have been simultaneous training for signal mirror operation? In otherwords, were they learning how to twist their mirrors to represent the sounds of syllables within the dance?
 
@@ -91,7 +91,7 @@ I D M N P Z Y S V T H K C R W<br>
 Note the similaries between the 3 columns on the axe and the 3 sections from the Hagia Triada Sarcophagus below. The funerary functions of women and men occur in the first two sections. In the third section, there are 3-steps, a floral symbol, and a building which has a long line and a short line, like the number 15 on the Axe. The missing bottom of the floral symbol may have had 4 leaves to match the number 14 on the Axe cipher.
 
 <a href="../img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
-Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles - used to redirect sun akin to bull horns. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
+Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
 
 15-syllable lines are common for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
 
@@ -101,15 +101,14 @@ The three columns could also be invoked by rolling dice (selecting organs from t
 
 <div style="clear:both"></div>
 
-<a href="/LinearA/img/axe-actual.jpg"><img src="/LinearA/img/axe-actual.jpg" style="width:100%; max-width:500px; float:right; margin-left:30px"></a>
 
-**Column 1: Feminine**
+### **Column 1: Feminine**
 The first column presents the heavenly role of priestess (feminine) by starting with the symbol of Mount Ida, the home of the Minoan mother goddess with hill temples. Mount Ida, the large central mountain on Crete, was covered with trees, hence the first 2 symbols I-DA stand for Heaven's Tree Branches.<br>
 
-**Column 2: Masculine**
+### **Column 2: Masculine**
 The second column could be invoked with two beats introduces a more agreessive rhythm. Hence the second column seems to be associated to the masculine underworld-oriented role of priests - working with earth and mining, warfare, sea travel, and preparing animal offerings during the ceremonies. Since women and men also switched roles, the two figures at the tops of the columns are portrayed as androgenous.
 
-**Column 3: Commands, Requests, Enlightment**
+### **Column 3: Commands, Requests, Enlightment**
 The third column could use 3 repeating beats for special messages. The top of the column is number 13, which seems like a forceful command with three stong beats (which invokes 10 for King) and three faster beats. We'll call 13 the Command Beat, like knocking on a door.
 
 The third column, invoked by 3 strong beats, translates to KO-RE-DA, a sign from the heavens ([Hiro](../hiro/)). Note that 3-beats represent 10, the character and number for King, later echoed in the 10 commandments as refuges from Egypt and Crete crossed the desert.
@@ -119,12 +118,8 @@ The beats for 13 are 10 followed by 3 short beats. <span style="font-size: 11px"
 Higher numbers might continue as a clockwise spiral which loops like a figure eight through the center. The shapes of the characters enfrorse this looping movement.
 
 
-
-
-
-
 <div style="float:left; margin: 0 25px 15px 0; max-width:400px;">
-<a href="/LinearA/img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
+<a href="../img/axe-closeup-actual.png"><img src="/LinearA/img/axe-closeup-actual.png" style="width:100%;min-width:300px; max-width:400px"></a>
 </div><!-- Source: https://simple.wikipedia.org/wiki/Arkalochori_Axe -->
 
 ### Character Details
@@ -239,9 +234,11 @@ We could end up with something like the following:
 Modern Japanese does not contain the following syllables any more: YI, YE, WI, WU, WE. The only consonant that can stand alone in Japanese, and has its own symbol, is N.
 
 
-**Four Beats**
+### **Four Quick Beats**
 
-A signal using 4 or more quicker beats might be reserved for dance steps used with the Phaistos Disc and mazes drawn on the stone courtyards. 4 could be used for directions, 4 seasons of the year, and/or the four sides of discs when read backwards and forwards. The spiral on the Phaistos Disc is divided into sets of 3, 6 and 12, so a burst of 4-4-6 dots might mean: Use the dance chant in the 4th season (Spring, side B counter-clockwise), and go to the 6th verse within spring.
+A signal using four (or more) quick beats might be reserved for dance steps used with the Phaistos Disc and mazes drawn on the stone courtyards. 4 could be used for directions, 4 seasons of the year, and/or the four sides of discs when read backwards and forwards. The spiral on the Phaistos Disc is divided into sets of 3, 6 and 12, so a burst of 4-4-6 dots might mean: Use the dance chant in the 4th season (Spring, side B counter-clockwise), and go to the 6th verse within spring.
+
+## The Four Seasons of the Phaistos Disc
 
 A translation of the disc as 4 seasons resides at the bottom of the current page, extending the work of Hiro Kuroda to include details about mirror communication and the collection of shipping tarrifs for storage in caves.
 
@@ -250,25 +247,9 @@ The laws of government could be invoked by RE (character 14). RE contains both 1
 For laws and customs that applied to shipping and marriage, the 4 areas of law could be based on seasons of the year, and conveyed on the disc in a dance - which was taught as a right-of-passage using dance-steps in a maze in the palace courtyard. Imagine being a child dancing in Crete in 1400 BCE, and traveling to new lands using drum and mirror communication that spanned continents.
 <br>
 
-## Bull Leaping
-
-### Bull-Leaping - From The Indus Valley To Syria, Egypt, And Crete
-
-Before 1700 BCE, following the collapse of the Indus Valley, the Mitanni migrated to Turkey, Syria and Palestine. They brought with them a new species of horse, more suitable for the war-chariot, a new method for horse training, and a perfected form of the chariot. - [more](https://www.bibhudevmisra.com/2017/01/bull-leaping-did-it-spread-from-indus.html)
-
-In south India, "an Ay girl would not marry the man who was afraid to face a bull fight. This shows that it was a custom in the cowherd community for young girls, until they were married, to select their own bulls from the common stall and to tend them. The bulls would then be let loose, and which ever young cowherd could successfully bring the beast under control in an open contest, was deemed the proper life-partner for the girl. Apparently, it was one of the ancient wedding customs of the Ayars. This custom also can be traced to their family deity Krsna, who curbed the fury of seven bulls coloured black, white and brown and married the girls who were tending them."
-
-[7 Unanswered Questions](https://www.thecollector.com/minoan-bull-leaping-questions/) about Minoan Bull-Leaping
-
-
-<img src="/LinearA/img/bull-leaping/Toreador-Fresco-Crete-bull-Minoan-Knossos-people-c-1550-bce.jpg" style="width:100%">
-Bull leaping mural in Crete.
-
-<img src="/LinearA/img/bull-leaping/bull-leaping-fresco-avaris-egypt.webp" style="width:100%">
-<a href="https://en.wikipedia.org/wiki/Minoan_frescoes_from_Tell_el-Dab%27a#/media/File:Reconstructed_Minoan_Fresco_Avaris.jpg">In Tell el-Dab, Egyptian Nile Delta</a> - 400 miles across the Mediterranean sea from Crete.
 
 <div id="disc">&nbsp;</div>
-<a href="/LinearA/img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
 Phaistos Disc Side A - <a href="../img/phaistos/phaistos-disc-side-b.jpg">View Side B</a>
 
 Hiro writes: The symbol QA（38）at the center of side A (Counter-clockwise), representing a flower, must be Athens, the point of departure when Theseus left for Crete. The lines depict the farewell scene between King Aegeus and Theseus. At the end are the words, RJU-JE-PA-QE-RI that translates as “So I must take leave, to return again,” and the word “return” nudges the reader to flip the Disc over to continue reading on side B.
@@ -281,7 +262,7 @@ There are [12 unique timeline beats in African music](https://youtu.be/8ypTYNGLr
 
 Hiro Kuroda found that the disc can be read in both directions like, forming for 4 unique story sequences. Perhaps reversing phrases was a means to send back messages to confirm receipt and add more details.
 
-## The Four Seasons of the Phaistos Disc
+## A Story of Annual Trade Migrations between Families
 
 [Loren Heyns](../../earth/) has added brackets with mirror-network trade system info. Oracles coordinated from hilltops with Minoan sailers to manage trade routes by approved white-hull boats. They collected taxes for storage in caves (national treasuries), as depicted in Minoan murals. Inspired by [Sheppard Baird's Minoan Web of Mirrors and Scripts](https://www.minoanatlantis.com/Minoan_Mirror_Web.php)
 
@@ -292,7 +273,13 @@ by Hiro Kuroda [with brackets by Loren Heyns]
 Starting Clockwise, then flipping. Then reading both sides in reverse.
 <br>
 
-### Side A Clockwise - Summer Travel
+# Summer Travel Northward
+
+<div class="floatRight" style="margin-bottom:15px;max-width:500px;">
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+</div>
+
+### (Side A Clockwise)
 
 How the lake shines and brilliantly reflects!
 [The ocean reflects like the mirrors we use to communicate between ships and land.]
@@ -334,9 +321,15 @@ I see!  The lake speaks.  “Oh, is that so?”
 
 <a href="/LinearA/img/minoan-ships.webp"><img src="/LinearA/img/minoan-ships.webp" style="width:100%;max-width:3000px"></a>
 
-### Side B Clockwise - Fall Return Voyage
+# Fall Returning South
 
-[Athens communicates back to Crete. The season is fall.]
+<div class="floatRight" style="margin-bottom:15px;max-width:500px;">
+<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px"></a>  
+</div>
+
+### (Side B Clockwise)
+
+[Athens communicates back to Crete. The season is Fall.]
 
 The lake (of Athens) at high tide filled you with remorse, 
 [When the harbor is deeper it reminded you it was time to travel back home on the deep sea.]
@@ -383,7 +376,13 @@ Theseus was so overcome with grief that he forgot to change the black sail to wh
 [LHeyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to marriage (right of passage) in cultures from the Mediterranean to India. Returning home to Athens in the spring without a successful marriage may have prevented a young captain from painting his boat white. Without a dowry from the bride's family, the young sailer may not have had funds to join the official Minoan white-boat trade network. It would be a gloomy day indeed for the future trading prospects between families. The defeated bull-jumper might as well not return home. Totally sucks, hence the term: total bullshit.]
 <br>
 
-### Side A Counter-clockwise - Winter Trade in the South
+# Winter Trade in the Far South
+
+<div class="floatRight" style="margin-bottom:15px;max-width:500px;">
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+</div>
+
+### (Side A Counter-clockwise)
 
 Hiro writes: The shape and design of the Phaistos disc, in which words are laid out in circular, whirlwind fashion, hints at a sense of playfulness and entertainment, whereby it can be read in both directions, clockwise or vice-versa, and make sense either way. This form of entertainment is known in Japan as kaibun, made possible by the syllabary nature of the language. Here, we shall reverse the word ordering on each side to see if the whole Phaistos Disc can be deciphered and still make sense.
 
@@ -403,7 +402,7 @@ The promise is, to hoist a white sail once you enter the “lake” near Athens.
 [Pay your membership fees when you travel in our Aegean Sea.]
 
 In these waters, promise me, OK?  “That’s no problem,” is your reply.
-[Okay, I will commit to tithe to the union and believe in the word of the hill temple oracles.]
+[Okay, I will commit to the maritime union in these water and will adhere to the policies of the hill temple oracles.]
 
 Then, to top these words of commitment, let’s shake hands.
 [Mirrors repeating a signal beat across hundreds of miles, like drums shaking hands.]
@@ -418,7 +417,13 @@ Now father, your walking stick/to Hades. I take leave but will return.
 <br>
 
 
-### Side B Counter-clockwise - Returning North during Spring Rains
+# Returning North during Spring Rains
+
+<div class="floatRight" style="margin-bottom:15px;max-width:500px;">
+<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px"></a>  
+</div>
+
+### (Side B Counter-clockwise)
 
 (A) : Aegeus   (T) : Theseus
 
