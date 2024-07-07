@@ -340,9 +340,9 @@ as the sound of the raft makes the cave resound.<br>
 “Heave, ho,” brings back “Ho, heave”.<br>
 If the echo does not occur in reverse, we are not communicating.**</span>
 
-These echoes (on the disc) are like a play on words, so heave and ho!
+These echoes (on the disc) are like a play on words (back and forth), so heave and ho!
 
-The echos are like the opening rhythms we send by drums at night to establish communication. The reply most occur backwards (like the song on the disc), otherwise we are mearly listening to the cave's echo.
+The echos are like the opening rhythms we send by drums at night to establish communication. The reply most occur backwards (like the song on the disc), otherwise we are mearly listening to the cave's (and shore's) echo.
 
 RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 れ　て　　　いかどわ　ぞ な りう　  よれ－れよ　いけくりや、けいりゃく
