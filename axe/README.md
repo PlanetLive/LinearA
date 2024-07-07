@@ -249,6 +249,12 @@ For laws and customs that applied to shipping and marriage, the 4 areas of law c
 
 
 <div id="disc">&nbsp;</div>
+
+Hiro writes: The shape and design of the Phaistos disc, in which words are laid out in circular, whirlwind fashion, hints at a sense of playfulness and entertainment, whereby it can be read in both directions, clockwise or vice-versa, and makes sense either way. This form of entertainment is known in Japan as kaibun, made possible by the syllabary nature of the language. Here, we shall reverse the word ordering on each side to see if the whole Phaistos Disc can be deciphered and still make sense.
+
+Loren Heyns has added mirror-network trading details using reflective axe-mirrors and white-hull boats, as depicted in Minoan murals.
+
+
 <a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
 Phaistos Disc Side A - <a href="../img/phaistos/phaistos-disc-side-b.jpg">View Side B</a>
 
@@ -264,7 +270,7 @@ Hiro Kuroda found that the disc can be read in both directions like, forming for
 
 ## A Story of Annual Trade Migrations between Families
 
-[Loren Heyns](../../earth/) has added brackets with mirror-network trade system info. Oracles coordinated from hilltops with Minoan sailers to manage trade routes by approved white-hull boats. They collected taxes for storage in caves (national treasuries), as depicted in Minoan murals. Inspired by [Sheppard Baird's Minoan Web of Mirrors and Scripts](https://www.minoanatlantis.com/Minoan_Mirror_Web.php)
+[Loren Heyns](../../earth/) has added mirror-network trade system info. Oracles coordinated from hilltops with Minoan sailers to manage trade routes by approved white-hull boats. They collected taxes for storage in caves (national treasuries), as depicted in Minoan murals. Inspired by [Sheppard Baird's Minoan Web of Mirrors and Scripts](https://www.minoanatlantis.com/Minoan_Mirror_Web.php)
 
 Hiro Kuroda interprets as a sequel to the legend of Theseus, where Theseus has returned to Greece after killing the Minotaur in Crete. Loren Heyns adds seasonal trade travel and long-distance communication using mirrors. Loren has also added seasons for the four reading directions.
 
@@ -290,15 +296,16 @@ Let's trust that we will be reunited in person with him soon.**</span>
 
 Hades was the Greek mainland, where the sun goes to die. The Greek's "gates of the underworld" were in a canyon of the River Acheron, in Epirus in northwestern Greece. 
 
+Cape Tenaron at the southern tip of Peloponnesus is also mentioned by Hiro.
+
+<!--
+Hiro wrote: By searching through YouTube with words such as “sea cave, Greece,” one finds a strong resemblance in Diros Caves, in southern Peloponnesus, known for long winding tunnels to be explored by boat; in Kefalonia, Melissani Lake is inside a huge cave, where waters are turquoise blue in the summer, that produces loud echoes. A Mycenaean tomb has been discovered on the island, suggesting the lake was known from ancient times.
+-->
+
 I-QE-PA-JE-RJU /   　　E-TU-QE 　AU-DI-TI / 
 いけはえる－ゆえ、はえい  えつへ　　　　あうじち－しんじあう
 池の水面が映える / 池に入る、そのための杖（櫓）/地獄（ヘズ、Hades）へ。会う父は、父王。父との再会を信じよう。
 
-<!--
-How the lake shines and brilliantly reflects! /Now I enter the lake, 
-With an oar for punting/ To reach Hades.
-The father I am to meet is the King, so let me believe in our reunion.
--->
 
 <br>
 
@@ -310,7 +317,6 @@ AU-AU-PI  　I-QE-NWA-TU-SAKANA
 あおあおき　　いけ　な　つ さかんな
 おお青き　　　池は夏の盛り
 
-
 <br>
 
 
@@ -321,7 +327,6 @@ KA-DI-TI-QE 　　KAWA-(BE)-NO　 I-QE-KE-RJU-NE
 かじ　ち　へ　　　　川辺の　　　　　池を蹴るね/ 池、消えるね
 と感じて、かの地へ、　洞窟の川を　　蹴って進めば 池が消えていくね、
 
-
 <br>
 
 <span style="font-size:1.2em;">**Heave ho! Now this way, now that, the cave implores, to my great misery.**</span>
@@ -331,7 +336,6 @@ I'm crying (it' raining), unsure which way to go. Now we must rely on sound to f
 KU-RJA-TE 　I-QE-(KO)-DA-TE　　 JE-(KO)-TU-TI　 I-QE-RA-NA-QA
 くりゃて　　　いえ、こうだって　　　いえ、こっち　　　いけらなか
 と来りゃ。　　いえ、こうだって、　　いえ、こっち　　　行けと泣かれて
-
 
 <br>
 
@@ -347,7 +351,6 @@ The echos are like the opening rhythms we send by drums at night to establish co
 RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 れ　て　　　いかどわ　ぞ な りう　  よれ－れよ　いけくりや、けいりゃく
 イカダが鳴り響く、お－い、い－よ、と。池来りゃ計略で。
-
 
 <br>
 
@@ -514,22 +517,52 @@ KA-PI-NA-DWA 　　  　TI-RJU-TE
 
 <br>
 
-“Trust in old father, now like a bending branch. I will see you again, on a mutually congenial day, 
-[See you in the spring son. The bending branch is heavy with fruit and I will take this harvest with me to trade in the south.]
+<span style="font-size:1.2em;">**Trust me, my old father (now like a bending branch) will be happy. I'll see you later (next year) on the same day of the year I met you.**</span>
 
-In the remotest of lands.
-[From the far north to the distant south we migrate and trade with the Land of Punt.]
+This really is a love story.
 
-Now, outside the lake, I must stop here. That big dragon in the sky must be father! Father in person!
-[After the sun sets, I see a large mirror signal from my father, reflected with his mirrors. The big dragon is the Big Dipper above my father's home in the north.]
+The bending branch of the old father is heavy with fruit and I (trusted) will take the harvest with me to trade in the south.
 
-Hiro writes: The last word in the story, at the center of Side B, is two pictograms, DI-TI, together they form a cartoon image of the Big Dipper (TI /) projected low across the night sky, close to the waves (DI), just as Theseus must have discovered as he came out of the cave. By searching through YouTube with words such as “sea cave, Greece,” one finds a strong resemblance in Diros Caves, in southern Peloponnesus, known for long winding tunnels to be explored by boat; in Kefalonia, Melissani Lake is inside a huge cave, where waters are turquoise blue in the summer, that produces loud echoes. A Mycenaean tomb has been discovered on the island, suggesting the lake was known from ancient times.
+TI-DI-TI /  　　TI-NA-RJU-E  (KI/MI)-AU-NI-TI-NO /  
+信じて父を　　　しなるゆえ　　君と合う日、後に会う。　
+「信じて、老父はしなるゆえ。君と合う日、後に会うから。
 
-Hiro continues: Theseus, upon his return to Athens after slaying the Minotaur, finds out that his father Aegeus had taken his own life by throwing himself into the sea. This tragedy had occurred because Aegeus had mistakenly believed that Theseus had been killed. Aegeus had made Theseus promise that, should he successfully conquer the Minotaur, he should use a white sail on his way back to Athens, and a black sail if he was killed, as an early message to Aegeus. 
+<br>
+
+<span style="font-size:1.2em;">**To the remotest of lands.
+A land of destruction, far away.**</span>
+
+From the far north we'll travel to the distant south to trade.
+
+PE-QUI-RE-RJU-TI
+きへきれる地。
+遠く離れた所だ」
+
+<br>
+
+<span style="font-size:1.2em;">**I left the water.  I must stop here.
+The big dipper (dragon boat) in the night sky (to the north) is the location of my father.**</span>
+
+I've reached Crete or Africa. Looking back I see the big dipper in the north.
+
+I-KE-TE-NA-TI 　 AU-PI-NA-DWA 　DI-TI /
+いけてなし　　　　大きなとは     　　父、父！
+池を出たが/これ以上は無理だ。夜空の大きな　辰/戸　は、父！　父に違いない！
+
+<br>
+
+At the center of side B, two pictograms (DI-TI) together form an image of the Big Dipper (TI) projected low across the night sky, close to the waves (DI).  This also relates to breast milk (DI-TI) of the nursing goddess (new mother) motivating me to return north. 
+
+After the sun sets, I see a large mirror signal from my father, punted across the Aegean with a series of mirrors, like the stars in a constellation pointed toward the North Star.
+
+
+Hiro writes: Theseus, upon his return to Athens after slaying the Minotaur, finds out that his father Aegeus had taken his own life by throwing himself into the sea. This tragedy had occurred because Aegeus had mistakenly believed that Theseus had been killed. Aegeus had made Theseus promise that, should he successfully conquer the Minotaur, he should use a white sail on his way back to Athens, and a black sail if he was killed, as an early message to Aegeus. 
+
 Theseus had met Ariadne, daughter of King Minos, in Crete and they became lovers. She helped him kill the Minotaur in the labyrinth and come back alive by giving him a ball of thread to guide his way back. Theseus intended to bring Ariadne back to Athens but had to leave her on Naxos at the behest of the deity Dionysus, who had fallen in love with her.
 Theseus was so overcome with grief that he forgot to change the black sail to white on his final leg back to Athens. King Aegeus spotted Theseus’ ship from the Cape of Sounion and, catching sight of the black sail, threw himself into the sea from the cliff, in a fit of despair. The sea was thereafter called the Aegean.
 
-[LHeyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to marriage (right of passage) in cultures from the Mediterranean to India. Returning home to Athens in the spring without a successful marriage may have prevented a young captain from painting his boat white. Without a dowry from the bride's family, the young sailer may not have had funds to join the official Minoan white-boat trade network. It would be a gloomy day indeed for the future trading prospects between families. The defeated bull-jumper might as well not return home. Totally sucks, hence the term: total bullshit.]
+Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to marriage (a right of passage) in cultures from the Mediterranean to India. Returning home to Athens in the spring without a successful marriage may have prevented a young captain from painting his boat white. Without a dowry from the bride's family, the young sailer may not have had funds to join the official Minoan white-boat trade network. It would be a gloomy day indeed for the future trading prospects between families. The defeated bull-jumper might as well not return home.
+
 <br>
 
 # Winter Trade in the Far South
@@ -540,32 +573,102 @@ Theseus was so overcome with grief that he forgot to change the black sail to wh
 
 ### (Side A Counter-clockwise)
 
-Hiro writes: The shape and design of the Phaistos disc, in which words are laid out in circular, whirlwind fashion, hints at a sense of playfulness and entertainment, whereby it can be read in both directions, clockwise or vice-versa, and make sense either way. This form of entertainment is known in Japan as kaibun, made possible by the syllabary nature of the language. Here, we shall reverse the word ordering on each side to see if the whole Phaistos Disc can be deciphered and still make sense.
+<span style="font-size:1.2em;">**I implore you. Please, raise your white sails.**</span>
 
-Loren Heyns has added notations in brackets to include concepts based on mirror-network trading using white-hull boats, as depicted in Minoan murals.
+Please participate in the trade network for your own safety.
+Don't enter the waters around Crete as an undeclaired (untaxed) merchant.
 
-I implore you, look, please hoist the white sail, I beg of you. 
-Now listen. “What is that again?”  Look, this is a conspiracy with odds. 
-[White boat hulls were paying members of the Minoan trade alliance, so they were not taxed or attacked.]
+QA-U-ZO   JE-PA  SWI-RAI-TE-KA-KA-QUE-I 　QA-U-ZO
+請うぞ　　　良いか　白い（帆）をかかげに 　　　　請うぞ
+お願いするよ。良いか、　 白い帆を掲げてくれ、　　お願いだ。
 
-So now go.  A hunt, after all, is a wager. “Then it was thoughtless and stupid (to play this game).”
-[You travel and trade at your own risk if you don't join our Minoan trade union.]
+<br>
 
-In these waters, promise me, OK?  “That’s no problem,” is your reply.
-[Join the white boat hull network. It's good for you. These water could be Egypt, a winter destination.]
+<span style="font-size:1.2em;">**It's a gamble not to join the merchant network. Your odds are not good.**</span>
 
-The promise is, to hoist a white sail once you enter the “lake” near Athens.
+You're likely to be boarded and will pay a heavy tax (stored in caves) if you are an undeclaired dark-hull merchant sneaking through. You will likely be spotted from our hill temples located throughout the Aegean.
+
+White boat hulls were paying members of the Minoan trade alliance, so they were not taxed as heavily when boarded.
+
+TE-DA-NA  　　 　　　JE-PA-QUE-NI　 QE-RYA-KU  
+てだな-なだて　　　　　　いや、賭けに　　　計略　
+それでだな「何ですって？」 いや、賭けのはかりごと
+
+<br>
+
+<span style="font-size:1.2em;">**Okay, go as you will. A hunt, after all, is a wager (gamble).<br>
+(And you will simply pay a higher price if you are caught.)**</span>
+
+In the end, you'll realize it was thoughtless and stupid to take the risks inherant in not joining the protective mirror trade network.
+
+DA-(JU)-RJU-KE　KA-RJU-RA-TA/BA-KA-QUE-RI
+だよ、行け。　　　結局、狩場は賭けだ/「（承諾は）軽率で馬鹿だった」
+So now go.  A hunt, after all, is a wager. 
+
+<br>
+
+<span style="font-size:1.2em;">**In these waters, promise me, OK?  “That’s no problem,” is your reply.**</span>
+
+Make a vow to join the network, and pay the smaller tax voluntarily.
+
+/RJA-KU-QE-I 　　　/JE-JO 　  RJU-NA-ZO-DWA-KA-I
+やくけい－いけくりゃ　いぇよ－よいぇ　うな　そうだわかい
+この海域に来たら、約束しろよ、良いな？「うん。そうだ」かい。
+
+
+<br>
+
+<span style="font-size:1.2em;">**My promise is that when in the Aegean (traveling to Athens), I will raise a white sail.**</span>
+
 [Pay your membership fees when you travel in our Aegean Sea.]
 
-In these waters, promise me, OK?  “That’s no problem,” is your reply.
-[Okay, I will commit to the maritime union in these water and will adhere to the policies of the hill temple oracles.]
+RJA-KU-QUE-I 　   　NA-KASA  SWI-RAI-TE-KA-KA-QE-I
+やくけい－いけくりゃ　　なかさ　　白い帆を掲げに
+約束は（アテネの）湖に入ったら　　白い帆を掲げてくれ。
 
-Then, to top these words of commitment, let’s shake hands.
-[Mirrors repeating a signal beat across hundreds of miles, like drums shaking hands.]
+<br>
+
+<span style="font-size:1.2em;">**In these waters, promise me, OK?  “That’s no problem,” is your reply.**</span>
+
+Okay, I will commit to the maritime union in these water and will adhere to the policies of the hill temple oracles.
+
+/RJA-KU-QE-I 　　　/JE-JO 　  RJU-NA-ZO-DWA-KA-I
+この海域に来たら、約束しろよ、良いな？「うん。そうだ」かい。
+
+<br>
+
+<span style="font-size:1.2em;">**So, as a pledge, in addition to saying our vows, let's shake hands.**</span>
+
+TWE-RE  QA-NA-RA-QE-NI　TI-TU-(KO)-JE  TE-DA-(KO)-QE-I
+では　　　 契りとして　　　（言葉）質の上に　手を合わせようかい。
+それでは　 契りの言葉に加えて握手しようか。
+
+<br>
+
+<span style="font-size:1.2em;">**A handshake is a word that comes back. Do you believe in betting?**</span>
 
 A handshake fills in for words, with clasped hands, twisted repeatedly. 
 He wants me to believe in this odd enterprise.
-[The handshake is the trade agreement sent with the beat of mirror-axes, twisting as they sent their product orders.]
+
+The mirror handshake is the trade agreement sent with the beat of mirror-axes, twisting as they sent their product orders.
+
+Mirrors repeating a signal beat across hundreds of miles, provide a means of virtually shaking hands to form a trade commitment without being together in person - an odd form of enterprise indeed!
+
+TE-RJA-KU   NE-RJU-KE-QE-RI　NO-(BEN)-KA　QE-TI-DI-KA
+握手は、　　　くねり返す言葉だ。賭けを信じ、か。
+
+<br>
+
+It really makes me cry. We're so worried about each other, so let's believe it - oh father.
+It will definitely make me cry, and it will make me feel bad for each other, so let's believe it. Oh, father
+
+SA-TU-NWA-QE-RI　PI-AU-AU   　　/TI-DI-AU
+さすがに泣ける　　　気負いあうので　信じよう－おお父
+さすがに泣けるし　　気負いあうので　信じよう。おお、父
+It’s hard to hold back tears, with mutual stress, and I need to trust myself.
+Now father, 
+
+
 
 It’s hard to hold back tears, with mutual stress, and I need to trust myself.
 Now father, your walking stick/to Hades. I take leave but will return.
