@@ -70,7 +70,7 @@ Night has arrived and now we must rely on sound and the stars to navigate.
 
 <span style="font-size:1.2em;">**Heave ho! Now this way, now that, the cave implores, to my great misery.**</span>
 
-I'm crying (it' raining), we cannot see the stars, so we're unsure which way to go. 
+I'm crying (it's raining), we cannot see the stars, so we're unsure which way to go. 
 Now we must rely on only sound to find our way.
 
 KU-RJA-TE 　I-QE-(KO)-DA-TE　　 JE-(KO)-TU-TI　 I-QE-RA-NA-QA
