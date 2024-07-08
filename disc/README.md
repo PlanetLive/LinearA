@@ -28,7 +28,7 @@ Starting clockwise, then flipping. Then reading both sides in reverse.
 
 <span style="font-size:1.2em;">**The surface of the water is reflective like my labrys (mirror-axe walking stick).
 We punt (trade) with light to communicate with the north, the location of Hades. 
-The people I communicate with are my father's ancesters in Greece and Turkey.
+The people I communicate with are my father's ancestors in Greece and Turkey.
 Let's trust that we will be reunited in person soon.**</span>
 
 "Punting" refers to trading with light by twisting the mirror-axes staff back-and-forth to relay rhythmic verse by passing signals between boats.
@@ -86,7 +86,9 @@ If the echo does not occur in reverse, we are not communicating.**</span>
 
 These echoes are like a play on words (back and forth, like the kaibun phrases on the disc), so heave and ho!
 
-The echos are like the opening rhythms we send by drums at night to establish communication. But the reply must occur backwards (like the phrases on the disc), otherwise we are merely listening to natural echos from the shore.
+The echoes are like the opening rhythms we send by drums at night to establish communication. But the reply must occur backwards (like the phrases on the disc), otherwise we are merely listening to natural echoes from the shore.
+
+Sending back messages confirmed receipt and provided the recipient with an opportunity to add more details between surrounding phrases that were inverted kaibun-style.
 
 RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 れ　て　　　いかどわ　ぞ な りう　  よれ－れよ　いけくりや、けいりゃく
@@ -110,7 +112,7 @@ I-KA-DWA- ZO-NA-RJU    JO-JE/ 　 　I-QE-KU-RJA/
 
 <br>
 
-<span style="font-size:1.2em;">**The lake's storytelling (echos) is a game of (words). Damn it! We will go to hell. (And come on!)**</span>
+<span style="font-size:1.2em;">**The lake's storytelling (echoes) is a game of (words). Damn it! We will go to hell. (And come on!)**</span>
 
 I-QE- KA-TA-RA-RJU-KA   KE-RJU-(JU)-DA   KU-RJA-QE 
 池の語りは、　　　（言葉を）かける遊戯だ。　くらえ！（と来りゃ！）
@@ -155,7 +157,7 @@ Athens communicates back to Crete. The season is Fall.
 <span style="font-size:1.2em;">**At high tide in the pond (in Athens)
 I felt the soil myself.**</span>
 
-It time for our return south, the water in the port is high tide.
+It's time for our return south, the water in the port is at high tide.
 I stayed on land - we docked the boat for a while.
 
 I-QE-(MI)-TU-TI      　　KA-DI-TI-TE   
@@ -190,7 +192,7 @@ PA-YE-RE-SA   SO-TI-PA-JE-RJU
 <span style="font-size:1.2em;">**I don't like (that I have to leave),<br>
 it is a terrible story and brings me down.**</span>
 
-Goodby summer. "So long Marianne," as Leonard Cohen would later sing in Greece.
+Goodbye summer. "So long, Marianne," as Leonard Cohen would later sing in Greece.
 
 (KI)-RAI-（ZE）-DWA  TI-E-TU-TE  I-RJA-NI-TU.
 きらいぜ　とは　　    ちえつて　　　いやにつ。
@@ -235,7 +237,7 @@ I-PE-KA-JE  　　  AU-NI-TI-NO / 　　  　AU-NO-PA
 <span style="font-size:1.2em;">**Auchichi (breast milk) - Let's meet each other later.
 I knew the day I met you, we'd meet again.**</span>
 
-The sailer is making a commitment to return in nine months,
+The sailor is making a commitment to return in nine months,
 
 and when he does, it will likely be to a new born child.
 
@@ -262,7 +264,7 @@ KA-PI-NA-DWA 　　  　TI-RJU-TE
 
 This really is a love story.
 
-The bending branch of the old father is heavy with fruit and I (trusted) will take the harvest with me to trade in the south.
+The bending branch of the old father is heavy with fruit and I, the trusted son-in-law, will take the harvest with me to trade in the south.
 
 TI-DI-TI /  　　TI-NA-RJU-E  (KI/MI)-AU-NI-TI-NO /  
 信じて父を　　　しなるゆえ　　君と合う日、後に会う。　
@@ -282,7 +284,7 @@ PE-QUI-RE-RJU-TI
 <br>
 
 <span style="font-size:1.2em;">**I left the water.  I must stop here.<br>
-The big dipper (dragon boat) in the night sky (to the north) is the location of my father.**</span>
+The big dipper (dragon boat) in the night sky (to the north) is the location of my father (and my goddess).**</span>
 
 I've reached Crete or Africa. Looking back I see the big dipper in the north.
 
@@ -302,7 +304,7 @@ Hiro writes: Theseus, upon his return to Athens after slaying the Minotaur, find
 Theseus had met Ariadne, daughter of King Minos, in Crete and they became lovers. She helped him kill the Minotaur in the labyrinth and come back alive by giving him a ball of thread to guide his way back. Theseus intended to bring Ariadne back to Athens but had to leave her on Naxos at the behest of the deity Dionysus, who had fallen in love with her.
 Theseus was so overcome with grief that he forgot to change the black sail to white on his final leg back to Athens. King Aegeus spotted Theseus’ ship from the Cape of Sounion and, catching sight of the black sail, threw himself into the sea from the cliff, in a fit of despair. The sea was thereafter called the Aegean.
 
-Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to marriage (a right of passage) in cultures from the Mediterranean to India. Returning south without a successful marriage may have prevented a young captain from painting his boat white. Without a dowry from the bride's family, the young sailer may not have had funds to join the official Minoan white-boat trade network. It would be a gloomy day indeed for the future trading prospects between families. The defeated bull-jumper would probably not be able to afford a boat of his own.
+Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to marriage (a right of passage) in cultures from the Mediterranean to India. Returning south without a successful marriage may have prevented a young captain from painting his boat white. Without a dowry from the bride's family, the young sailor may not have had funds to join the official Minoan white-boat trade network. It would be a gloomy day indeed for the future trading prospects between families. The defeated bull-jumper would probably not be able to afford a boat of his own.
 
 ---
 <br>
@@ -318,7 +320,7 @@ Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to 
 <span style="font-size:1.2em;">**I implore you. Please, raise your white sails.**</span>
 
 Please participate in the trade network for your own safety.
-When you return with a loaded ship, don't enter the waters around Crete as an undeclaired (untaxed) merchant.
+When you return with a loaded ship, don't enter the waters around Crete as an undeclared (untaxed) merchant.
 
 QA-U-ZO   JE-PA  SWI-RAI-TE-KA-KA-QUE-I 　QA-U-ZO
 請うぞ　　　良いか　白い（帆）をかかげに 　　　　請うぞ
@@ -351,7 +353,7 @@ So now go.  A hunt, after all, is a wager.
 <span style="font-size:1.2em;">**In these waters, promise me, OK?  “That’s no problem,” is your reply.**</span>
 
 Make a vow to join the maritime network, ok?  
-Sure, I'll pay the smaller tax voluntarily, rather than risk loosing more of my goods.
+Sure, I'll pay the smaller tax voluntarily, rather than risk losing more of my goods.
 
 RJA-KU-QE-I 　　　/JE-JO 　  RJU-NA-ZO-DWA-KA-I
 やくけい－いけくりゃ　いぇよ－よいぇ　うな　そうだわかい
@@ -412,7 +414,7 @@ QE-TU-E           /RJU-JE-PA-QE-RI
 
 It's winter, I'm away but I will be back with new trade goods once the weather changes.
 
-We might infer that for some sailers their father is in Crete or another mid-latitude retirment area, and that the northern "summer" father represents ancesters from Greece and Turkey.
+We might infer that for some sailors their father is in Crete or another mid-latitude retirement area, and that the northern "summer" father represents ancestors from Greece and Turkey.
 
 <br>
 
@@ -501,14 +503,14 @@ JE-SA-AU  　RJU-TA-SE   TE-NE-E-E-AU
 so either a successful voyage is now certain!<br>
 Or the other outcome: This will end in bad taste (we might not make it)**</span>
 
-The signal sent from Athens may never comes back, because of the bad weather.
+The signal sent from Athens may never come back due to bad weather.
 
 JE-QA-DWA-KA  TU-NI-RJA-NI　    
 父：いいか、と　分かつに/勝つに、厭になるから。
 
 <br>
 
-<span style="font-size:1.2em;">**Theseus understands, said he looking sick, as if suffering from nausea.**</span>
+<span style="font-size:1.2em;">**Theseus understands, said he looked sick, as if suffering from nausea.**</span>
 
 Only haphazard signals make it through the network. We're worried sick, unsure of the outcome.
 
@@ -568,23 +570,21 @@ Read more Linear A translations by [Hiro Kuroda](/LinearA/hiro/).
 Early discs from before 2200 BC - HINA
 Source [Champlin Burrage](https://www.jstor.org/stable/310717?seq=6)
 
-On one side appear to be the sun rising, bull horns, a path to follow that echos the shape of the island of crete, a sun setting, a signal fire and tall reflector, and directional signals.
+On one side appear to be the sun rising, bull horns, a path to follow that echoes the shape of the island of Crete, a sun setting, a signal fire and tall reflector, and directional signals.
 
 <a href="/LinearA/img/phaistos/phaistos-whorl.png"><img src="/LinearA/img/phaistos/phaistos-whorl.png" style="width:100%;max-width:3000px"></a>  
 
-The word written on the early disc might be Telchinia (Calchinia), the name of daughter of Leucippus (who only had a daughter). It may be very significant if women migrating to Create only had daughters. Early European men from Greece and eastern Europ had more Neaderthal genes and therefore may have only been able to conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). In the very least, the more isolated Eastern Europeans that migrated south into Greece may have initially been more susceptible to diseases that didn't effect the more urban populations arriving by boat.
+The word written on the early disc might be Telchinia (Calchinia), the name of the daughter of Leucippus (who only had a daughter). It may be very significant if women migrating to Create only had daughters. Early European men from Greece and eastern Europe had more Neanderthal genes and therefore may been more likely to conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). The isolated Eastern Europeans that migrated south into Greece may have been more susceptible to diseases from the more urban populations arriving by boat.
 
-Talos and Telchinia, writen in Semitic (Phoenician and Akkadian - Hebrew, Arabic, and Aramaic). Talos is the Sun, and the man of bronze, and Tauros. Zeus is called Talaios in Crete. As the protector, Talos made the circuit around Crete three times daily. We can infere this was a looping solar telegram process that transmitted in the morning, midday and before sunset via hill templs using the Minotar bull stands. Or maybe the labrys axe poles were pivoted in the hole within the disc above to aim at markers placed around the edges of temple courtyards to target a distant receiving station along the pathway drawn on side A.
-
-Perhaps the older discs above where part of a system for steering mirrors on the bull horn mirror stands.
+Talos and Telchinia, written in Semitic (Phoenician and Akkadian - Hebrew, Arabic, and Aramaic). Talos is the Sun, and the man of bronze, and Tauros. Zeus is called Talaios in Crete. As the protector, Talos made the circuit around Crete three times daily. We can infer this was a looping solar telegram process that transmitted in the morning, mid-day and before sunset via hill temples using the route drawn on side A.
 
 In Phoenician, the bull-head was called Aleph and later became the Roman letter A.
 
-Corybantians were armored male dancers who kept time to a drum and the rhythmic stamping of their feet in a male coming-of-age initiation ritual. [More](https://en.wikipedia.org/wiki/Korybantes)
+Corybantians were armored men who kept time to a drum and the rhythmic stamping of their feet in a male coming-of-age initiation ritual. [More](https://en.wikipedia.org/wiki/Korybantes)
 
-The dance steps they learned were based on short and long turns in a minotaur maze drawn on a courtyard and might provide us with further clues on how young people memorized LinearA consonant-vowel syllables for mirror and drum messages.
+The dance steps they learned were based on short and long turns in a minotaur maze drawn on a courtyard and might provide us with further clues on how young people memorized Linear A syllables for mirror and drum messages.
 
-Turning back to 5260 BCE in the northern Aegean - [The Dispilio Tablet](https://jiroftscript.quora.com/Ever-heard-of-the-Dispilio-Tablet) is older than the pyramids and older than the Varna treasure, but not as old as Gobekli Tepe. [Settelment buildings](https://novoscriptorium.com/2019/07/05/the-settlement-of-dispilio-kastoria-greece-writing-in-neolithic-greece/)
+Turning back to 5260 BCE in the northern Aegean - [The Dispilio Tablet](https://jiroftscript.quora.com/Ever-heard-of-the-Dispilio-Tablet) is older than the pyramids and older than the Varna treasure, but not as old as Gobekli Tepe. [Settlement buildings](https://novoscriptorium.com/2019/07/05/the-settlement-of-dispilio-kastoria-greece-writing-in-neolithic-greece/)
 
 
 <br>
@@ -604,5 +604,3 @@ After reading side B from the center to the rim, the words TI-TU-(KI)-HE-RI（di
 There may have been 3-states conveyable by each beat: a full 1-second signal, a quick signal flash, and no signal. (The original Morse Code used patterns of dots with similar blank spaces to represent a few of the letters.)
 
 There are [12 unique timeline beats in African music](https://youtu.be/8ypTYNGLr5A?si=YthHmWpffm8Z_gIG&t=218). With possible origins on the Upper Nile and North Africa, a reflector-and-scepter mirror system may have used a beat to convey light pulses representing the consonant-vowel characters using a cipher.
-
-Hiro Kuroda found that the disc can be read in both directions like, forming for 4 unique story sequences. Perhaps reversing phrases was a means to send back messages to confirm receipt and add more details.
