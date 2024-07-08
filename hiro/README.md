@@ -1250,6 +1250,7 @@ In these waters, promise me, OK?  “That’s no problem,” is your reply.
 約束は（アテネの）湖に入ったら　　白い帆を掲げてくれ。
 The promise is, to hoist a white sail once you enter the “lake” near Athens.
 
+<!-- Should this repeat from above? -->
 /RJA-KU-QE-I 　　　/JE-JO 　  RJU-NA-ZO-DWA-KA-I
 この海域に来たら、約束しろよ、良いな？「うん。そうだ」かい。
 In these waters, promise me, OK?  “That’s no problem,” is your reply.
