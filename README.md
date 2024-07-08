@@ -1,5 +1,7 @@
 # Linear A Script
 
+<a href="https://github.com/planetLive/LinearA/" style="right:0;position:absolute;z-index:1">GitHub</a>
+
 ## The Phaistos Disc - Deciphered!
 
 We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and love](disc):
@@ -24,7 +26,7 @@ In the darkness, the voyage is one of deep soul searching and ancestrial communi
 
 On first sight, the young couple knew they would have a future together. The family in Athens grants the young man a ship with the understanding that he will return with trade goods from Crete and Egypt.  
 
-**In the fall** as he travels south, the Big Dipper in the north represents the young woman left behind who is due to become a mother. The young captain joins the Crete white-hull network with his small dragon boat, commiting to a tax rather than the high penalty if he were to return through the waters unmarked.
+**In the fall** as he travels south, the Big Dipper in the north represents the young woman left behind who is due to become a mother. The young captain joins the Crete white-hull network with his small dragon boat, commiting to a tax rather than risk the high penalty if he were to return through the waters in an unaffiliate boat loaded with goods.
 
 We learn that in the Minoan trade network, a handshack for a trade agreement is often conducted at a distance using mirrors.
 

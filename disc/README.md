@@ -48,7 +48,7 @@ I-QE-PA-JE-RJU /   　　E-TU-QE 　AU-DI-TI /
 
 <span style="font-size:1.2em;">**Oh, the deep blue water at the height of summer!**</span>
 
-We are midway in our crossing during our summer trade voyage.
+We are midway in our crossing during our north-bound trade voyage.
 
 AU-AU-PI  　I-QE-NWA-TU-SAKANA
 あおあおき　　いけ　な　つ さかんな
@@ -64,11 +64,14 @@ KA-DI-TI-QE 　　KAWA-(BE)-NO　 I-QE-KE-RJU-NE
 かじ　ち　へ　　　　川辺の　　　　　池を蹴るね/ 池、消えるね
 と感じて、かの地へ、　洞窟の川を　　蹴って進めば 池が消えていくね、
 
+Night has arrived and now we must rely on sound and the stars to navigate.
+
 <br>
 
 <span style="font-size:1.2em;">**Heave ho! Now this way, now that, the cave implores, to my great misery.**</span>
 
-I'm crying (it' raining), unsure which way to go. Now we must rely on sound to find our way.
+I'm crying (it' raining), we cannot see the stars, so we're unsure which way to go. 
+Now we must rely on only sound to find our way.
 
 KU-RJA-TE 　I-QE-(KO)-DA-TE　　 JE-(KO)-TU-TI　 I-QE-RA-NA-QA
 くりゃて　　　いえ、こうだって　　　いえ、こっち　　　いけらなか
@@ -81,9 +84,9 @@ as the sound of the raft makes the cave resound.<br>
 “Heave, ho,” brings back “Ho, heave”.<br><br>
 If the echo does not occur in reverse, we are not communicating.**</span>
 
-These echoes (on the disc) are like a play on words (back and forth), so heave and ho!
+These echoes are like a play on words (back and forth, like the kaibun phrases on the disc), so heave and ho!
 
-The echos are like the opening rhythms we send by drums at night to establish communication. The reply most occur backwards (like the song on the disc), otherwise we are mearly listening to the cave's (and shore's) echo.
+The echos are like the opening rhythms we send by drums at night to establish communication. But the reply must occur backwards (like the phrases on the disc), otherwise we are merely listening to natural echos from the shore.
 
 RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 れ　て　　　いかどわ　ぞ な りう　  よれ－れよ　いけくりや、けいりゃく
@@ -255,7 +258,7 @@ KA-PI-NA-DWA 　　  　TI-RJU-TE
 
 <br>
 
-<span style="font-size:1.2em;">**Trust me, my old father (now like a bending branch) will be happy. I'll see you later (next year) on the same day of the year I met you.**</span>
+<span style="font-size:1.2em;">**Trust me, my old father (now like a bending branch) will be happy.<br>I'll see you later (next year) on the same day of the year I met you.**</span>
 
 This really is a love story.
 
@@ -278,7 +281,7 @@ PE-QUI-RE-RJU-TI
 
 <br>
 
-<span style="font-size:1.2em;">**I left the water.  I must stop here.
+<span style="font-size:1.2em;">**I left the water.  I must stop here.<br>
 The big dipper (dragon boat) in the night sky (to the north) is the location of my father.**</span>
 
 I've reached Crete or Africa. Looking back I see the big dipper in the north.
