@@ -3,17 +3,17 @@
 
 ## A Story of Annual Trade Migrations between Families
 
-by Loren Heyns, expanding on the translation of Hiro Kuroda
+by Loren Heyns, expanding on the [translation of Hiro Kuroda](../hiro)
 
 "The shape and design of the Phaistos disc, in which words are laid out in circular, whirlwind fashion, hints at a sense of playfulness and entertainment, whereby it can be read in both directions, clockwise or vice-versa, and makes sense either way. This form of entertainment is known in Japan as kaibun, made possible by the syllabary nature of the language. Here, we shall reverse the word ordering on each side to see if the whole Phaistos Disc can be deciphered and still make sense." - Hiro
 
 Oracles coordinated with Minoan sailers via reflected light from hilltop temples to manage trade routes by approved white-hull boats. They collected taxes for storage in caves (national treasuries), as depicted in Minoan murals. Inspired by [Sheppard Baird's Minoan Web of Mirrors](https://www.minoanatlantis.com/Minoan_Mirror_Web.php)
 
-Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the legend of Theseus (where Theseus has returned to Greece after killing the Minotaur in Crete), Loren Heyns has adjusted the interpretation to include seasonal trade travel and long-distance communication using mirrors and drums - with interruptions by spring storms.
+Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the legend of Theseus (where Theseus has returned to Greece after killing the Minotaur in Crete), Loren Heyns has adjusted the interpretation to include seasonal trade travel and long-distance communication using [mirrors and drums](https://dreamstudio.com/seasons/mirror-network/) - with interruptions by spring storms.
 
 
 Starting clockwise, then flipping. Then reading both sides in reverse.  
-(1) Summer to Athens, (2) Fall to Crete, (3) Winter in Egypt, and (4) Spring Return in Rain.
+(1) Summer to Athens, (2) Fall to Crete, (3) Winter Network Handshakes, and (4) Spring Return in Rain.
 
 Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Athena herself wears clothes from Libya in her Parthenon statue and most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
 
