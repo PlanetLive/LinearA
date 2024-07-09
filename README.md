@@ -17,7 +17,7 @@ Cracking the Linear A seasons of the disc was made possible by:
 ### The story from the disc unfolds...
 
 <div class="floatRight" style="margin-bottom:15px;max-width:300px;">
-<a href="img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px;border-radius:28px;"></a>  
 </div>
 
 **In the summer**, a young crew member travels to Athens, the homeland of his father, where he meets a young girl. The voyage was aided by communication (punting) with mirror-axes and drums between multiple senders. At night, sunlight signaling changes to drums. To confirm transmissions, common phrases from the Phaistos Disc are flipped as kaibuns, so they don't seem like meer echoes from cave walls.

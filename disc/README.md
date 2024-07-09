@@ -15,7 +15,7 @@ Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the l
 Starting clockwise, then flipping. Then reading both sides in reverse.  
 (1) Summer to Athens, (2) Fall to Crete, (3) Winter Network Handshakes, and (4) Spring Return in Rain.
 
-Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Athena herself wears clothes from Libya in her Parthenon statue and most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
+Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
 
 By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home during seasonal travel for trade.
 
@@ -25,7 +25,7 @@ By design, the disc story was crafted NOT to be succinctly interpreted. Instead,
 # Summer Travel Northward
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
-<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
 </div>
 
 ### (Side A Clockwise)
@@ -34,7 +34,7 @@ By design, the disc story was crafted NOT to be succinctly interpreted. Instead,
 I'm signalling to my relatives in Greece and Turkey.
 Let's trust that we will be reunited in person soon.**</span>
 
-"Punting" refers to trading with light by twisting the mirror-axes staff back-and-forth to relay rhythmic verse by passing signals between boats.
+"Punting" refers to trading with light by twisting the mirror-axes staff back-and-forth to relay rhythmic verse by passing signals between arrays of boats and hilltop temples.
 
 Hades was the distant side of the mainland, where the sun goes to die. The Greek's "gates of the underworld" were in a canyon of the River Acheron, in Epirus in northwestern Greece. <!--Cape Tenaron at the southern tip of Peloponnesus is also mentioned by Hiro.-->
 
@@ -150,7 +150,7 @@ ZO-U-KA  　I-QE-KA-KA-TE-RAI-SWI   PA-JE     ZO-U-KA.
 # Fall Returning South to Crete
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
-<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
 </div>
 
 ### (Side B Clockwise)
@@ -315,7 +315,7 @@ Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to 
 # Winter Trade in the Far South
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
-<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
 </div>
 
 ### (Side A Counter-clockwise)
@@ -430,7 +430,7 @@ As Hiro observed, the word “return” nudges the reader to flip the Disc over 
 <!-- (A) : Aegeus   (T) : Theseus -->
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
-<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
 </div>
 
 <span style="font-size:1.2em;">**Father/Mother!<br>
@@ -447,7 +447,7 @@ TI-DI　　　DWA-NA-PI-AU　TI-NA-TE-KE-RI
 
 <span style="font-size:1.2em;">**Listen (use drums), we are bound to meet again, so no reason to be troubled today.**</span>
 
-Because of the spring rain, we can switch to relaying drum signals between boats.
+Because of the spring rain, we can switch to relaying drum signals between boats and land.
 
 The weather may be a barrier, but I will see you soon.
 
@@ -487,7 +487,7 @@ TI-DI-AU　　　　　　PA-NO-AU　　/NO-TI-NI-AU　
 
 <span style="font-size:1.2em;">**Father, as an excuse, bid farewell, Theseus!**</span>
 
-The storm is cutting off our communication between boats.
+The storm is cutting off our communication between boats and land.
 
 JE-WA-PE-NI　　SA-RE-RA-TE-KE
 父： 言い訳に、　さらば 言っていけ/テーセウス！
@@ -592,14 +592,9 @@ The dance steps they learned were based on short and long turns in a minotaur ma
 Turning back to 5260 BCE in the northern Aegean - [The Dispilio Tablet](https://jiroftscript.quora.com/Ever-heard-of-the-Dispilio-Tablet) is older than the pyramids and older than the Varna treasure, but not as old as Gobekli Tepe. [Settlement buildings](https://novoscriptorium.com/2019/07/05/the-settlement-of-dispilio-kastoria-greece-writing-in-neolithic-greece/)
 
 
-<br>
+<br><br>
 
----
-<br>
-
-# More about the Disc
-
-<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
+<a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
 Phaistos Disc Side A - <a href="../img/phaistos/phaistos-disc-side-b.jpg">View Side B</a>
 
 <!--
