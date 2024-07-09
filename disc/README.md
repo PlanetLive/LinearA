@@ -15,6 +15,10 @@ Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the l
 Starting clockwise, then flipping. Then reading both sides in reverse.  
 (1) Summer to Athens, (2) Fall to Crete, (3) Winter in Egypt, and (4) Spring Return in Rain.
 
+Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Athena herself wears clothes from Libya in her Parthenon statue and most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
+
+By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home during seasonal travel for trade.
+
 ---
 <br>
 
@@ -26,9 +30,8 @@ Starting clockwise, then flipping. Then reading both sides in reverse.
 
 ### (Side A Clockwise)
 
-<span style="font-size:1.2em;">**The surface of the water is reflective like my labrys (mirror-axe walking stick).
-We punt (trade) with light to communicate with the north, the location of Hades. 
-The people I communicate with are my father's ancestors in Greece and Turkey.
+<span style="font-size:1.2em;">**Like the surface of the water my labrys mirror-axe (walking stick) reflects the sun. We punt light (between boats and land) to trade with the north and onward to Hades.<br><br>
+I'm signalling to my relatives in Greece and Turkey.
 Let's trust that we will be reunited in person soon.**</span>
 
 "Punting" refers to trading with light by twisting the mirror-axes staff back-and-forth to relay rhythmic verse by passing signals between boats.
@@ -58,7 +61,7 @@ AU-AU-PI  　I-QE-NWA-TU-SAKANA
 
 
 <span style="font-size:1.2em;">**If you go there (to Hades), communicating up the river of the cave (in the darkness),<br>
-the ocean (the world of the living) will disappear (behind you).**</span>
+the world of the living will disappear behind you.**</span>
 
 KA-DI-TI-QE 　　KAWA-(BE)-NO　 I-QE-KE-RJU-NE
 かじ　ち　へ　　　　川辺の　　　　　池を蹴るね/ 池、消えるね
