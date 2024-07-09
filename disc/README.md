@@ -406,15 +406,15 @@ SA-TU-NWA-QE-RI　PI-AU-AU   　　/TI-DI-AU
 
 <br>
 
-<span style="font-size:1.2em;">**Father, your walking stick. You are closer to death and I take leave but will return.**</span>
+<span style="font-size:1.2em;">**From my homeland, I take leave but I'll return.**</span>
 
 QE-TU-E           /RJU-JE-PA-QE-RI
 へ　つ　え 　        ゆえ、帰り－いえ、帰る。
 へ杖を/地獄へ。だから帰路に。いや、戻ります。
 
-It's winter, I'm away but I will be back with new trade goods once the weather changes.
+It's winter, I'm heading south, but I'll be back with new trade goods once the weather changes.
 
-We might infer that for some sailors their father is in Crete or another mid-latitude retirement area, and that the northern "summer" father represents ancestors from Greece and Turkey.
+As Hiro observed, the word “return” nudges the reader to flip the Disc over to continue reading on side B.
 
 <br>
 
@@ -555,6 +555,8 @@ TE-TI-DI-KA    　　　TI-TU-(KI)-HE-I
 [Flip the disc for the happy arrival in Athens!](../)
 <br>
 
+As Hiro notes, ending with “disappeared” reminds the reader to flip the Disc over once again.
+
 Read more Linear A translations by [Hiro Kuroda](/LinearA/hiro/).
 
 <br>
@@ -574,7 +576,7 @@ On one side appear to be the sun rising, bull horns, a path to follow that echoe
 
 <a href="/LinearA/img/phaistos/phaistos-whorl.png"><img src="/LinearA/img/phaistos/phaistos-whorl.png" style="width:100%;max-width:3000px"></a>  
 
-The word written on the early disc might be Telchinia (Calchinia), the name of the daughter of Leucippus (who only had a daughter). It may be very significant if women migrating to Create only had daughters. Early European men from Greece and eastern Europe had more Neanderthal genes and therefore may been more likely to conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). The isolated Eastern Europeans that migrated south into Greece may have been more susceptible to diseases from the more urban populations arriving by boat.
+The word written on the early disc might be Telchinia (Calchinia), the name of the daughter of Leucippus (who only had a daughter). Only having a daughter could be associted to the greater likelihood native European men would conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). The isolated Eastern Europeans that migrated south into Greece may have also been more susceptible to diseases from the urban populations arriving by boat.
 
 Talos and Telchinia, written in Semitic (Phoenician and Akkadian - Hebrew, Arabic, and Aramaic). Talos is the Sun, and the man of bronze, and Tauros. Zeus is called Talaios in Crete. As the protector, Talos made the circuit around Crete three times daily. We can infer this was a looping solar telegram process that transmitted in the morning, mid-day and before sunset via hill temples using the route drawn on side A.
 
@@ -597,13 +599,9 @@ Turning back to 5260 BCE in the northern Aegean - [The Dispilio Tablet](https://
 <a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px"></a>  
 Phaistos Disc Side A - <a href="../img/phaistos/phaistos-disc-side-b.jpg">View Side B</a>
 
-Hiro writes: The symbol QA（38）at the center of side A (Counter-clockwise), representing a flower, must be Athens, the point of departure when Theseus left for Crete. The lines depict the farewell scene between King Aegeus and Theseus. At the end are the words, RJU-JE-PA-QE-RI that translates as “So I must take leave, to return again,” and the word “return” nudges the reader to flip the Disc over to continue reading on side B.
-
-After reading side B from the center to the rim, the words TI-TU-(KI)-HE-RI（disappeared into his chamber) are found at the end, and “disappeared” reminds the reader to flip the Disc over once again. 
-
-There may have been 3-states conveyable by each beat: a full 1-second signal, a quick signal flash, and no signal. (The original Morse Code used patterns of dots with similar blank spaces to represent a few of the letters.)
-
+<!--
 There are [12 unique timeline beats in African music](https://youtu.be/8ypTYNGLr5A?si=YthHmWpffm8Z_gIG&t=218). With possible origins on the Upper Nile and North Africa, a reflector-and-scepter mirror system may have used a beat to convey light pulses representing the consonant-vowel characters using a cipher.
+-->
 
 ### The Minoans altered items from Egypt and shipped them to Greece
-"Archaeological finds from Mycenaean sites such as Mycenae and Pylos indicate that the Minoans may have been working as intermediaries between the Mycenaeans and other cultures, such as Egypt, in their well-established trade networks. This theory has been addressed by Burns who commented: “not only was Minoan Crete a major source for prestige items in the Shaft Graves, but many of the materials and items imported from the eastern Mediterranean seem to have come through Minoan intermediaries” (76). This theory is corroborated through artefacts such as an ostrich egg, known from Egyptian craftsmen but found in a Mycenaean burial with Minoan embellishments, suggesting Minoan interference before its interment with a Mycenaean elite." - [WorldHistory.org](https://www.worldhistory.org/article/1610/the-minoans--mycenaeans-comparison-of-two-bronze-a/)
+"Archaeological finds from Mycenaean sites such as Mycenae and Pylos indicate that the Minoans may have been working as intermediaries between the Mycenaeans and other cultures, such as Egypt, in their well-established trade networks. This theory has been addressed by Burns who commented: “not only was Minoan Crete a major source for prestige items in the Shaft Graves in Greece, but many of the materials and items imported from the eastern Mediterranean seem to have come through Minoan intermediaries”. This theory is corroborated through artefacts such as an ostrich egg, known from Egyptian craftsmen but found in a Mycenaean burial with Minoan embellishments, suggesting Minoan interference before its interment with a Mycenaean elite." - [WorldHistory.org](https://www.worldhistory.org/article/1610/the-minoans--mycenaeans-comparison-of-two-bronze-a/)
