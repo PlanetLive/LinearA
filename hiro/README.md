@@ -1,4 +1,4 @@
-[Introduction](../)
+[Linear A Script](../)
 
 Recent June 2024 publication by [Mizuhiro Kuroda](https://independent.academia.edu/HiroKuroda?swp=tc-au-48923197) on [Indus Script](https://www.academia.edu/48923197/Indus_Script?auto=download&email_work_card=download-paper)
 

@@ -17,7 +17,7 @@ Starting clockwise, then flipping. Then reading both sides in reverse.
 
 Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
 
-By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home during seasonal travel for trade.
+By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home between seasonal travel for trade.
 
 ---
 <br>
