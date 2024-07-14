@@ -157,10 +157,11 @@ ZO-U-KA  　I-QE-KA-KA-TE-RAI-SWI   PA-JE     ZO-U-KA.
 
 Athens communicates back to Crete. The season is Fall.
 
-<span style="font-size:1.2em;">**At high tide in the pond (in Athens)
+<span style="font-size:1.2em;">**At high tide in the pond (in Athens)<br>
 I felt the soil myself.**</span>
 
-It's time for our return south, the water in the port is at high tide.
+It's time for our return south,  
+the water in the port is at high tide.  
 I stayed on land - we docked the boat for a while.
 
 I-QE-(MI)-TU-TI      　　KA-DI-TI-TE   
@@ -170,7 +171,8 @@ I-QE-(MI)-TU-TI      　　KA-DI-TI-TE
 
 <span style="font-size:1.2em;">**I don't want to go to school.<br>
 It's pathetic that he was left in despair.<br>
-I have good reasons to travel. Why are you making fun of me?**</span>
+I have good reasons to travel.<br>
+Why are you making fun of me?**</span>
 
 If I stay for the Fall I will need to go to school.
 The people that I leave behind will be sad, but I have a job to do.

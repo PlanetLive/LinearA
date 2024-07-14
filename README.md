@@ -30,8 +30,7 @@ On first sight, the young couple knew they would have a future together. The fam
 
 We learn that in the Minoan trade network, a handshack for a trade agreement is often conducted at a distance using mirrors.
 
-[Read the full translation!](disc)
-
+<a href="disc" class="btn btn-success">Read the full translation!</a>
 
 ## Global Mirror Network
 
@@ -41,7 +40,7 @@ Exploring the use of mirrors, drums, fire signals, and bird couriers for trade l
 
 We've expanded on the LinearA translations of [Hiro Kuroda](hiro/) by adding related information on the Minoan mirror network that fostered trade in the Aegean Sea between Greece, Crete, Egypt and [The Land of Punt](https://dreamstudio.com/seasons/summer/punt/).
 
-Linear A (1) evolved to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its use in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families bound across long distances by marriages used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
+Linear A (1) evolved to be concise, using sounds from the start of words, and (2) efficient with minimum strokes like its use in Indus Valley script to its offspring Japanese hiragana. Translations using Japanese seem to reveal that the Phaistos Disc contains a mirror signal chant about the seasonal trade migration to Athens where families, connected by marriages across long distances, used mirrors to "punt light" between islands where Minoan ships designated with white hulls were pre-certified by the trade network and traveled free of tarrifs.
 
 &ndash; Loren Heyns (drawing upon the [Minoan&nbsp;Mirror&nbsp;Web](https://www.minoanatlantis.com/Minoan_Mirror_Web.php))
 
