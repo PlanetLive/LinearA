@@ -90,11 +90,9 @@ Note the similaries between the 3 columns on the axe and the 3 sections from the
 <a href="../img/hagia-triada-sarcophagus.jpg"><img src="/LinearA/img/hagia-triada-sarcophagus.jpg" style="width:100%;max-width:900px"></a>
 Egyptian influenced funereal cult (1370-1320 BC) [Details](https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus) - On the left side of the arcophagus we see dual mirror-axes (labrys) on poles. The birds sitting on the mirrors signify the use of the mirrors in delivering messages great distances, as the crow flies.
 
-15-syllable lines are common for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/)
+15-syllable lines are common for funeral lamentations in Crete. "There exist the well-known standard responses and verses, but also more spontaneous and improvised dirges composed at the moment by a sorrowing relative." [Source](https://www.destinationcrete.gr/culture/music-in-crete/) The custom insertions would have been the messages being transmitted (by light and drums) between well-known packets declaring the start and end of the message.
 
-The 15 syllables on the Arkalochori Axe could represent the core template for customizing a dirge for sacrifice in which the sounds match numbers.  There also appears to be a clusering of 3 sets of 5 characters if we read all lines from top to bottom.
-
-The three columns could also be invoked by rolling dice (selecting organs from the animal sacrifices). A die game (get it, die game!) may have assisted young players in memorizing the associations for later use with mirrors and drums. The geranos dance that young people learned in ancient Crete may have taught them more advance consonant-vowel sequences by memorizing the order of turns in a maze created with tile patterns in courtyards.
+The three columns could also be invoked by rolling dice. A die game during BBQ parties (for selecting flanks and organs from the animal sacrifices) may have assisted young players in memorizing the number-sound associations during picnics. The geranos dance, that young people learned in ancient Crete, may have taught them more advance consonant-vowel sequences for the order of turns during dances held using a tile maze outside in courtyards.
 
 <div style="clear:both"></div>
 
