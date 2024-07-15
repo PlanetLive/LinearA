@@ -6,7 +6,7 @@
 
 We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and love](disc):
 
-The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which likely has origins in Africa.
+The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which connected trade from Africa to Europe and Asia.
 
 Cracking the Linear A seasons of the disc was made possible by:
 1. The vocal values of Linear B applied to Linear A by [Gareth Owens](https://greekcitytimes.com/2024/02/09/phaistos-disc-mystery/).
