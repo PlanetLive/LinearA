@@ -1,23 +1,23 @@
 [Linear A Script](../)
-# The Seasons of the Disc
+# The Seasons of&nbsp;the&nbsp;Disc
 
-## A Story of Annual Trade Migrations between Families
+## A Story of Annual Trade&nbsp;Migrations between&nbsp;Families
 
-by Loren Heyns, expanding on the [translation of Hiro Kuroda](../hiro)
+by Loren Heyns, expanding on the [translation of Hiro&nbsp;Kuroda](../hiro)
 
 "The shape and design of the Phaistos disc, in which words are laid out in circular, whirlwind fashion, hints at a sense of playfulness and entertainment, whereby it can be read in both directions, clockwise or vice-versa, and makes sense either way. This form of entertainment is known in Japan as kaibun, made possible by the syllabary nature of the language. Here, we shall reverse the word ordering on each side to see if the whole Phaistos Disc can be deciphered and still make sense." - Hiro
 
 Oracles coordinated with Minoan sailers via reflected light from hilltop temples to manage trade routes by approved white-hull boats. They collected taxes for storage in caves (national treasuries), as depicted in Minoan murals. Inspired by [Sheppard Baird's Minoan Web of Mirrors](https://www.minoanatlantis.com/Minoan_Mirror_Web.php)
 
-Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the legend of Theseus (where Theseus has returned to Greece after killing the Minotaur in Crete), Loren Heyns has adjusted the interpretation to include seasonal trade travel and long-distance communication using [mirrors and drums](https://dreamstudio.com/seasons/mirror-network/) - with interruptions by spring storms.
+Expanding on Hiro Kuroda's interpretation of the disc story as a sequel to the legend of Theseus (where Theseus has returned to Greece after killing the Minotaur in Crete), Loren Heyns has adjusted the interpretation to include seasonal trade travel and long-distance communication using [mirrors and drums](https://dreamstudio.com/seasons/mirror-network/) - with interruptions by spring&nbsp;storms.
 
 
 Starting clockwise, then flipping. Then reading both sides in reverse.  
 (1) Summer to Athens, (2) Fall to Crete, (3) Winter Network Handshakes, and (4) Spring Return in Rain.
 
-Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife represented as the Big Dipper with child (the Little Dipper) that he returns home to.
+Part of the genius of the disc, and Minoan culture itself, is that the gender of the honored parent (the father and/or mother) is interchangable. As the Minoans traded with diverse cultures, the disc provided the flexibility to honor a mother Goddess AND a father God.  For our translation, we're honoring Hiro's focus on the northern fatherland, but note that Athens is a Goddess-oriented city. Most interpretations of the disc emphasize the Goddess - which may also be the sailor's young wife, as represented as the Big Dipper and child (the Little Dipper) that the sailer returns home to in the north.
 
-By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home between seasonal travel for trade.
+By design, the disc story was crafted NOT to be succinctly interpreted. Instead, it supports unrestricted character roles and locations to allow the trade network to absorb diverse city-states as partners. The most consistent message is the importance of loyalty too the trade federation, with family bonds as the cohesive glue bringing sailors home between seasonal travel for&nbsp;trade.
 
 ---
 <br>
@@ -49,7 +49,7 @@ I-QE-PA-JE-RJU /   　　E-TU-QE 　AU-DI-TI /
 
 <br>
 
-<span style="font-size:1.2em;">**Oh, the deep blue water at the height of summer!**</span>
+<span style="font-size:1.2em;">**Oh, the deep blue water at the height&nbsp;of&nbsp;summer!**</span>
 
 We are midway in our crossing during our north-bound trade voyage.
 
@@ -83,7 +83,7 @@ KU-RJA-TE 　I-QE-(KO)-DA-TE　　 JE-(KO)-TU-TI　 I-QE-RA-NA-QA
 <br>
 
 <span style="font-size:1.2em;">**We hear our echo from the other side of the river (in the cave),<br>
-as the sound of the raft makes the cave resound.<br>
+as the sound of the raft makes the cave&nbsp;resound.<br>
 “Heave, ho,” brings back “Ho, heave”.<br><br>
 If the echo does not occur in reverse, we are not communicating.**</span>
 
@@ -99,23 +99,23 @@ RE-TWE　　I-KA-DWA- ZO-NA-RJU   JO-JE / 　I-QE-KU-RJA /
 
 <br>
 
-<span style="font-size:1.2em;">**The water (of the cave, of death) was talking to me.<br>
-If I come to a watery death, it's a plan (my fate).**</span>
+<span style="font-size:1.2em;">**The water (of the cave, of death) was talking&nbsp;to&nbsp;me.<br>
+If I come to a watery death, it's a plan (my&nbsp;fate).**</span>
 
 I-QE-KA-KA-TE-RAI-SWI  　SAKA-NA   I-QE-KU-RJA /
 池が語らいし　　　　　　　　「そうかな。池来りゃ、計略で」
 
 <br>
 
-<span style="font-size:1.2em;">**And the raft makes the cave resound. "Hey, yo!"<br>
-If you come to the lake (to your death), it's a trick.**</span>
+<span style="font-size:1.2em;">**And the raft makes the cave resound. "Hey,&nbsp;yo!"<br>
+If you come to the lake (to your death), it's&nbsp;a&nbsp;trick.**</span>
 
 I-KA-DWA- ZO-NA-RJU    JO-JE/ 　 　I-QE-KU-RJA/
 イカダが鳴り響く、お－い、い－よ、と。池来りゃ計略で。
 
 <br>
 
-<span style="font-size:1.2em;">**The lake's storytelling (echoes) is a game of (words). Damn it! We will go to hell. (And come on!)**</span>
+<span style="font-size:1.2em;">**The lake's storytelling (echoes) is a game of (words). Damn it! We will go to hell. (And&nbsp;come&nbsp;on!)**</span>
 
 I-QE- KA-TA-RA-RJU-KA   KE-RJU-(JU)-DA   KU-RJA-QE 
 池の語りは、　　　（言葉を）かける遊戯だ。　くらえ！（と来りゃ！）
@@ -314,7 +314,7 @@ Loren Heyns adds: Defeating the Minotaur (jumping the bull) was a forerunner to 
 ---
 <br>
 
-# Winter Trade in the Far South
+# Winter Trade in the&nbsp;Far&nbsp;South
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
 <a href="../img/phaistos/phaistos-disc-side-a.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-a.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
@@ -411,7 +411,7 @@ SA-TU-NWA-QE-RI　PI-AU-AU   　　/TI-DI-AU
 
 <br>
 
-<span style="font-size:1.2em;">**From my homeland, I take leave but I'll return.**</span>
+<span style="font-size:1.2em;">**From my homeland, I take leave but I'll&nbsp;return.**</span>
 
 QE-TU-E           /RJU-JE-PA-QE-RI
 へ　つ　え 　        ゆえ、帰り－いえ、帰る。
@@ -581,7 +581,7 @@ On one side appear to be the sun rising, bull horns, a path to follow that echoe
 
 <a href="/LinearA/img/phaistos/phaistos-whorl.png"><img src="/LinearA/img/phaistos/phaistos-whorl.png" style="width:100%;max-width:3000px"></a>  
 
-The word written on the early disc might be Telchinia (Calchinia), the name of the daughter of Leucippus (who only had a daughter). Only having a daughter could be associted to the greater likelihood native European men would conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). The isolated Eastern Europeans that migrated south into Greece may have also been more susceptible to diseases from the urban populations arriving by boat.
+The word written on the early disc might be Telchinia (Calchinia), the name of the daughter of Leucippus (who only had a daughter). Only having a daughter could be associted to the greater likelihood native European men would conceive daughters with the wave of women from the Levant (Druze in Lebanon), who also formed settlements in Spain and Italy. We explore this DNA incompatibility further in [Diamond Storms](https://dreamstudio.com/seasons/winter/diamond-storms/). The isolated Eastern Europeans that migrated south into Greece may have also been more susceptible to diseases from the urban populations arriving by&nbsp;boat.
 
 Talos and Telchinia, written in Semitic (Phoenician and Akkadian - Hebrew, Arabic, and Aramaic). Talos is the Sun, and the man of bronze, and Tauros. Zeus is called Talaios in Crete. As the protector, Talos made the circuit around Crete three times daily. We can infer this was a looping solar telegram process that transmitted in the morning, mid-day and before sunset via hill temples using the route drawn on side A.
 
