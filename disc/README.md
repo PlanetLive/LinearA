@@ -147,7 +147,7 @@ ZO-U-KA  　I-QE-KA-KA-TE-RAI-SWI   PA-JE     ZO-U-KA.
 ---
 <br>
 
-# Fall Returning South to Crete
+# Fall Returning South&nbsp;to&nbsp;Crete
 
 <div class="floatRight" style="margin-bottom:15px;max-width:500px;">
 <a href="../img/phaistos/phaistos-disc-side-b.jpg"><img src="/LinearA/img/phaistos/phaistos-disc-side-b.jpg" style="width:100%;max-width:3000px;border-radius:30px;"></a>  
@@ -162,15 +162,15 @@ I felt the soil myself.**</span>
 
 It's time for our return south,  
 the water in the port is at high tide.  
-I stayed on land - we docked the boat for a while.
+I stayed on land - we docked the boat&nbsp;for&nbsp;a&nbsp;while.
 
 I-QE-(MI)-TU-TI      　　KA-DI-TI-TE   
 （アテネの）池の満潮で/ 自ら土を　 感じてしまい　
 
 <br>
 
-<span style="font-size:1.2em;">**I don't want to go to school.<br>
-It's pathetic that he was left in despair.<br>
+<span style="font-size:1.2em;">**I don't want to go&nbsp;to&nbsp;school.<br>
+It's pathetic that he was left&nbsp;in&nbsp;despair.<br>
 I have good reasons to travel.<br>
 Why are you making fun of me?**</span>
 
@@ -195,9 +195,9 @@ PA-YE-RE-SA   SO-TI-PA-JE-RJU
 <br>
 
 <span style="font-size:1.2em;">**I don't like (that I have to leave),<br>
-it is a terrible story and brings me down.**</span>
+it is a terrible story and brings&nbsp;me&nbsp;down.**</span>
 
-Goodbye summer. "So long, Marianne," as Leonard Cohen would later sing in Greece.
+Goodbye summer. "So long, Marianne," as Leonard Cohen would later sing&nbsp;in&nbsp;Greece.
 
 (KI)-RAI-（ZE）-DWA  TI-E-TU-TE  I-RJA-NI-TU.
 きらいぜ　とは　　    ちえつて　　　いやにつ。
@@ -215,7 +215,7 @@ KA-DWA-QA-YE  AU-E-E-NE-TE　
 
 <br>
 
-<span style="font-size:1.2em;">**I know, please be discreet when you speak.**</span>
+<span style="font-size:1.2em;">**I know, please be discreet when&nbsp;you&nbsp;speak.**</span>
 
 Please be careful with your words.
 
@@ -253,7 +253,7 @@ AU-DI-TI /  　　　　(KI/MI)-AU-NI-TI-NO /
 <br>
 
 <span style="font-size:1.2em;">**At this time the small dragon (wooden boat) will travel away (scatter to heal).
-Find solace (I will return).**</span>
+Find solace (I&nbsp;will&nbsp;return).**</span>
 
 Dragon boats were built in the north where trees were plentiful.
 
@@ -289,7 +289,7 @@ PE-QUI-RE-RJU-TI
 <br>
 
 <span style="font-size:1.2em;">**I left the water.  I must stop here.<br>
-The big dipper (dragon boat) in the night sky (to the north) is the location of my father (and my goddess).**</span>
+The big dipper (dragon boat) in the night sky (to the north) is the location of my father (and&nbsp;my&nbsp;goddess).**</span>
 
 I've reached Crete or Africa. Looking back I see the big dipper in the north.
 
