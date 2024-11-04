@@ -5,7 +5,7 @@
 ## The Phaistos Disc - Mirror Network Cipher
 
 We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and family bonds](disc).
-View image at [dreamstudio.com/seasons/mirror-network](https://dreamstudio.com/seasons/mirror-network/).
+View images at [DreamStudio.com/seasons/mirror-network](https://dreamstudio.com/seasons/mirror-network/).
 
 The resulting seasonal story, deciphered from the FOUR sides of the disc, reveals the ocean trade network overseen by Aegean hill temples communicating with Egypt and Greece by "punting" signals between boats. &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which connected trade from Africa to Europe and Asia.
 
