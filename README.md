@@ -2,11 +2,12 @@
 
 <a href="https://github.com/planetLive/LinearA/" style="right:0;position:absolute;z-index:1">GitHub</a>
 
-## The Phaistos Disc - Deciphered!
+## The Phaistos Disc - Mirror Network Cipher
 
-We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and love](disc):
+We've combined three breakthroughs to unravel an ancient Minoan [story of sailing and family bonds](disc).
+View image at [dreamstudio.com/seasons/mirror-network](https://dreamstudio.com/seasons/mirror-network/).
 
-The resulting seasonal story - from the FOUR sides of the disc - is astounding! &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which connected trade from Africa to Europe and Asia.
+The resulting seasonal story, deciphered from the FOUR sides of the disc, reveals the ocean trade network overseen by Aegean hill temples communicating with Egypt and Greece by "punting" signals between boats. &nbsp;Each side is read in TWO directions, starting with summer (side A, clockwise, then flip to B, then side A again counter-clockwise). The practice of inverting phrases is called kaibun in Japanese - it's common and easy since characters represent vowel sounds.  The Japanese and Minoan spoken languages are similar to Indus Valley, Sri Lanka and Korea which were likely all participants in the mirror and drum trading network - which connected trade from Africa to Europe and Asia.
 
 Cracking the Linear A seasons of the disc was made possible by:
 1. The vocal values of Linear B applied to Linear A by [Gareth Owens](https://greekcitytimes.com/2024/02/09/phaistos-disc-mystery/).
