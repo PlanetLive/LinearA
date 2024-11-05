@@ -44,7 +44,7 @@ If vowels are represented in this cipher, they could occur in several ways.
 - In the first two columns as 5 or 6 vowel sounds.
 - In the cluster of 5 characters at the top including Ko.
 - From the center counter-clockwise ending with Ko.
-- Repeating multiple times whereever DA or another A sound occurs.
+- Repeating multiple times wherever DA or another A sound occurs.
 
 A common vowel order is A-I-U-E-O for syllables like Ka-Ki-Ku-Ke-Ko.
 あ /a/, い /i/, う /u/, え /e/, お /o/
