@@ -402,7 +402,7 @@ TE-RJA-KU   NE-RJU-KE-QE-RI　NO-(BEN)-KA　QE-TI-DI-KA
 
 <span style="font-size:1.2em;">**It’s hard to hold back tears, with mutual stress, and I need to trust myself now father.**</span>
 
-It will definitely make me cry, and it will make me feel bad for each other, so let's believe it. Oh, father
+It will definitely make me cry (the winter is harsh for my father), and separation will make us feel bad for each other, so let's believe it. Oh, father.
 
 SA-TU-NWA-QE-RI　PI-AU-AU   　　/TI-DI-AU
 さすがに泣ける　　　気負いあうので　信じよう－おお父
